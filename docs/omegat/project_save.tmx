@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>(&lt;g1&gt;Modified&lt;/g1&gt;
+premise)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T180825Z" creationid="chabulhwi" creationdate="20231027T170750Z">
+        <seg>(**수정된** 전제)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Assumption for
+&lt;g1&gt;reductio&lt;/g1&gt;)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T171636Z" creationid="chabulhwi" creationdate="20231027T170248Z">
+        <seg>(**귀류법**을 위한 가정)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(From (1) and (2).)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T181117Z" creationid="chabulhwi" creationdate="20231027T171021Z">
+        <seg>[(1)과 (2)에 따름]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(From (1), (5), (6).)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T181117Z" creationid="chabulhwi" creationdate="20231027T171350Z">
+        <seg>[(1), (5), (6)에 따름]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(From (3) and (4).)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T181117Z" creationid="chabulhwi" creationdate="20231027T171106Z">
+        <seg>[(3)과 (4)에 따름]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(From (7), (8).)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T181117Z" creationid="chabulhwi" creationdate="20231027T171507Z">
+        <seg>[(7), (8)에 따름]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(From the definition of
+“God”.)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T171232Z" creationid="chabulhwi" creationdate="20231027T171223Z">
+        <seg>('신'의 정의에 따라)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Premise)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T170320Z" creationid="chabulhwi" creationdate="20231027T170320Z">
+        <seg>(전제)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Premise, to which even the Fool
+agrees.)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T171447Z" creationid="chabulhwi" creationdate="20231027T171447Z">
+        <seg>(어리석은 이도 동의하는 전제)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(See &lt;g4&gt;9.1 Formulation 1 of the SEP entry "Ontological
+Arguments."&lt;/g4&gt;&lt;g5&gt;&lt;/g5&gt;&lt;e7/&gt;)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T181307Z" creationid="chabulhwi" creationdate="20231027T170158Z">
+        <seg>(&lt;g4&gt;스탠퍼드 철학 백과사전의 '존재론적 논증' 항목의 9.1 정식화 1&lt;/g4&gt;&lt;g5&gt;&lt;/g5&gt;&lt;e7/&gt;을 보십시오.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A being that exists in reality and can be conceived is greater than
+God.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T170935Z" creationid="chabulhwi" creationdate="20231027T170858Z">
+        <seg>현실에 존재하고 생각될 수 있는 존재자는 신보다 크다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Acknowledgements</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T173035Z" creationid="chabulhwi" creationdate="20231027T173035Z">
+        <seg>감사의 말</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alistair Tucker gave a
+comment on transcribing premise 3 of the original formulation by Alvin
+Plantinga.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T181750Z" creationid="chabulhwi" creationdate="20231027T174428Z">
+        <seg>앨리스터 터커는 앨빈 플랜팅아가 정식화한 원래 논증의 3단계를 린으로 옮겨 적은 제 방법을 논평했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eric Wieser found
+inconsistency in my first and second drafts.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T181211Z" creationid="chabulhwi" creationdate="20231027T174135Z">
+        <seg>에릭 비저는 제 초고와 둘째 원고에서 모순성을 찾아냈습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Existence in reality is greater than existence in the understanding
+alone.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T170315Z" creationid="chabulhwi" creationdate="20231027T170315Z">
+        <seg>현실에 존재함이 지성에만 존재함보다 크다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For this reason, I think St. Anselm's argument doesn't show God's
+existence.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T172957Z" creationid="chabulhwi" creationdate="20231027T172957Z">
+        <seg>이런 이유로, 저는 안셀무스의 논증이 신의 존재를 보이지 않는다고 생각합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>God exists in the understanding but not in reality.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T181345Z" creationid="chabulhwi" creationdate="20231027T170228Z">
+        <seg>신은 지성에 존재하지만, 현실에는 존재하지 않는다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>God exists in the understanding.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T171404Z" creationid="chabulhwi" creationdate="20231027T171404Z">
+        <seg>신은 지성에 존재한다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hence God exists in reality.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T171500Z" creationid="chabulhwi" creationdate="20231027T171500Z">
+        <seg>그러므로 신은 현실에 존재한다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hence, it is false that God exists in the understanding but not in
+reality.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T181441Z" creationid="chabulhwi" creationdate="20231027T171340Z">
+        <seg>그러므로 신이 지성에는 존재하지만 현실에는 존재하지 않는다는 것은 거짓이다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I think we can only conclude from St. Anselm's argument that the
+following statement is true:</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T172545Z" creationid="chabulhwi" creationdate="20231027T172426Z">
+        <seg>제가 보건대, 안셀무스의 논증에서 이끌어 낼 수 있는 결론은 다음 진술이 참이라는 것뿐입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'd like to thank Eric Wieser and Alistair Tucker.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T173722Z" creationid="chabulhwi" creationdate="20231027T173722Z">
+        <seg>에릭 비저와 앨리스터 터커에게 감사의 말씀을 드리고 싶습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to prove the
+existence of God in reality, you need to show that &lt;g1&gt;∃ (x : Being),
+isGod x ∧ inReality x&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T172857Z" creationid="chabulhwi" creationdate="20231027T172857Z">
+        <seg>신이 현실에 존재함을 증명하려면, &lt;g1&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g1&gt;임을 보여야 합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It merely says
+that if a being is God, it exists in reality.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T172822Z" creationid="chabulhwi" creationdate="20231027T172822Z">
+        <seg>어느 한 존재자가 신이면 그 존재자는 현실에 존재한다는 얘기만 할 뿐입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's a modified
+version of the formulation of St. Anselm's ontological argument by Alvin
+Plantinga.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T165813Z" creationid="chabulhwi" creationdate="20231027T165813Z">
+        <seg>이 파일은 앨빈 플랜팅아가 정식화한 안셀무스의 존재론적 논증을 수정한 버전입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No being greater than God can be conceived.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T171220Z" creationid="chabulhwi" creationdate="20231027T171220Z">
+        <seg>신보다 큰 어떤 존재자도 생각될 수 없다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Of course, I might have formalized it wrong.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T173014Z" creationid="chabulhwi" creationdate="20231027T173014Z">
+        <seg>물론 제가 안셀무스의 논증을 잘못 형식화했을 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reference</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T173018Z" creationid="chabulhwi" creationdate="20231027T173018Z">
+        <seg>참고 문헌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since God is the
+greatest being that can be conceived, God itself can be conceived.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T172334Z" creationid="chabulhwi" creationdate="20231027T172334Z">
+        <seg>신은 생각될 수 있는 가장 큰 존재자이므로, 신 그 자체는 생각될 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>St. Anselm's ontological argument</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T155824Z" creationid="chabulhwi" creationdate="20231027T155302Z">
+        <seg>안셀무스의 존재론적 논증</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 3 of the original formulation by Alvin Plantinga is the following
+premise: "A being having all of God’s properties plus existence in
+reality can be conceived." This premise is redundant.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T181750Z" creationid="chabulhwi" creationdate="20231027T172028Z">
+        <seg>앨빈 플랜팅아가 정식화한 원래 논증의 3단계는 다음 전제입니다. "신의 모든 속성을 갖고 현실에 존재하는 존재자는 생각될 수 있다." 이 전제는 불필요합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e6/&gt; file might be the first attempt in the Lean community to formalize an
+ontological argument for the existence of God in Lean.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T165436Z" creationid="chabulhwi" creationdate="20231027T164613Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e6/&gt; 파일이 아마 린 커뮤니티에서 신의 존재에 대한 존재론적 논증을 형식화하려는 첫 시도인 듯합니다.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There exists a being in reality that can be conceived.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T170643Z" creationid="chabulhwi" creationdate="20231027T170643Z">
+        <seg>생각될 수 있는 존재자가 현실에 존재한다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There exists a being that can be conceived and is greater than God.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T171045Z" creationid="chabulhwi" creationdate="20231027T171045Z">
+        <seg>생각될 수 있고 신보다 큰 존재자가 존재한다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, a being having all of God's properties can be conceived.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T172411Z" creationid="chabulhwi" creationdate="20231027T172352Z">
+        <seg>따라서 신의 모든 속성을 갖는 존재자는 생각될 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This theorem doesn't state that God exists in reality.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T172614Z" creationid="chabulhwi" creationdate="20231027T172614Z">
+        <seg>이 정리는 신이 현실에 존재한다고 진술하지 않습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can see my discussion with them in &lt;g1&gt;this link&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T174505Z" creationid="chabulhwi" creationdate="20231027T174505Z">
+        <seg>이분들과의 논의는 &lt;g1&gt;이 링크&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;에서 볼 수 있습니다.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

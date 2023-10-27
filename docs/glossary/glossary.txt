@@ -1,0 +1,34 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+St. Anselm	안셀무스
+ontological	존재론적
+argument	논증
+Lean	린
+Lean community	린 커뮤니티
+God	신
+Alvin Plantinga	앨빈 플랜팅아
+exist 존재하다
+existence	존재
+the understanding	지성
+reality	현실
+assumption	가정
+reductio	귀류법
+great 큰
+premise	전제
+being	존재자
+conceive	생각하다
+definition	정의
+false	거짓인
+formulate	정식화하다
+formulation	정식화
+formalize	형식화하다
+formalization	형식화
+property	속성
+redundant 불필요한
+state	진술하다
+statement	진술
+theorem	정리
+conclude	결론하다
+prove	증명하다
+SEP	스탠퍼드 철학 백과사전
+Eric Wieser	에릭 비저
+Alistair Tucker	앨리스터 터커
