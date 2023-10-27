@@ -33,7 +33,7 @@ URL = <https://plato.stanford.edu/archives/fall2023/entries/ontological-argument
 
 ## 감사의 말
 
-에릭 비저와 앨리스터 터커에게 감사의 말씀을 드리고 싶습니다. 에릭 비저는 제 초고와 둘째 원고에서 모순성을 찾아냈습니다. 앨리스터 터커는 앨빈 플랜팅아가 정식화한 원래 논증의 3단계를 린으로 옮겨 적은 제 방법을 논평했습니다. 이분들과의 논의는 [이 링크][2]에서 볼 수 있습니다.
+에릭 비저와 앨리스터 터커에게 감사의 말씀을 드리고 싶습니다. 에릭 비저는 제 초고와 둘째 원고에서 모순성을 찾아냈습니다. 앨리스터 터커는 앨빈 플랜팅아가 정식화한 원래 논증의 3단계를 린으로 옮길 방법을 논했습니다. 이분들과의 논의는 [이 링크][2]에서 볼 수 있습니다.
 
 [0]: ../../Notes/Anselm.lean
 [1]: https://plato.stanford.edu/entries/ontological-arguments/#StAnsOntArg
