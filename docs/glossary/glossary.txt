@@ -26,10 +26,17 @@ property	속성
 redundant 불필요한
 state	진술하다
 statement	진술
+axiom	공리
 theorem	정리
+theory	이론
 conclude	결론하다
 prove	증명하다
 SEP	스탠퍼드 철학 백과사전
 Eric Wieser	에릭 비저
 Alistair Tucker	앨리스터 터커
+philosophy	철학
 Owl of Sogang	서강올빼미
+type theory	유형론
+universe	level 유형 세계 변수
+type	유형
+instance	사례

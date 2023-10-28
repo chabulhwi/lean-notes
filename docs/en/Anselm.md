@@ -45,6 +45,19 @@ isGod x ∧ inReality x`.
 For this reason, I think St. Anselm's argument doesn't show God's
 existence. Of course, I might have formalized it wrong.
 
+## Theorem `Anselm.not_exists_int_isGod`
+
+A user named car_nap of Owl of Sogang, a Korean-speaking philosophy
+discussion forum, [pointed out][3] (in Korean) that I didn't prove that
+the statement `∃ (x : Being), isGod x ∧ inReality x` is not a theorem of
+a theory whose axioms are the premises of St. Anselm's argument (and the
+axioms of Lean's type theory).
+
+So I proved a theorem named `Anselm.not_exists_int_isGod`, which states
+that there exist a universe level `u`, a type `Being : Type u`, and an
+instance of `Anselm Being` where the statement `∃ (x : Being), isGod x`
+is false.
+
 ## Reference
 
 Oppy, Graham, "Ontological Arguments", *The Stanford Encyclopedia of
@@ -62,10 +75,7 @@ Plantinga. You can see my discussion with them in [this link][2].
 
 ### Owl of Sogang (서강올빼미)
 
-A user named car_nap [pointed out][3] (in Korean) that I didn't prove
-that the statement `∃ (x : Being), isGod x ∧ inReality x` is not a
-theorem of a theory whose axioms are the premises of St. Anselm's
-argument (and the axioms of Lean's type theory).
+I want to thank car_nap for raising the issue mentioned above.
 
 [0]: ../../Notes/Anselm.lean
 [1]: https://plato.stanford.edu/entries/ontological-arguments/#StAnsOntArg

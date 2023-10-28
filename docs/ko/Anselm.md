@@ -27,6 +27,12 @@ theorem isGod_inReality {x : Being} : isGod x → inReality x
 
 이런 이유로, 저는 안셀무스의 논증이 신의 존재를 보이지 않는다고 생각합니다. 물론 제가 안셀무스의 논증을 잘못 형식화했을 수 있습니다.
 
+## 정리 `Anselm.not_exists_int_isGod`
+
+`∃ (x : Being), isGod x ∧ inReality x`라는 진술은, 안셀무스가 제시한 논증의 전제(그리고 린의 유형론의 공리)로 공리계가 이뤄진 이론의 정리가 아님을 제가 증명하지 않았다는 [지적을 받았습니다][3]. 이 지적은 한국의 철학 포럼인 서강올빼미의 한 이용자 카르납(car_nap) 님이 했습니다.
+
+그래서 `Anselm.not_exists_int_isGod`이라는 정리를 증명했습니다. 이 정리는 `∃ (x : Being), isGod x`이라는 진술이 거짓인 유형 세계 단계 `u`, 유형 `Being : Type u` 그리고 `Anselm Being`의 사례[인스턴스]가 존재한다는 내용입니다.
+
 ## 참고 문헌
 
 Oppy, Graham, "Ontological Arguments", *The Stanford Encyclopedia of
@@ -41,7 +47,7 @@ URL = <https://plato.stanford.edu/archives/fall2023/entries/ontological-argument
 
 ### 서강올빼미
 
-`∃ (x : Being), isGod x ∧ inReality x`라는 진술은, 안셀무스가 제시한 논증의 전제(그리고 린의 유형론의 공리)로 공리계가 이뤄진 이론의 정리가 아님을 저는 증명하지 않았습니다. 카르납(car_nap)이라는 이용자가 이 점을 [지적했습니다][3].
+위에서 언급한 문제를 제기한 카르납 님에게 감사합니다.
 
 [0]: ../../Notes/Anselm.lean
 [1]: https://plato.stanford.edu/entries/ontological-arguments/#StAnsOntArg
