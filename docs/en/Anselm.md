@@ -73,7 +73,7 @@ inconsistency in my first and second drafts. Alistair Tucker gave a
 comment on transcribing premise 3 of the original formulation by Alvin
 Plantinga. You can see my discussion with them in [this link][2].
 
-### Owl of Sogang (서강올빼미)
+### Owl of Sogang
 
 I want to thank car_nap for raising the issue mentioned above.
 
