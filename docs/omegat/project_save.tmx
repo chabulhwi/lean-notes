@@ -100,6 +100,17 @@ God.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A user named car_nap &lt;g1&gt;pointed out&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt; that I didn't prove that the
+statement &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt; is not a theorem of a
+theory whose axioms are the premises of St. Anselm's argument (and the
+axioms of Lean's type theory).</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231028T101540Z" creationid="chabulhwi" creationdate="20231028T101158Z">
+        <seg>&lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt;라는 진술은 안셀무스의 논증에 있는 전제(그리고 린의 유형론의 공리)가 공리인 이론의 정리가 아님을 저는 증명하지 않았습니다. 카르납(car_nap)이라는 이용자가 이 점을 &lt;g1&gt;지적했습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Acknowledgements</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T173035Z" creationid="chabulhwi" creationdate="20231027T173035Z">
@@ -249,6 +260,14 @@ Plantinga.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Owl of Sogang</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231028T095753Z" creationid="chabulhwi" creationdate="20231028T095753Z">
+        <seg>서강올빼미</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reference</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T173018Z" creationid="chabulhwi" creationdate="20231027T173018Z">
@@ -290,6 +309,14 @@ ontological argument for the existence of God in Lean.</seg>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T165436Z" creationid="chabulhwi" creationdate="20231027T164613Z">
         <seg>&lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e6/&gt; 파일이 아마 린 커뮤니티에서 신의 존재에 대한 존재론적 논증을 형식화하려는 첫 시도인 듯합니다.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Lean community</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231028T095726Z" creationid="chabulhwi" creationdate="20231028T095726Z">
+        <seg>린 커뮤니티</seg>
       </tuv>
     </tu>
     <tu>

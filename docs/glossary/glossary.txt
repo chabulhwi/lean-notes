@@ -32,3 +32,4 @@ prove	증명하다
 SEP	스탠퍼드 철학 백과사전
 Eric Wieser	에릭 비저
 Alistair Tucker	앨리스터 터커
+Owl of Sogang	서강올빼미

@@ -35,8 +35,15 @@ URL = <https://plato.stanford.edu/archives/fall2023/entries/ontological-argument
 
 ## 감사의 말
 
+### 린 커뮤니티
+
 에릭 비저와 앨리스터 터커에게 감사의 말씀을 드리고 싶습니다. 에릭 비저는 제 초고와 둘째 원고에서 모순성을 찾아냈습니다. 앨리스터 터커는 앨빈 플랜팅아가 정식화한 원래 논증의 3단계를 린으로 옮길 방법을 논했습니다. 이분들과의 논의는 [이 링크][2]에서 볼 수 있습니다.
+
+### 서강올빼미
+
+`∃ (x : Being), isGod x ∧ inReality x`라는 진술은 안셀무스의 논증에 있는 전제(그리고 린의 유형론의 공리)가 공리인 이론의 정리가 아님을 저는 증명하지 않았습니다. 카르납(car_nap)이라는 이용자가 이 점을 [지적했습니다][3].
 
 [0]: ../../Notes/Anselm.lean
 [1]: https://plato.stanford.edu/entries/ontological-arguments/#StAnsOntArg
 [2]: https://leanprover.zulipchat.com/#narrow/stream/113488-general/topic/Formalizing.20St.2E.20Anselm's.20ontological.20argument/near/39867934
+[3]: https://forum.owlofsogang.com/t/lean/3613/9

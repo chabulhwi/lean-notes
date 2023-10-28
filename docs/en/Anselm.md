@@ -53,11 +53,21 @@ URL = <https://plato.stanford.edu/archives/fall2023/entries/ontological-argument
 
 ## Acknowledgements
 
+### The Lean community
+
 I'd like to thank Eric Wieser and Alistair Tucker. Eric Wieser found
 inconsistency in my first and second drafts. Alistair Tucker gave a
 comment on transcribing premise 3 of the original formulation by Alvin
 Plantinga. You can see my discussion with them in [this link][2].
 
+### Owl of Sogang
+
+A user named car_nap [pointed out][3] that I didn't prove that the
+statement `∃ (x : Being), isGod x ∧ inReality x` is not a theorem of a
+theory whose axioms are the premises of St. Anselm's argument (and the
+axioms of Lean's type theory).
+
 [0]: ../../Notes/Anselm.lean
 [1]: https://plato.stanford.edu/entries/ontological-arguments/#StAnsOntArg
 [2]: https://leanprover.zulipchat.com/#narrow/stream/113488-general/topic/Formalizing.20St.2E.20Anselm's.20ontological.20argument/near/39867934
+[3]: https://forum.owlofsogang.com/t/lean/3613/9
