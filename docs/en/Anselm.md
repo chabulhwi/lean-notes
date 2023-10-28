@@ -30,8 +30,8 @@ reality can be conceived." This premise is redundant. Since God is the
 greatest being that can be conceived, God itself can be conceived.
 Therefore, a being having all of God's properties can be conceived.
 
-I think we can only conclude from St. Anselm's argument that the
-following statement is true:
+I think the conclusion of St. Anselm's argument is the following
+statement:
 
 ```lean
 theorem isGod_inReality {x : Being} : isGod x → inReality x
