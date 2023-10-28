@@ -32,9 +32,11 @@ Therefore, a being having all of God's properties can be conceived.
 
 I think we can only conclude from St. Anselm's argument that the
 following statement is true:
+
 ```lean
 theorem isGod_inReality {x : Being} : isGod x → inReality x
 ```
+
 This theorem doesn't state that God exists in reality. It merely says
 that if a being is God, it exists in reality. In order to prove the
 existence of God in reality, you need to show that `∃ (x : Being),
