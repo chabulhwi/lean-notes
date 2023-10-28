@@ -60,12 +60,12 @@ inconsistency in my first and second drafts. Alistair Tucker gave a
 comment on transcribing premise 3 of the original formulation by Alvin
 Plantinga. You can see my discussion with them in [this link][2].
 
-### Owl of Sogang
+### Owl of Sogang (서강올빼미)
 
-A user named car_nap [pointed out][3] that I didn't prove that the
-statement `∃ (x : Being), isGod x ∧ inReality x` is not a theorem of a
-theory whose axioms are the premises of St. Anselm's argument (and the
-axioms of Lean's type theory).
+A user named car_nap [pointed out][3] (in Korean) that I didn't prove
+that the statement `∃ (x : Being), isGod x ∧ inReality x` is not a
+theorem of a theory whose axioms are the premises of St. Anselm's
+argument (and the axioms of Lean's type theory).
 
 [0]: ../../Notes/Anselm.lean
 [1]: https://plato.stanford.edu/entries/ontological-arguments/#StAnsOntArg
