@@ -1,3 +1,4 @@
+import Mathlib.Init.Data.Int.CompLemmas
 import Mathlib.Order.Basic
 
 section
@@ -38,6 +39,8 @@ class Anselm (Being : Type u) extends PartialOrder Being where
 
 namespace Anselm
 
+section
+
 variable {Being : Type u} [Anselm Being]
 
 def isGod (x : Being) := isMax x conceivable
@@ -60,5 +63,33 @@ theorem isGod_inReality {x : Being} (hgx : isGod x) : inReality x := by
 
 #print axioms isGod_inReality
 -- 'Anselm.isGod_inReality' depends on axioms: [Classical.choice, Quot.sound, propext]
+
+end
+
+section
+
+local instance : Anselm ℤ where
+  conceivable := fun _ ↦ True
+  inUnderstanding := fun _ ↦ True
+  inReality := fun
+    | .ofNat _ => True
+    | .negSucc _ => False
+  lt_of_inUnderstanding_not_inReality_inReality {_ _ : ℤ} := by
+    repeat (first | simp | split <;> simp [not_true, not_false])
+    rename_i n _ m
+    calc
+      -(n + 1) < (0 : ℤ) := Int.negSucc_lt_zero n
+      0 ≤ ↑m := Int.zero_le_ofNat m
+  isMax_conceivable_inUnderstanding := by simp
+  exists_conceivable_and_inReality := by exists 0
+
+private theorem not_exists_int_isGod : ¬ ∃ (a : ℤ), isGod a := by
+  intro hex
+  rcases hex with ⟨god, _hcg, hleg⟩
+  have god_lt_succ_god : god < god + 1 := Int.lt_succ god
+  have succ_god_le_god : god + 1 ≤ god := hleg (god + 1) trivial
+  exact not_le_of_lt god_lt_succ_god succ_god_le_god
+
+end
 
 end Anselm
