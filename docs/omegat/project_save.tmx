@@ -105,8 +105,8 @@ that the statement &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt;
 theorem of a theory whose axioms are the premises of St. Anselm's
 argument (and the axioms of Lean's type theory).</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20231028T105823Z" creationid="chabulhwi" creationdate="20231028T105823Z">
-        <seg>&lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt;라는 진술은 안셀무스의 논증에 있는 전제(그리고 린의 유형론의 공리)가 공리인 이론의 정리가 아님을 저는 증명하지 않았습니다. 카르납(car_nap)이라는 이용자가 이 점을 &lt;g1&gt;지적했습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231028T123242Z" creationid="chabulhwi" creationdate="20231028T105823Z">
+        <seg>&lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt;라는 진술은, 안셀무스가 제시한 논증의 전제(그리고 린의 유형론의 공리)로 공리계가 이뤄진 이론의 정리가 아님을 저는 증명하지 않았습니다. 카르납(car_nap)이라는 이용자가 이 점을 &lt;g1&gt;지적했습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -143,8 +143,8 @@ Plantinga.</seg>
         <seg>Eric Wieser found
 inconsistency in my first and second drafts.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T181211Z" creationid="chabulhwi" creationdate="20231027T174135Z">
-        <seg>에릭 비저는 제 초고와 둘째 원고에서 모순성을 찾아냈습니다.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231028T122532Z" creationid="chabulhwi" creationdate="20231027T174135Z">
+        <seg>에릭 비저는 제 초고와 둘째 원고의 모순성을 찾아냈습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -203,8 +203,8 @@ reality.</seg>
         <seg>I think the conclusion of St. Anselm's argument is the following
 statement:</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20231028T073154Z" creationid="chabulhwi" creationdate="20231028T073154Z">
-        <seg>제가 보건대, 안셀무스가 제시한 논증의 결론은 다음과 같습니다.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231028T123108Z" creationid="chabulhwi" creationdate="20231028T073154Z">
+        <seg>제가 보건대, 안셀무스가 제시한 논증의 결론은 다음 진술과 같습니다.</seg>
       </tuv>
     </tu>
     <tu>
