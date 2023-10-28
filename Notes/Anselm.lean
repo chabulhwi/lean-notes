@@ -2,7 +2,7 @@ import Mathlib.Order.Basic
 
 section
 
-variable {α : Type u} [LinearOrder α]
+variable {α : Type u} [PartialOrder α]
 
 def isMax (x : α) (p : α → Prop) := p x ∧ ∀ (y : α), p y → y ≤ x
 
@@ -17,7 +17,7 @@ theorem isMax_mt {x y : α} (p : α → Prop) (hmx : isMax x p) (hlt : x < y) : 
 
 end
 
-theorem isMax_property (α : Type u) [LinearOrder α] {x : α} (p q : α → Prop) (hmx : isMax x p)
+theorem isMax_property (α : Type u) [PartialOrder α] {x : α} (p q : α → Prop) (hmx : isMax x p)
     (hlt : ∀ {y : α}, ¬ q x → q y → x < y) (hex : ∃ (y : α), p y ∧ q y) : q x := by
   have hnnqx : ¬¬ q x := by
     intro hnqx
@@ -27,7 +27,7 @@ theorem isMax_property (α : Type u) [LinearOrder α] {x : α} (p q : α → Pro
     exact not_le_of_lt x_lt_y y_le_x
   exact of_not_not hnnqx
 
-class Anselm (Being : Type u) extends LinearOrder Being where
+class Anselm (Being : Type u) extends PartialOrder Being where
   conceivable : Being → Prop
   inUnderstanding : Being → Prop
   inReality : Being → Prop
