@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>#theorem-anselmnot_exists_int_isgod</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T054308Z" creationid="chabulhwi" creationdate="20231029T054308Z">
+        <seg>#정리-anselmnot_exists_int_isgod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(&lt;g1&gt;Modified&lt;/g1&gt;
 premise)</seg>
       </tuv>
@@ -96,6 +104,43 @@ Arguments."&lt;/g4&gt;&lt;g5&gt;&lt;/g5&gt;&lt;e7/&gt;)</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T181307Z" creationid="chabulhwi" creationdate="20231027T170158Z">
         <seg>(&lt;g4&gt;스탠퍼드 철학 백과사전의 '존재론적 논증' 항목의 9.1 정식화 1&lt;/g4&gt;&lt;g5&gt;&lt;/g5&gt;&lt;e7/&gt;을 보십시오.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(See &lt;g6&gt;9.1 Formulation 1 of the
+SEP entry "Ontological Arguments."&lt;/g6&gt;&lt;g7&gt;&lt;/g7&gt;&lt;e9/&gt;)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T052534Z" creationid="chabulhwi" creationdate="20231029T052534Z">
+        <seg>(&lt;g4&gt;스탠퍼드 철학 백과사전의 '존재론적 논증' 항목의 9.1 정식화 1&lt;/g4&gt;&lt;g5&gt;&lt;/g5&gt;&lt;e7/&gt;을 보십시오.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(See &lt;g8&gt;9.1
+Formulation 1 of the SEP entry "Ontological Arguments."&lt;/g8&gt;&lt;g9&gt;&lt;/g9&gt;&lt;e12/&gt;)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T055754Z" creationid="chabulhwi" creationdate="20231029T055754Z">
+        <seg>(&lt;g8&gt;스탠퍼드 철학 백과사전의 '존재론적 논증' 항목의 9.1 정식화 1&lt;/g8&gt;&lt;g9&gt;&lt;/g9&gt;&lt;e12/&gt;을 보십시오.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(See &lt;g8&gt;9.1
+Formulation 1&lt;/g8&gt;&lt;g9&gt;&lt;/g9&gt;&lt;e13/&gt; of the SEP entry &lt;g10&gt;"Ontological
+Arguments."&lt;/g10&gt;)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T060431Z" creationid="chabulhwi" creationdate="20231029T060401Z">
+        <seg>(스탠퍼드 철학 백과사전의 ['존재론적 논증'](#참고-문헌) 항목의 &lt;g8&gt;9.1 정식화 1&lt;/g8&gt;&lt;g9&gt;&lt;/g9&gt;&lt;e13/&gt;을 보십시오.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(See &lt;g8&gt;plantinga Formulation 1 of the
+SEP entry "Ontological Arguments."&lt;/g8&gt;&lt;g9&gt;&lt;/g9&gt;&lt;e12/&gt;)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T054101Z" creationid="chabulhwi" creationdate="20231029T054101Z">
+        <seg>(&lt;g8&gt;스탠퍼드 철학 백과사전의 '존재론적 논증' 항목의 9.1 정식화 1&lt;/g8&gt;&lt;g9&gt;&lt;/g9&gt;&lt;e12/&gt;을 보십시오.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -249,10 +294,18 @@ following statement is true:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I want to thank car_nap for raising &lt;a0&gt;the issue mentioned above&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T054329Z" creationid="chabulhwi" creationdate="20231029T054204Z">
+        <seg>&lt;a0&gt;위에서 언급한 문제&lt;/a0&gt;를 제기한 카르납 님에게 감사합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I want to thank car_nap for raising &lt;g1&gt;the issue mentioned
 above&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T033159Z" creationid="chabulhwi" creationdate="20231029T033121Z">
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T054954Z" creationid="chabulhwi" creationdate="20231029T033121Z">
         <seg>[위에서 언급한 문제](#정리-anselmnot_exists_int_isgod)를 제기한 카르납 님에게 감사합니다.</seg>
       </tuv>
     </tu>
@@ -298,6 +351,24 @@ version of the formulation of St. Anselm's ontological argument by Alvin
 Plantinga.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T165813Z" creationid="chabulhwi" creationdate="20231027T165813Z">
+        <seg>이 파일은 앨빈 플랜팅아가 정식화한 안셀무스의 존재론적 논증을 수정한 버전입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's a modified version of the formulation of
+St. Anselm's ontological argument by Alvin Plantinga.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T055718Z" creationid="chabulhwi" creationdate="20231029T055718Z">
+        <seg>이 파일은 앨빈 플랜팅아가 정식화한 안셀무스의 존재론적 논증을 수정한 버전입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's a modified version of the formulation of St. Anselm's
+ontological argument by Alvin Plantinga.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T052530Z" creationid="chabulhwi" creationdate="20231029T052530Z">
         <seg>이 파일은 앨빈 플랜팅아가 정식화한 안셀무스의 존재론적 논증을 수정한 버전입니다.</seg>
       </tuv>
     </tu>
@@ -390,6 +461,36 @@ reality can be conceived." This premise is redundant.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e10/&gt; file might be the &lt;x4/&gt;&lt;g5&gt;first&lt;/g5&gt;&lt;g6&gt;&lt;/g6&gt;&lt;e11/&gt;&lt;x7/&gt; second attempt
+in the Lean community to formalize an ontological argument for the
+existence of God in Lean.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T055712Z" creationid="chabulhwi" creationdate="20231029T055712Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e10/&gt; 파일이 아마 린 커뮤니티에서 신의 존재에 대한 존재론적 논증을 형식화하려는 &lt;x4/&gt;&lt;g5&gt;첫 번째&lt;/g5&gt;&lt;g6&gt;&lt;/g6&gt;&lt;e11/&gt;&lt;x7/&gt; 두 번째 시도인 듯합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e10/&gt; file might be the &lt;x4/&gt;&lt;g5&gt;first&lt;/g5&gt;&lt;g6&gt;&lt;/g6&gt;&lt;e11/&gt;&lt;x7/&gt; second attempt in the Lean
+community to formalize an ontological argument for the existence of God
+in Lean.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T054033Z" creationid="chabulhwi" creationdate="20231029T053509Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e10/&gt; 파일이 아마 린 커뮤니티에서 신의 존재에 대한 존재론적 논증을 형식화하려는 &lt;x4/&gt;&lt;g5&gt;첫 번째&lt;/g5&gt;&lt;g6&gt;&lt;/g6&gt;&lt;e11/&gt;&lt;x7/&gt; 두 번째 시도인 듯합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e11/&gt; file might be the &lt;x4/&gt;&lt;g5&gt;first&lt;/g5&gt;&lt;g6&gt;&lt;/g6&gt;&lt;e12/&gt;&lt;x7/&gt; second attempt
+in the Lean community to formalize an ontological argument for the
+existence of God in Lean.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T060320Z" creationid="chabulhwi" creationdate="20231029T060320Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e11/&gt; 파일이 아마 린 커뮤니티에서 신의 존재에 대한 존재론적 논증을 형식화하려는 &lt;x4/&gt;&lt;g5&gt;첫 번째&lt;/g5&gt;&lt;g6&gt;&lt;/g6&gt;&lt;e12/&gt;&lt;x7/&gt; 두 번째 시도인 듯합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e6/&gt; file might be the first attempt in the Lean community
 to formalize an ontological argument for the existence of God in Lean.</seg>
       </tuv>
@@ -405,6 +506,17 @@ ontological argument for the existence of God in Lean.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T165436Z" creationid="chabulhwi" creationdate="20231027T164613Z">
         <seg>&lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e6/&gt; 파일이 아마 린 커뮤니티에서 신의 존재에 대한 존재론적 논증을 형식화하려는 첫 시도인 듯합니다.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e8/&gt; file might be the &lt;x4/&gt;first&lt;x5/&gt; second attempt in the Lean
+community to formalize an ontological argument for the existence of God
+in Lean.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T052527Z" creationid="chabulhwi" creationdate="20231029T052527Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e6/&gt; 파일이 아마 린 커뮤니티에서 신의 존재에 대한 존재론적 논증을 형식화하려는 &lt;x4/&gt;첫 번째&lt;x5/&gt; 두 번째 시도인 듯합니다.
 </seg>
       </tuv>
     </tu>

@@ -1,10 +1,11 @@
 # St. Anselm's ontological argument
 
-The [`Anselm`][0] file might be the first attempt in the Lean community
-to formalize an ontological argument for the existence of God in Lean.
-It's a modified version of the formulation of St. Anselm's ontological
-argument by Alvin Plantinga. (See [9.1 Formulation 1 of the SEP entry
-"Ontological Arguments."][1])
+The [`Anselm`][anselm] file might be the ~~[first][fst]~~ second attempt
+in the Lean community to formalize an ontological argument for the
+existence of God in Lean. It's a modified version of the formulation of
+St. Anselm's ontological argument by Alvin Plantinga. (See [9.1
+Formulation 1][plantinga] of the SEP entry ["Ontological
+Arguments."](#reference))
 
 1. God exists in the understanding but not in reality. (Assumption for
    *reductio*)
@@ -48,7 +49,7 @@ existence. Of course, I might have formalized it wrong.
 ## Theorem `Anselm.not_exists_int_isGod`
 
 A user named car_nap of Owl of Sogang, a Korean-speaking philosophy
-discussion forum, [pointed out][3] (in Korean) that I didn't prove that
+discussion forum, [pointed out][owl] (in Korean) that I didn't prove that
 the statement `∃ (x : Being), isGod x ∧ inReality x` is not a theorem of
 a theory whose axioms are the premises of St. Anselm's argument (and the
 axioms of Lean's type theory).
@@ -71,9 +72,9 @@ URL = <https://plato.stanford.edu/archives/fall2023/entries/ontological-argument
 I'd like to thank Eric Wieser and Alistair Tucker. Eric Wieser found
 inconsistency in my first and second drafts. Alistair Tucker gave a
 comment on transcribing premise 3 of the original formulation by Alvin
-Plantinga. You can see my discussion with them in [this link][2].
+Plantinga. You can see my discussion with them in [this link][leanzulip].
 
-Alistair Tucker also [told me][4] how to prove that we can't deduce the
+Alistair Tucker also [told me][tucker] how to prove that we can't deduce the
 statement `∃ (x : Being), isGod x ∧ inReality x` from the premises of
 St. Anselm's argument and the axioms of Lean's type theory.
 
@@ -82,8 +83,9 @@ St. Anselm's argument and the axioms of Lean's type theory.
 I want to thank car_nap for raising [the issue mentioned
 above](#theorem-anselmnot_exists_int_isgod).
 
-[0]: ../../Notes/Anselm.lean
-[1]: https://plato.stanford.edu/entries/ontological-arguments/#StAnsOntArg
-[2]: https://leanprover.zulipchat.com/#narrow/stream/113488-general/topic/Formalizing.20St.2E.20Anselm's.20ontological.20argument/near/39867934
-[3]: https://forum.owlofsogang.com/t/lean/3613/9
-[4]: https://leanprover.zulipchat.com/#narrow/stream/116395-maths/topic/how.20do.20I.20say.20.22a.20sentence.20is.20a.20theorem.20of.20a.20theory.22.20in.20lean.3F/near/399042805
+[anselm]: ../../Notes/Anselm.lean
+[fst]: https://github.com/forked-from-1kasper/ground_zero/blob/9f83f7c6224eee8905b16aeebc4c234b4b216031/GroundZero/Theorems/Ontological.lean#L520-L521
+[plantinga]: https://plato.stanford.edu/entries/ontological-arguments/#StAnsOntArg
+[owl]: https://forum.owlofsogang.com/t/lean/3613/9
+[leanzulip]: https://leanprover.zulipchat.com/#narrow/stream/113488-general/topic/Formalizing.20St.2E.20Anselm's.20ontological.20argument/near/39867934
+[tucker]: https://leanprover.zulipchat.com/#narrow/stream/116395-maths/topic/how.20do.20I.20say.20.22a.20sentence.20is.20a.20theorem.20of.20a.20theory.22.20in.20lean.3F/near/399042805
