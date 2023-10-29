@@ -1,10 +1,10 @@
 # St. Anselm's ontological argument
 
-The [`Anselm`][0] file might be the first attempt in the Lean community to formalize an
-ontological argument for the existence of God in Lean. It's a modified
-version of the formulation of St. Anselm's ontological argument by Alvin
-Plantinga. (See [9.1 Formulation 1 of the SEP entry "Ontological
-Arguments."][1])
+The [`Anselm`][0] file might be the first attempt in the Lean community
+to formalize an ontological argument for the existence of God in Lean.
+It's a modified version of the formulation of St. Anselm's ontological
+argument by Alvin Plantinga. (See [9.1 Formulation 1 of the SEP entry
+"Ontological Arguments."][1])
 
 1. God exists in the understanding but not in reality. (Assumption for
    *reductio*)

@@ -82,6 +82,15 @@ agrees.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(See &lt;g4&gt;9.1 Formulation 1 of the SEP entry
+"Ontological Arguments."&lt;/g4&gt;&lt;g5&gt;&lt;/g5&gt;&lt;e7/&gt;)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T051507Z" creationid="chabulhwi" creationdate="20231029T051507Z">
+        <seg>(&lt;g4&gt;스탠퍼드 철학 백과사전의 '존재론적 논증' 항목의 9.1 정식화 1&lt;/g4&gt;&lt;g5&gt;&lt;/g5&gt;&lt;e7/&gt;을 보십시오.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(See &lt;g4&gt;9.1 Formulation 1 of the SEP entry "Ontological
 Arguments."&lt;/g4&gt;&lt;g5&gt;&lt;/g5&gt;&lt;e7/&gt;)</seg>
       </tuv>
@@ -294,6 +303,15 @@ Plantinga.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It's a modified version of the formulation of St. Anselm's ontological
+argument by Alvin Plantinga.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T051502Z" creationid="chabulhwi" creationdate="20231029T051502Z">
+        <seg>이 파일은 앨빈 플랜팅아가 정식화한 안셀무스의 존재론적 논증을 수정한 버전입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No being greater than God can be conceived.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T171220Z" creationid="chabulhwi" creationdate="20231027T171220Z">
@@ -368,6 +386,16 @@ reality can be conceived." This premise is redundant.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T181750Z" creationid="chabulhwi" creationdate="20231027T172028Z">
         <seg>앨빈 플랜팅아가 정식화한 원래 논증의 3단계는 다음 전제입니다. "신의 모든 속성을 갖고 현실에 존재하는 존재자는 생각될 수 있다." 이 전제는 불필요합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e6/&gt; file might be the first attempt in the Lean community
+to formalize an ontological argument for the existence of God in Lean.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T051447Z" creationid="chabulhwi" creationdate="20231029T051447Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e6/&gt; 파일이 아마 린 커뮤니티에서 신의 존재에 대한 존재론적 논증을 형식화하려는 첫 시도인 듯합니다.
+</seg>
       </tuv>
     </tu>
     <tu>
