@@ -146,8 +146,8 @@ axioms of Lean's type theory).</seg>
 statement &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt; from the premises of
 St. Anselm's argument and the axioms of Lean's type theory.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T032108Z" creationid="chabulhwi" creationdate="20231029T032108Z">
-        <seg>안셀무스가 제시한 논증의 전제와 린의 유형론의 공리에서 &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt;라는 진술을 도출할 수 없음을 증명하는 방법은 앨리스터 터커가 제게 &lt;g1&gt;알려 줬습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T034707Z" creationid="chabulhwi" creationdate="20231029T032108Z">
+        <seg>안셀무스가 제시한 논증의 전제와 린의 유형론의 공리에서 &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt;라는 진술을 도출할 수 없음을 증명하는 방법은 앨리스터 터커 님이 제게 &lt;g1&gt;알려 줬습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -156,8 +156,8 @@ St. Anselm's argument and the axioms of Lean's type theory.</seg>
 comment on transcribing premise 3 of the original formulation by Alvin
 Plantinga.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T193720Z" creationid="chabulhwi" creationdate="20231027T174428Z">
-        <seg>앨리스터 터커는 앨빈 플랜팅아가 정식화한 원래 논증의 3단계를 린으로 옮길 방법을 논했습니다.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T034658Z" creationid="chabulhwi" creationdate="20231027T174428Z">
+        <seg>앨리스터 터커 님은 앨빈 플랜팅아가 정식화한 원래 논증의 3단계를 린으로 옮길 방법을 논했습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -165,8 +165,8 @@ Plantinga.</seg>
         <seg>Eric Wieser found
 inconsistency in my first and second drafts.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20231028T122532Z" creationid="chabulhwi" creationdate="20231027T174135Z">
-        <seg>에릭 비저는 제 초고와 둘째 원고의 모순성을 찾아냈습니다.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T034614Z" creationid="chabulhwi" creationdate="20231027T174135Z">
+        <seg>에릭 비저 님은 제 초고와 둘째 원고의 모순성을 찾아냈습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -259,8 +259,8 @@ above&lt;/g1&gt;.</seg>
       <tuv lang="en">
         <seg>I'd like to thank Eric Wieser and Alistair Tucker.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T173722Z" creationid="chabulhwi" creationdate="20231027T173722Z">
-        <seg>에릭 비저와 앨리스터 터커에게 감사의 말씀을 드리고 싶습니다.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T034640Z" creationid="chabulhwi" creationdate="20231027T173722Z">
+        <seg>에릭 비저 님과 앨리스터 터커 님에게 감사의 말씀을 드리고 싶습니다.</seg>
       </tuv>
     </tu>
     <tu>
