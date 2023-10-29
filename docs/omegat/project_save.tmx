@@ -230,6 +230,15 @@ following statement is true:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I want to thank car_nap for raising &lt;g1&gt;the issue mentioned
+above&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T033159Z" creationid="chabulhwi" creationdate="20231029T033121Z">
+        <seg>[위에서 언급한 문제](#정리-anselmnot_exists_int_isgod)를 제기한 카르납 님에게 감사합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I want to thank car_nap for raising the issue mentioned above.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231028T173600Z" creationid="chabulhwi" creationdate="20231028T173352Z">

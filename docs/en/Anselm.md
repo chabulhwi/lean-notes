@@ -75,7 +75,8 @@ Plantinga. You can see my discussion with them in [this link][2].
 
 ### Owl of Sogang
 
-I want to thank car_nap for raising the issue mentioned above.
+I want to thank car_nap for raising [the issue mentioned
+above](#theorem-anselmnot_exists_int_isgod).
 
 [0]: ../../Notes/Anselm.lean
 [1]: https://plato.stanford.edu/entries/ontological-arguments/#StAnsOntArg

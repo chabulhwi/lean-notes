@@ -47,7 +47,7 @@ URL = <https://plato.stanford.edu/archives/fall2023/entries/ontological-argument
 
 ### 서강올빼미
 
-위에서 언급한 문제를 제기한 카르납 님에게 감사합니다.
+[위에서 언급한 문제](#정리-anselmnot_exists_int_isgod)를 제기한 카르납 님에게 감사합니다.
 
 [0]: ../../Notes/Anselm.lean
 [1]: https://plato.stanford.edu/entries/ontological-arguments/#StAnsOntArg
