@@ -30,7 +30,7 @@ theorem isGod_inReality {x : Being} : isGod x → inReality x
 
 `∃ (x : Being), isGod x ∧ inReality x`라는 진술은, 안셀무스가 제시한 논증의 전제(그리고 린의 유형론의 공리)로 공리계가 이뤄진 이론의 정리가 아님을 제가 증명하지 않았다는 [지적을 받았습니다][owl]. 이 지적은 한국의 철학 포럼인 서강올빼미의 한 이용자 카르납(car_nap) 님이 했습니다.
 
-그래서 `Anselm.not_exists_int_isGod`이라는 정리를 증명했습니다. 이 정리는 `∃ (x : Being), isGod x`이라는 진술이 거짓인 유형 세계 단계 `u`, 유형 `Being : Type u` 그리고 `Anselm Being`의 사례[인스턴스]가 존재한다는 내용입니다.
+그래서 `Anselm.not_exists_int_isGod`이라는 정리를 증명했습니다. 이 정리는 `∃ (x : Being), isGod x`이라는 진술이 거짓인 유형 세계 단계 `u`, 유형 `Being : Type u` 그리고 `Anselm Being`의 사례[인스턴스]가 존재함을 보여 줍니다.
 
 ## 참고 문헌
 

@@ -54,7 +54,7 @@ the statement `∃ (x : Being), isGod x ∧ inReality x` is not a theorem of
 a theory whose axioms are the premises of St. Anselm's argument (and the
 axioms of Lean's type theory).
 
-So I proved a theorem named `Anselm.not_exists_int_isGod`, which states
+So I proved a theorem named `Anselm.not_exists_int_isGod`, which shows
 that there exist a universe level `u`, a type `Being : Type u`, and an
 instance of `Anselm Being` where the statement `∃ (x : Being), isGod x`
 is false.
