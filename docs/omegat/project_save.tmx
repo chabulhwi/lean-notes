@@ -142,6 +142,16 @@ axioms of Lean's type theory).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alistair Tucker also &lt;g1&gt;told me&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt; how to prove that we can't deduce the
+statement &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt; from the premises of
+St. Anselm's argument and the axioms of Lean's type theory.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T032108Z" creationid="chabulhwi" creationdate="20231029T032108Z">
+        <seg>안셀무스가 제시한 논증의 전제와 린의 유형론의 공리에서 &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt;라는 진술을 도출할 수 없음을 증명하는 방법은 앨리스터 터커가 제게 &lt;g1&gt;알려 줬습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alistair Tucker gave a
 comment on transcribing premise 3 of the original formulation by Alvin
 Plantinga.</seg>

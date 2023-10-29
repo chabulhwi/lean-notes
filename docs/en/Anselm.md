@@ -73,6 +73,10 @@ inconsistency in my first and second drafts. Alistair Tucker gave a
 comment on transcribing premise 3 of the original formulation by Alvin
 Plantinga. You can see my discussion with them in [this link][2].
 
+Alistair Tucker also [told me][4] how to prove that we can't deduce the
+statement `∃ (x : Being), isGod x ∧ inReality x` from the premises of
+St. Anselm's argument and the axioms of Lean's type theory.
+
 ### Owl of Sogang
 
 I want to thank car_nap for raising [the issue mentioned
@@ -82,3 +86,4 @@ above](#theorem-anselmnot_exists_int_isgod).
 [1]: https://plato.stanford.edu/entries/ontological-arguments/#StAnsOntArg
 [2]: https://leanprover.zulipchat.com/#narrow/stream/113488-general/topic/Formalizing.20St.2E.20Anselm's.20ontological.20argument/near/39867934
 [3]: https://forum.owlofsogang.com/t/lean/3613/9
+[4]: https://leanprover.zulipchat.com/#narrow/stream/116395-maths/topic/how.20do.20I.20say.20.22a.20sentence.20is.20a.20theorem.20of.20a.20theory.22.20in.20lean.3F/near/399042805

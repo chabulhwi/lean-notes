@@ -45,6 +45,8 @@ URL = <https://plato.stanford.edu/archives/fall2023/entries/ontological-argument
 
 에릭 비저와 앨리스터 터커에게 감사의 말씀을 드리고 싶습니다. 에릭 비저는 제 초고와 둘째 원고의 모순성을 찾아냈습니다. 앨리스터 터커는 앨빈 플랜팅아가 정식화한 원래 논증의 3단계를 린으로 옮길 방법을 논했습니다. 이분들과의 논의는 [이 링크][2]에서 볼 수 있습니다.
 
+안셀무스가 제시한 논증의 전제와 린의 유형론의 공리에서 `∃ (x : Being), isGod x ∧ inReality x`라는 진술을 도출할 수 없음을 증명하는 방법은 앨리스터 터커가 제게 [알려 줬습니다][4].
+
 ### 서강올빼미
 
 [위에서 언급한 문제](#정리-anselmnot_exists_int_isgod)를 제기한 카르납 님에게 감사합니다.
@@ -53,3 +55,4 @@ URL = <https://plato.stanford.edu/archives/fall2023/entries/ontological-argument
 [1]: https://plato.stanford.edu/entries/ontological-arguments/#StAnsOntArg
 [2]: https://leanprover.zulipchat.com/#narrow/stream/113488-general/topic/Formalizing.20St.2E.20Anselm's.20ontological.20argument/near/39867934
 [3]: https://forum.owlofsogang.com/t/lean/3613/9
+[4]: https://leanprover.zulipchat.com/#narrow/stream/116395-maths/topic/how.20do.20I.20say.20.22a.20sentence.20is.20a.20theorem.20of.20a.20theory.22.20in.20lean.3F/near/399042805
