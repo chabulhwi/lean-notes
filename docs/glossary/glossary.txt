@@ -37,6 +37,6 @@ Alistair Tucker	앨리스터 터커
 philosophy	철학
 Owl of Sogang	서강올빼미
 type theory	유형론
-universe	level 유형 세계 변수
+universe level 유형 세계 변수
 type	유형
 instance	사례
