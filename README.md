@@ -7,6 +7,7 @@ I use [OmegaT][omt] to translate English documentation into Korean. The OmegaT p
 ## Directories
 
 * Lean code: [`Notes`](./Notes)
+  * [`Anselm`](./Notes/Anselm.lean): St. Anselm's ontological argument for the existence of God.
 * Documentation: [`docs`](./docs)
   * English: [`en`](./docs/en)
   * Korean: [`ko`](./docs/ko)
