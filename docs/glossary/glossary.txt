@@ -6,13 +6,13 @@ Lean	린
 Lean community	린 커뮤니티
 God	신
 Alvin Plantinga	앨빈 플랜팅아
-exist 존재하다
+exist	존재하다
 existence	존재
 the understanding	지성
 reality	현실
 assumption	가정
 reductio	귀류법
-great 큰
+great	큰
 premise	전제
 being	존재자
 conceive	생각하다
@@ -23,7 +23,7 @@ formulation	정식화
 formalize	형식화하다
 formalization	형식화
 property	속성
-redundant 불필요한
+redundant	불필요한
 state	진술하다
 statement	진술
 axiom	공리
@@ -37,6 +37,6 @@ Alistair Tucker	앨리스터 터커
 philosophy	철학
 Owl of Sogang	서강올빼미
 type theory	유형론
-universe level 유형 세계 변수
+universe level	유형 세계 변수
 type	유형
 instance	사례
