@@ -47,9 +47,6 @@ theorem isGod_inReality {x : Being} (hgd : isGod x) : inReality x := by
   · exact lt_of_inUnderstanding_not_inReality_inReality (isGod_inUnderstanding hgd)
   · exact exists_conceivable_and_inReality
 
-#print axioms isGod_inReality
--- 'Anselm.isGod_inReality' depends on axioms: [Classical.choice, Quot.sound, propext]
-
 end
 
 section
