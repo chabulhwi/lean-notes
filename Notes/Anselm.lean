@@ -3,7 +3,7 @@ import Mathlib.Order.Bounds.Basic
 
 section PartialOrder
 
-variable (α : Type u) [PartialOrder α]
+variable {α : Type u} [PartialOrder α]
 
 theorem IsGreatest.property {x : α} {p q : α → Prop} (hgst : IsGreatest p x)
     (hlt : ∀ {y : α}, ¬ q x → q y → x < y) (hex : ∃ (y : α), p y ∧ q y) : q x := by
@@ -43,7 +43,7 @@ theorem isGod_inUnderstanding {x : Being} : isGod x → inUnderstanding x :=
 theorem isGod_conceivable {x : Being} : isGod x → conceivable x := And.left
 
 theorem isGod_inReality {x : Being} (hgd : isGod x) : inReality x := by
-  refine IsGreatest.property Being hgd ?_ ?_
+  refine IsGreatest.property hgd ?_ ?_
   · exact lt_of_inUnderstanding_not_inReality_inReality (isGod_inUnderstanding hgd)
   · exact exists_conceivable_and_inReality
 
