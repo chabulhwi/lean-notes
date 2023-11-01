@@ -145,6 +145,36 @@ SEP entry "Ontological Arguments."&lt;/g8&gt;&lt;g9&gt;&lt;/g9&gt;&lt;e12/&gt;)<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g1&gt;exists_conceivable_and_inReality : ∃ (x : Being), conceivable x ∧
+inReality x&lt;/g1&gt; (Step 3)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231101T015313Z" creationid="chabulhwi" creationdate="20231101T015309Z">
+        <seg>&lt;g1&gt;exists_conceivable_and_inReality : ∃ (x : Being), conceivable x ∧
+inReality x&lt;/g1&gt; (3단계)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;isGod_inUnderstanding {x : Being} : isGod x → inUnderstanding x&lt;/g1&gt;
+(Step 8)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231101T015335Z" creationid="chabulhwi" creationdate="20231101T015315Z">
+        <seg>&lt;g1&gt;isGod_inUnderstanding {x : Being} : isGod x → inUnderstanding x&lt;/g1&gt;
+(8단계)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;lt_of_inUnderstanding_not_inReality_inReality {x y : Being} :
+inUnderstanding x → ¬ inReality x → inReality y → x &lt; y&lt;/g1&gt; (Step 2)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231101T015307Z" creationid="chabulhwi" creationdate="20231101T015301Z">
+        <seg>&lt;g1&gt;lt_of_inUnderstanding_not_inReality_inReality {x y : Being} :
+inUnderstanding x → ¬ inReality x → inReality y → x &lt; y&lt;/g1&gt; (2단계)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A being that exists in reality and can be conceived is greater than
 God.</seg>
       </tuv>
@@ -298,6 +328,14 @@ reality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I formalized the three premises of the argument as follows:</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231101T015245Z" creationid="chabulhwi" creationdate="20231101T015240Z">
+        <seg>논증의 세 전제는 다음과 같이 형식화했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I think the conclusion of St. Anselm's argument is the following
 statement:</seg>
       </tuv>
@@ -427,6 +465,20 @@ argument by Alvin Plantinga.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T173014Z" creationid="chabulhwi" creationdate="20231027T173014Z">
         <seg>물론 제가 안셀무스의 논증을 잘못 형식화했을 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Oppy, Graham, "Ontological Arguments", &lt;g1&gt;The Stanford Encyclopedia of
+Philosophy&lt;/g1&gt; (Fall 2023 Edition), Edward N. Zalta &amp; Uri Nodelman (eds.),
+URL =
+&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231101T015344Z" creationid="chabulhwi" creationdate="20231101T015344Z">
+        <seg>Oppy, Graham, "Ontological Arguments", &lt;g1&gt;The Stanford Encyclopedia of
+Philosophy&lt;/g1&gt; (Fall 2023 Edition), Edward N. Zalta &amp; Uri Nodelman (eds.),
+URL =
+&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -626,6 +678,14 @@ link&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T174505Z" creationid="chabulhwi" creationdate="20231027T174505Z">
         <seg>이분들과의 논의는 &lt;g1&gt;이 링크&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;에서 볼 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>theorem isGod_inReality {x : Being} : isGod x → inReality x</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231101T015121Z" creationid="chabulhwi" creationdate="20231101T015121Z">
+        <seg>theorem isGod_inReality {x : Being} : isGod x → inReality x</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

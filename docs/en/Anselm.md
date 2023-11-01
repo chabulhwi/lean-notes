@@ -25,6 +25,15 @@ Arguments."](#reference))
    agrees.)
 9. Hence God exists in reality. (From (7), (8).)
 
+I formalized the three premises of the argument as follows:
+
+* `lt_of_inUnderstanding_not_inReality_inReality {x y : Being} :
+inUnderstanding x → ¬ inReality x → inReality y → x < y` (Step 2)
+* `exists_conceivable_and_inReality : ∃ (x : Being), conceivable x ∧
+inReality x` (Step 3)
+* `isGod_inUnderstanding {x : Being} : isGod x → inUnderstanding x`
+  (Step 8)
+
 Step 3 of the original formulation by Alvin Plantinga is the following
 premise: "A being having all of God’s properties plus existence in
 reality can be conceived." This premise is redundant. Since God is the

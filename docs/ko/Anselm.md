@@ -13,6 +13,15 @@
 8. 신은 지성에 존재한다. (어리석은 이도 동의하는 전제)
 9. 그러므로 신은 현실에 존재한다. [(7), (8)에 따름]
 
+논증의 세 전제는 다음과 같이 형식화했습니다.
+
+* `lt_of_inUnderstanding_not_inReality_inReality {x y : Being} :
+inUnderstanding x → ¬ inReality x → inReality y → x < y` (2단계)
+* `exists_conceivable_and_inReality : ∃ (x : Being), conceivable x ∧
+inReality x` (3단계)
+* `isGod_inUnderstanding {x : Being} : isGod x → inUnderstanding x`
+(8단계)
+
 앨빈 플랜팅아가 정식화한 원래 논증의 3단계는 다음 전제입니다. "신의 모든 속성을 갖고 현실에 존재하는 존재자는 생각될 수 있다." 이 전제는 불필요합니다. 신은 생각될 수 있는 가장 큰 존재자이므로, 신 그 자체는 생각될 수 있습니다.
 따라서 신의 모든 속성을 갖는 존재자는 생각될 수 있습니다.
 
