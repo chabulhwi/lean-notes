@@ -36,7 +36,8 @@ theorem isGod_inReality {x : Being} : isGod x → inReality x
 
 Oppy, Graham, "Ontological Arguments", *The Stanford Encyclopedia of
 Philosophy* (Fall 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.),
-URL = <https://plato.stanford.edu/archives/fall2023/entries/ontological-arguments/>.
+URL =
+<https://plato.stanford.edu/archives/fall2023/entries/ontological-arguments/>.
 
 ## 감사의 말
 

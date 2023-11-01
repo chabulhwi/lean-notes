@@ -40,8 +40,8 @@ theorem isGod_inReality {x : Being} : isGod x → inReality x
 
 This theorem doesn't state that God exists in reality. It merely says
 that if a being is God, it exists in reality. In order to prove the
-existence of God in reality, you need to show that `∃ (x : Being),
-isGod x ∧ inReality x`.
+existence of God in reality, you need to show that `∃ (x : Being), isGod
+x ∧ inReality x`.
 
 For this reason, I think St. Anselm's argument doesn't show God's
 existence. Of course, I might have formalized it wrong.
@@ -49,10 +49,10 @@ existence. Of course, I might have formalized it wrong.
 ## Theorem `Anselm.not_exists_int_isGod`
 
 A user named car_nap of Owl of Sogang, a Korean-speaking philosophy
-discussion forum, [pointed out][owl] (in Korean) that I didn't prove that
-the statement `∃ (x : Being), isGod x ∧ inReality x` is not a theorem of
-a theory whose axioms are the premises of St. Anselm's argument (and the
-axioms of Lean's type theory).
+discussion forum, [pointed out][owl] (in Korean) that I didn't prove
+that the statement `∃ (x : Being), isGod x ∧ inReality x` is not a
+theorem of a theory whose axioms are the premises of St. Anselm's
+argument (and the axioms of Lean's type theory).
 
 So I proved a theorem named `Anselm.not_exists_int_isGod`, which shows
 that there exist a universe level `u`, a type `Being : Type u`, and an
@@ -63,7 +63,8 @@ is false.
 
 Oppy, Graham, "Ontological Arguments", *The Stanford Encyclopedia of
 Philosophy* (Fall 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.),
-URL = <https://plato.stanford.edu/archives/fall2023/entries/ontological-arguments/>.
+URL =
+<https://plato.stanford.edu/archives/fall2023/entries/ontological-arguments/>.
 
 ## Acknowledgements
 
@@ -72,11 +73,12 @@ URL = <https://plato.stanford.edu/archives/fall2023/entries/ontological-argument
 I'd like to thank Eric Wieser and Alistair Tucker. Eric Wieser found
 inconsistency in my first and second drafts. Alistair Tucker gave a
 comment on transcribing premise 3 of the original formulation by Alvin
-Plantinga. You can see my discussion with them in [this link][leanzulip].
+Plantinga. You can see my discussion with them in [this
+link][leanzulip].
 
-Alistair Tucker also [told me][tucker] how to prove that we can't deduce the
-statement `∃ (x : Being), isGod x ∧ inReality x` from the premises of
-St. Anselm's argument and the axioms of Lean's type theory.
+Alistair Tucker also [told me][tucker] how to prove that we can't deduce
+the statement `∃ (x : Being), isGod x ∧ inReality x` from the premises
+of St. Anselm's argument and the axioms of Lean's type theory.
 
 ### Owl of Sogang
 

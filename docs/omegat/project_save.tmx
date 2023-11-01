@@ -177,6 +177,18 @@ axioms of Lean's type theory).</seg>
     <tu>
       <tuv lang="en">
         <seg>A user named car_nap of Owl of Sogang, a Korean-speaking philosophy
+discussion forum, &lt;g1&gt;pointed out&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt; (in Korean) that I didn't prove
+that the statement &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt; is not a
+theorem of a theory whose axioms are the premises of St. Anselm's
+argument (and the axioms of Lean's type theory).</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231101T013223Z" creationid="chabulhwi" creationdate="20231101T013125Z">
+        <seg>&lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt;라는 진술은, 안셀무스가 제시한 논증의 전제(그리고 린의 유형론의 공리)로 공리계가 이뤄진 이론의 정리가 아님을 제가 증명하지 않았다는 &lt;g1&gt;지적을 받았습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;. 이 지적은 한국의 철학 포럼인 서강올빼미의 한 이용자 카르납(car_nap) 님이 했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A user named car_nap of Owl of Sogang, a Korean-speaking philosophy
 discussion forum, &lt;g1&gt;pointed out&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt; (in Korean) that I didn't prove that
 the statement &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt; is not a theorem of
 a theory whose axioms are the premises of St. Anselm's argument (and the
@@ -192,6 +204,16 @@ axioms of Lean's type theory).</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T173035Z" creationid="chabulhwi" creationdate="20231027T173035Z">
         <seg>감사의 말</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alistair Tucker also &lt;g1&gt;told me&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt; how to prove that we can't deduce
+the statement &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt; from the premises
+of St. Anselm's argument and the axioms of Lean's type theory.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231101T013223Z" creationid="chabulhwi" creationdate="20231101T013149Z">
+        <seg>안셀무스가 제시한 논증의 전제와 린의 유형론의 공리에서 &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt;라는 진술을 도출할 수 없음을 증명하는 방법은 앨리스터 터커 님이 제게 &lt;g1&gt;알려 줬습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -332,6 +354,16 @@ existence of God in reality, you need to show that &lt;g1&gt;∃ (x : Being),
 isGod x ∧ inReality x&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T172857Z" creationid="chabulhwi" creationdate="20231027T172857Z">
+        <seg>신이 현실에 존재함을 증명하려면, &lt;g1&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g1&gt;임을 보여야 합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to prove the
+existence of God in reality, you need to show that &lt;g1&gt;∃ (x : Being), isGod
+x ∧ inReality x&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231101T013132Z" creationid="chabulhwi" creationdate="20231101T013132Z">
         <seg>신이 현실에 존재함을 증명하려면, &lt;g1&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g1&gt;임을 보여야 합니다.</seg>
       </tuv>
     </tu>
@@ -577,6 +609,15 @@ in Lean.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T172614Z" creationid="chabulhwi" creationdate="20231027T172614Z">
         <seg>이 정리는 신이 현실에 존재한다고 진술하지 않습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can see my discussion with them in &lt;g1&gt;this
+link&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20231101T013223Z" creationid="chabulhwi" creationdate="20231101T013139Z">
+        <seg>이분들과의 논의는 &lt;g1&gt;이 링크&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;에서 볼 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
