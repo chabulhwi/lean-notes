@@ -34,7 +34,7 @@ variable {Being : Type u} [Anselm Being]
 
 def isGod (x : Being) := IsGreatest conceivable x
 
-theorem isGod.unique {x y : Being} : isGod x → isGod y → x = y :=
+theorem isGod_unique {x y : Being} : isGod x → isGod y → x = y :=
   IsGreatest.unique (s := conceivable)
 
 theorem isGod_inUnderstanding {x : Being} : isGod x → inUnderstanding x :=
