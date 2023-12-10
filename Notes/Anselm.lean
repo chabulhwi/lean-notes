@@ -6,8 +6,8 @@ section PartialOrder
 variable {α : Type u} [PartialOrder α]
 
 theorem IsGreatest.property {x : α} {p q : α → Prop} (hgst : IsGreatest p x)
-    (hlt : ∀ {y : α}, ¬ q x → q y → x < y) (hex : ∃ (y : α), p y ∧ q y) : q x := by
-  have hnnq : ¬¬ q x := by
+    (hlt : ∀ {y : α}, ¬q x → q y → x < y) (hex : ∃ (y : α), p y ∧ q y) : q x := by
+  have hnnq : ¬¬q x := by
     intro hnq
     rcases hex with ⟨y, hpy, hqy⟩
     have x_lt_y : x < y := hlt hnq hqy
@@ -21,7 +21,7 @@ class Anselm (Being : Type u) extends PartialOrder Being where
   conceivable : Being → Prop
   inUnderstanding : Being → Prop
   inReality : Being → Prop
-  lt_of_inUnderstanding_not_inReality_inReality {x y : Being} : inUnderstanding x → ¬ inReality x →
+  lt_of_inUnderstanding_not_inReality_inReality {x y : Being} : inUnderstanding x → ¬inReality x →
     inReality y → x < y
   IsGreatest_conceivable_inUnderstanding {x : Being} : IsGreatest conceivable x → inUnderstanding x
   exists_conceivable_and_inReality : ∃ (x : Being), conceivable x ∧ inReality x
@@ -66,7 +66,7 @@ local instance : Anselm ℤ where
   IsGreatest_conceivable_inUnderstanding := by simp
   exists_conceivable_and_inReality := by exists 0
 
-private theorem not_exists_int_isGod : ¬ ∃ (a : ℤ), isGod a := by
+private theorem not_exists_int_isGod : ¬∃ (a : ℤ), isGod a := by
   intro hex
   rcases hex with ⟨god, _, hle⟩
   have god_lt_succ_god : god < god + 1 := Int.lt_succ god
