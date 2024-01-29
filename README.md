@@ -1,7 +1,7 @@
 # lean-notes
 
 This is a collection of my short Lean code for reference. You are free to reuse
-the content under the terms of the Apache License, Version 2.0.
+the content under the terms of the [Apache License, Version 2.0](./LICENSE).
 
 I use [OmegaT][omt] to translate English documentation into Korean. The OmegaT
 project is in the [`docs`](./docs) directory. You need to install the [Okapi
