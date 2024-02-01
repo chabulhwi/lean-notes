@@ -148,7 +148,7 @@ SEP entry "Ontological Arguments."&lt;/g8&gt;&lt;g9&gt;&lt;/g9&gt;&lt;e12/&gt;)<
         <seg>&lt;g1&gt;exists_conceivable_and_inReality : ∃ (x : Being), conceivable x ∧
 inReality x&lt;/g1&gt; (Step 3)</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20231101T015313Z" creationid="chabulhwi" creationdate="20231101T015309Z">
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240201T112248Z" creationid="chabulhwi" creationdate="20231101T015309Z">
         <seg>&lt;g1&gt;exists_conceivable_and_inReality : ∃ (x : Being), conceivable x ∧
 inReality x&lt;/g1&gt; (3단계)</seg>
       </tuv>
@@ -165,12 +165,30 @@ inReality x&lt;/g1&gt; (3단계)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g1&gt;isGod_inUnderstanding {x : Being} : isGod x → inUnderstanding x&lt;/g1&gt; (Step 8)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240201T111706Z" creationid="chabulhwi" creationdate="20240201T111706Z">
+        <seg>&lt;g1&gt;isGod_inUnderstanding {x : Being} : isGod x → inUnderstanding x&lt;/g1&gt; (8단계)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g1&gt;lt_of_inUnderstanding_not_inReality_inReality {x y : Being} :
 inUnderstanding x → ¬ inReality x → inReality y → x &lt; y&lt;/g1&gt; (Step 2)</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231101T015307Z" creationid="chabulhwi" creationdate="20231101T015301Z">
         <seg>&lt;g1&gt;lt_of_inUnderstanding_not_inReality_inReality {x y : Being} :
 inUnderstanding x → ¬ inReality x → inReality y → x &lt; y&lt;/g1&gt; (2단계)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;lt_of_inUnderstanding_not_inReality_inReality {x y : Being} :
+inUnderstanding x → ¬inReality x → inReality y → x &lt; y&lt;/g1&gt; (Step 2)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240201T112244Z" creationid="chabulhwi" creationdate="20240201T111639Z">
+        <seg>&lt;g1&gt;lt_of_inUnderstanding_not_inReality_inReality {x y : Being} :
+inUnderstanding x → ¬inReality x → inReality y → x &lt; y&lt;/g1&gt; (2단계)</seg>
       </tuv>
     </tu>
     <tu>
