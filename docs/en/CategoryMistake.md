@@ -75,4 +75,4 @@ instance : GoodSmellingDrink BulhwiDrink where
   https://forum.owlofsogang.com/t/topic/4188.
 
 [stanford]: https://plato.stanford.edu/entries/category-mistakes/
-[catmis]: ../../Notes/Anselm.lean
+[catmis]: ../../Notes/CategoryMistake.lean
