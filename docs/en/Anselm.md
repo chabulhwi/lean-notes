@@ -69,7 +69,7 @@ is false.
 
 ## Reference
 
-Oppy, Graham, "Ontological Arguments", *The Stanford Encyclopedia of
+* Oppy, Graham, "Ontological Arguments", *The Stanford Encyclopedia of
 Philosophy* (Fall 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.),
 URL =
 <https://plato.stanford.edu/archives/fall2023/entries/ontological-arguments/>.
