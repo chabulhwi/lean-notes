@@ -1,4 +1,4 @@
-# Good-smelling drinks
+# An example of category mistakes: good-smelling drinks
 
 Are the proposition "Water smells good." and its negation both false
 since water has no smell? If so, we could easily derive a contradiction

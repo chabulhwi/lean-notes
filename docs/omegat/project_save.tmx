@@ -340,6 +340,14 @@ Plantinga.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An example of category mistakes: good-smelling drinks</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T163421Z" creationid="chabulhwi" creationdate="20240205T163421Z">
+        <seg>범주 실수의 예: 냄새 좋은 음료</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are the proposition "Water smells good." and its negation both false
 since water has no smell?</seg>
       </tuv>
