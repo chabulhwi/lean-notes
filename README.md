@@ -12,6 +12,8 @@ filters plugin for OmegaT][okapi] to make OmegaT parse Markdown files.
 * Lean code: [`Notes`](./Notes)
   * [`Anselm`](./Notes/Anselm.lean): St. Anselm's ontological argument for the
     existence of God.
+  * [`CategoryMistake`](./Notes/CategoryMistake.lean): An example of category
+    mistakes.
 * Documentation: [`docs`](./docs)
   * English: [`en`](./docs/en)
   * Korean: [`ko`](./docs/ko)
