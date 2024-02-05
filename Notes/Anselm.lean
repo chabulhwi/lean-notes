@@ -172,7 +172,6 @@ theorem isGod_inReality {x : Being} (hgd : isGod x) : inReality x := by
 
 end
 
-section
 /-!
 ## Theorem `not_exists_int_isGod`
 
@@ -181,7 +180,6 @@ instance of `Anselm Being` where the statement `∃ (x : Being), isGod x`
 is false.
 -/
 
-local instance : Anselm ℤ where
 /-- A local instance for proving the theorem `not_exists_int_isGod`. -/
 instance : Anselm ℤ where
   conceivable := fun _ ↦ True
@@ -198,7 +196,6 @@ instance : Anselm ℤ where
   IsGreatest_conceivable_inUnderstanding := by simp
   exists_conceivable_and_inReality := by exists 0
 
-private theorem not_exists_int_isGod : ¬∃ (a : ℤ), isGod a := by
 /-- There exists an instantiation of the `Anselm` class where God doesn't exist. -/
 theorem not_exists_int_isGod : ¬∃ (a : ℤ), isGod a := by
   intro hex
@@ -206,7 +203,5 @@ theorem not_exists_int_isGod : ¬∃ (a : ℤ), isGod a := by
   have god_lt_succ_god : god < god + 1 := Int.lt_succ god
   have succ_god_le_god : god + 1 ≤ god := hle trivial
   exact not_le_of_lt god_lt_succ_god succ_god_le_god
-
-end
 
 end Anselm
