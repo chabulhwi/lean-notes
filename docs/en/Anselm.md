@@ -79,8 +79,8 @@ URL =
 ### The Lean community
 
 I'd like to thank Eric Wieser and Alistair Tucker. Eric Wieser found
-inconsistency in my first and second drafts. Alistair Tucker gave a
-comment on transcribing premise 3 of the original formulation by Alvin
+inconsistency in my first and second drafts. Alistair Tucker commented
+on transcribing premise 3 of the original formulation by Alvin
 Plantinga. You can see my discussion with them in [this
 link][leanzulip].
 
