@@ -24,8 +24,11 @@ formalize	형식화하다
 formalization	형식화
 property	속성
 redundant	불필요한
+sentence	문장
 state	진술하다
 statement	진술
+proposition	명제
+negation	부정
 axiom	공리
 theorem	정리
 theory	이론
@@ -39,4 +42,12 @@ Owl of Sogang	서강올빼미
 type theory	유형론
 universe level	유형 세계 변수
 type	유형
+type class	유형 클래스
 instance	사례
+category mistake	범주 실수
+class	클래스
+example	보기
+example	예
+inductive type	귀납형
+define	정의하다
+constructor	구성자
