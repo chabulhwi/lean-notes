@@ -883,8 +883,8 @@ in Lean.</seg>
       <tuv lang="en">
         <seg>This class instance doesn't have the proposition "Water smells good."</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T160538Z" creationid="chabulhwi" creationdate="20240205T160510Z">
-        <seg>이 유형 클래스 사례에는 "물은 냄새가 좋다."라는 명제가 없습니다.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T235508Z" creationid="chabulhwi" creationdate="20240205T160510Z">
+        <seg>이 유형 클래스 사례에는 "물은 냄새가 좋다."라는 명제가 없다.</seg>
       </tuv>
     </tu>
     <tu>
