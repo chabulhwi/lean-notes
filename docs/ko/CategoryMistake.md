@@ -1,8 +1,8 @@
 # 범주 실수의 예: 냄새 좋은 음료
 
-물은 냄새가 나지 않으므로 "물은 냄새가 좋다."라는 명제와 그 부정은 모두 거짓일까요? 만약 그렇다면, 이 명제들에서 모순을 쉽게 이끌어 낼 수 있습니다. 제가 보건대, "물은 냄새가 좋다."라는 문장은 [범주 실수][catmis]입니다. `d`가 냄새가 안 나는 음료를 나타내는 상수일 때, '`d`는 냄새가 좋다.' 꼴의 진술은 이용하지 못하게 해야 합니다.
+물은 냄새가 나지 않으므로 "물은 냄새가 좋다."라는 명제와 그 부정은 모두 거짓일까요? 만약 그렇다면, 이 명제들에서 모순을 쉽게 이끌어 낼 수 있습니다. 제가 보건대, "물은 냄새가 좋다."라는 문장은 [범주 실수][stanford]입니다. `d`가 냄새가 안 나는 음료를 나타내는 상수일 때, '`d`는 냄새가 좋다.' 꼴의 진술은 이용하지 못하게 해야 합니다.
 
-저는 유형 `Option Prop`을 이용해, 음료에 대한 술어 `goodSmelling`을 정의했습니다. `x` 가 냄새가 안 나는 음료이면, `goodSmelling x`는 `none`입니다. 이는 제가 아래에서 정의한 유형 클래스에 "`x`는 냄새가 좋다."라는 명제가 없다는 뜻입니다.
+[`CategoryMistake`][catmis] 파일에서, 저는 유형 `Option Prop`을 이용해, 음료에 대한 술어 `goodSmelling`을 정의했습니다. `x`가 냄새가 안 나는 음료이면, `goodSmelling x`는 `none`입니다. 이는 제가 아래에서 정의한 유형 클래스에 "`x`는 냄새가 좋다."라는 명제가 없다는 뜻입니다.
 
 ## 유형 클래스 `GoodSmellingDrink`
 
@@ -60,4 +60,5 @@ instance : GoodSmellingDrink BulhwiDrink where
 2024년 2월 5일에 마지막으로 수정함.
 https://forum.owlofsogang.com/t/topic/4188.
 
-[catmis]: https://plato.stanford.edu/entries/category-mistakes/
+[stanford]: https://plato.stanford.edu/entries/category-mistakes/
+[catmis]: ../../Notes/Anselm.lean

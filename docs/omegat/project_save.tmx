@@ -530,6 +530,17 @@ the type class I defined below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;g6&gt;x&lt;/g6&gt; is a drink that
+has no smell, &lt;g7&gt;goodSmelling x&lt;/g7&gt; is &lt;g8&gt;none&lt;/g8&gt;, which means that you don't
+have the proposition "&lt;g9&gt;x&lt;/g9&gt; smells good." in the type class I defined
+below.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T170259Z" creationid="chabulhwi" creationdate="20240205T165805Z">
+        <seg>&lt;g6&gt;x&lt;/g6&gt;가 냄새가 안 나는 음료이면, &lt;g7&gt;goodSmelling x&lt;/g7&gt;는 &lt;g8&gt;none&lt;/g8&gt;입니다. 이는 제가 아래에서 정의한 유형 클래스에 "&lt;g9&gt;x&lt;/g9&gt;는 냄새가 좋다."라는 명제가 없다는 뜻입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If so, we could easily derive a contradiction
 from these propositions.</seg>
       </tuv>
@@ -555,6 +566,15 @@ x ∧ inReality x&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231101T013132Z" creationid="chabulhwi" creationdate="20231101T013132Z">
         <seg>신이 현실에 존재함을 증명하려면, &lt;g1&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g1&gt;임을 보여야 합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;g1&gt;&lt;g2&gt;CategoryMistake&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e10/&gt; file, I used the type &lt;g4&gt;Option Prop&lt;/g4&gt;
+to define the predicate &lt;g5&gt;goodSmelling&lt;/g5&gt; on drinks.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T170047Z" creationid="chabulhwi" creationdate="20240205T165847Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;CategoryMistake&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e10/&gt; 파일에서, 저는 유형 &lt;g4&gt;Option Prop&lt;/g4&gt;을 이용해, 음료에 대한 술어 &lt;g5&gt;goodSmelling&lt;/g5&gt;을 정의했습니다.</seg>
       </tuv>
     </tu>
     <tu>

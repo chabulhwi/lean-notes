@@ -3,14 +3,15 @@
 Are the proposition "Water smells good." and its negation both false
 since water has no smell? If so, we could easily derive a contradiction
 from these propositions. I think the sentence "Water smells good." is a
-[category mistake][catmis]. We shouldn't allow using statements of the
+[category mistake][stanford]. We shouldn't allow using statements of the
 form "`d` smells good," where `d` is a constant that refers to a drink
 having no smell.
 
-I used the type `Option Prop` to define the predicate `goodSmelling` on
-drinks. If `x` is a drink that has no smell, `goodSmelling x` is `none`,
-which means that you don't have the proposition "`x` smells good." in
-the type class I defined below.
+In the [`CategoryMistake`][catmis] file, I used the type `Option Prop`
+to define the predicate `goodSmelling` on drinks. If `x` is a drink that
+has no smell, `goodSmelling x` is `none`, which means that you don't
+have the proposition "`x` smells good." in the type class I defined
+below.
 
 ## The type class `GoodSmellingDrink`
 
@@ -73,4 +74,5 @@ instance : GoodSmellingDrink BulhwiDrink where
   2024년 2월 5일에 마지막으로 수정함.
   https://forum.owlofsogang.com/t/topic/4188.
 
-[catmis]: https://plato.stanford.edu/entries/category-mistakes/
+[stanford]: https://plato.stanford.edu/entries/category-mistakes/
+[catmis]: ../../Notes/Anselm.lean
