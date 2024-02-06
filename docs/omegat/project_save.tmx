@@ -581,7 +581,7 @@ x ∧ inReality x&lt;/g1&gt;.</seg>
         <seg>In the &lt;g1&gt;&lt;g2&gt;CategoryMistake&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e10/&gt; file, I used the type &lt;g4&gt;Option Prop&lt;/g4&gt;
 to define the predicate &lt;g5&gt;goodSmelling&lt;/g5&gt; on drinks.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T170047Z" creationid="chabulhwi" creationdate="20240205T165847Z">
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240206T054003Z" creationid="chabulhwi" creationdate="20240205T165847Z">
         <seg>&lt;g1&gt;&lt;g2&gt;CategoryMistake&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e10/&gt; 파일에서, 저는 유형 &lt;g4&gt;Option Prop&lt;/g4&gt;을 이용해, 음료에 대한 술어 &lt;g5&gt;goodSmelling&lt;/g5&gt;을 정의했습니다.</seg>
       </tuv>
     </tu>
@@ -916,8 +916,8 @@ constructors: &lt;g2&gt;Water&lt;/g2&gt;, &lt;g3&gt;Limeade&lt;/g3&gt;, &lt;g4&g
       <tuv lang="en">
         <seg>Water has no smell; the rest have it.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T154133Z" creationid="chabulhwi" creationdate="20240205T154117Z">
-        <seg>물은 냄새가 없고, 나머지는 냄새가 있다.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240206T054733Z" creationid="chabulhwi" creationdate="20240205T154117Z">
+        <seg>물은 냄새가 안 나고, 나머지는 냄새가 난다.</seg>
       </tuv>
     </tu>
     <tu>
