@@ -955,8 +955,8 @@ no smell.</seg>
 form "&lt;g3&gt;d&lt;/g3&gt; smells good," where &lt;g4&gt;d&lt;/g4&gt; is a constant that refers to a drink
 having no smell.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T160053Z" creationid="chabulhwi" creationdate="20240205T155342Z">
-        <seg>&lt;g4&gt;d&lt;/g4&gt;가 냄새가 안 나는 음료를 나타내는 상수일 때, '&lt;g3&gt;d&lt;/g3&gt;는 냄새가 좋다.' 꼴의 진술은 이용하지 못하게 해야 합니다.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240206T042953Z" creationid="chabulhwi" creationdate="20240205T155342Z">
+        <seg>&lt;g4&gt;d&lt;/g4&gt;가 냄새가 안 나는 음료를 나타내는 상수일 때, '&lt;g3&gt;d&lt;/g3&gt;는 냄새가 좋다.' 꼴의 진술을 이용하지 못하게 해야 합니다.</seg>
       </tuv>
     </tu>
     <tu>
