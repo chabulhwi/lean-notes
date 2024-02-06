@@ -228,6 +228,14 @@ inUnderstanding x → ¬inReality x → inReality y → x &lt; y&lt;/g1&gt; (2�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;x1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240206T005130Z" creationid="chabulhwi" creationdate="20240206T005130Z">
+        <seg>&lt;x1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A being that exists in reality and can be conceived is greater than
 God.</seg>
       </tuv>

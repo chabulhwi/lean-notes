@@ -19,7 +19,7 @@ smells good." in the type class I defined below.
 ## Reference
 
 * 윤유석. 2024. “모순과 반대, 모순과 역설: 사소하지만 자주 있는 혼동.” 2024년 2월 5일에 마지막으로
-수정함. https://forum.owlofsogang.com/t/topic/4188.
+수정함. <https://forum.owlofsogang.com/t/topic/4188>.
 
 [catmis]: https://plato.stanford.edu/entries/category-mistakes/
 -/
