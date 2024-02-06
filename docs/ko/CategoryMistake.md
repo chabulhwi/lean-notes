@@ -21,7 +21,7 @@ class GoodSmellingDrink (Drink : Type v) where
 
 ## 보기
 
-`BulhwiDrink`라는 귀납형을 정의해 보겠습니다. 이 유형에는 구성자가 네 개 있습니다. `Water`, `Limeade`, `AlmondMilk` 그리고 `DurianSmoothie`가 그 구성자들의 이름입니다.
+`BulhwiDrink`라는 귀납형을 정의해 보겠습니다. 이 유형에는 구성자가 네 개 있습니다. 물(`Water`), 라임에이드(`Limeade`), 아몬드 우유(`AlmondMilk`) 그리고 두리안 스무디(`DurianSmoothie`)가 그 구성자들의 이름입니다.
 
 ```lean
 inductive BulhwiDrink : Type where
