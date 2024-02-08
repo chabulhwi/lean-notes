@@ -21,7 +21,7 @@ class GoodSmellingDrink (Drink : Type v) where
 
 ## 보기
 
-`BulhwiDrink`라는 귀납형을 정의해 보겠습니다. 이 유형에는 구성자가 네 개 있습니다. 물(`Water`), 라임에이드(`Limeade`), 아몬드 우유(`AlmondMilk`) 그리고 두리안 스무디(`DurianSmoothie`)가 그 구성자들입니다.
+`BulhwiDrink`라는 귀납형을 정의해 보겠습니다. 이 유형에는 구성자가 네 개 있습니다. 물(`Water`), 라이메이드(`Limeade`), 아몬드 우유(`AlmondMilk`) 그리고 두리안 스무디(`DurianSmoothie`)가 그 구성자들입니다.
 
 ```lean
 inductive BulhwiDrink : Type where
@@ -36,7 +36,7 @@ inductive BulhwiDrink : Type where
 
 * 물은 냄새가 안 나고, 나머지는 냄새가 난다.
 * 이 유형 클래스 사례에는 "물은 냄새가 좋다."라는 명제가 없다.
-* 라임에이드와 아몬드 우유는 냄새가 좋지만, 두리안 스무디는 그렇지 않다.
+* 라이메이드와 아몬드 우유는 냄새가 좋지만, 두리안 스무디는 그렇지 않다.
 
 ```lean
 instance : GoodSmellingDrink BulhwiDrink where

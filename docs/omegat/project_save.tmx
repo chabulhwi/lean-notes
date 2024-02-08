@@ -643,8 +643,8 @@ argument by Alvin Plantinga.</seg>
       <tuv lang="en">
         <seg>Limeade and almond milk smell good; durian smoothie doesn't.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T153939Z" creationid="chabulhwi" creationdate="20240205T153939Z">
-        <seg>라임에이드와 아몬드 우유는 냄새가 좋지만, 두리안 스무디는 그렇지 않다.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240208T015226Z" creationid="chabulhwi" creationdate="20240205T153939Z">
+        <seg>라이메이드와 아몬드 우유는 냄새가 좋지만, 두리안 스무디는 그렇지 않다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -908,8 +908,8 @@ in Lean.</seg>
         <seg>This type has four
 constructors: &lt;g2&gt;Water&lt;/g2&gt;, &lt;g3&gt;Limeade&lt;/g3&gt;, &lt;g4&gt;AlmondMilk&lt;/g4&gt;, and &lt;g5&gt;DurianSmoothie&lt;/g5&gt;.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240206T003405Z" creationid="chabulhwi" creationdate="20240205T154624Z">
-        <seg>이 유형에는 구성자가 네 개 있습니다. 물(&lt;g2&gt;Water&lt;/g2&gt;), 라임에이드(&lt;g3&gt;Limeade&lt;/g3&gt;), 아몬드 우유(&lt;g4&gt;AlmondMilk&lt;/g4&gt;) 그리고 두리안 스무디(&lt;g5&gt;DurianSmoothie&lt;/g5&gt;)가 그 구성자들입니다.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240208T015226Z" creationid="chabulhwi" creationdate="20240205T154624Z">
+        <seg>이 유형에는 구성자가 네 개 있습니다. 물(&lt;g2&gt;Water&lt;/g2&gt;), 라이메이드(&lt;g3&gt;Limeade&lt;/g3&gt;), 아몬드 우유(&lt;g4&gt;AlmondMilk&lt;/g4&gt;) 그리고 두리안 스무디(&lt;g5&gt;DurianSmoothie&lt;/g5&gt;)가 그 구성자들입니다.</seg>
       </tuv>
     </tu>
     <tu>
