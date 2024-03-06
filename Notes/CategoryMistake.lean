@@ -30,7 +30,7 @@ smells good." in the type class I defined below.
 * `goodSmelling x`: `x` smells good, where `x` is a drink that has a smell.
 * `goodSmelling_eq_none_of_not_hasSmell x`: If `x` is a drink that has no smell, `goodSmelling x` is
   `none`, which means that this class doesn't have the proposition "`x` smells good." -/
-class GoodSmellingDrink (Drink : Type v) where
+class GoodSmellingDrink (Drink : Type u) where
   hasSmell : Drink → Prop
   goodSmelling : Drink → Option Prop
   goodSmelling_eq_none_of_not_hasSmell {x : Drink} : ¬hasSmell x → goodSmelling x = none

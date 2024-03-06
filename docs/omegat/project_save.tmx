@@ -996,6 +996,14 @@ link&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>class GoodSmellingDrink (Drink : Type u) where</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240306T034340Z" creationid="chabulhwi" creationdate="20240306T034340Z">
+        <seg>class GoodSmellingDrink (Drink : Type u) where</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>class GoodSmellingDrink (Drink : Type v) where</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T160547Z" creationid="chabulhwi" creationdate="20240205T160547Z">

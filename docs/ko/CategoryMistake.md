@@ -13,7 +13,7 @@
 * `goodSmelling_eq_none_of_not_hasSmell x`: `x`가 냄새가 안 나는 음료일 때, `goodSmelling x`는 `none`이다. 이는 유형 클래스 `GoodSmellingDrink`에 "`x`는 냄새가 좋다."라는 명제가 없다는 뜻이다.
 
 ```lean
-class GoodSmellingDrink (Drink : Type v) where
+class GoodSmellingDrink (Drink : Type u) where
   hasSmell : Drink → Prop
   goodSmelling : Drink → Option Prop
   goodSmelling_eq_none_of_not_hasSmell {x : Drink} : ¬hasSmell x → goodSmelling x = none

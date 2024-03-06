@@ -26,7 +26,7 @@ The type class `GoodSmellingDrink` of drinks has two predicates
   doesn't have the proposition "`x` smells good."
 
 ```lean
-class GoodSmellingDrink (Drink : Type v) where
+class GoodSmellingDrink (Drink : Type u) where
   hasSmell : Drink → Prop
   goodSmelling : Drink → Option Prop
   goodSmelling_eq_none_of_not_hasSmell {x : Drink} : ¬hasSmell x → goodSmelling x = none
