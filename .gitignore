@@ -10,6 +10,7 @@
 # After v4.3.0-rc2 lake stores its files here:
 /.lake/
 
+*~
 *.html
 docs/docs-level1.tmx
 docs/docs-level2.tmx
