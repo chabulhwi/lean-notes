@@ -39,7 +39,7 @@ I formalized the three premises of the argument as follows:
 InUnderstanding x → ¬InReality x → InReality y → x < y` (Step 2)
 * `exists_conceivable_and_inReality : ∃ (x : Being), Conceivable x ∧
 InReality x` (Step 3)
-* `IsGod_inUnderstanding {x : Being} : IsGod x → InUnderstanding x` (Step 8)
+* `IsGod.inUnderstanding {x : Being} : IsGod x → InUnderstanding x` (Step 8)
 
 Step 3 of the original formulation by Alvin Plantinga is the following
 premise: "A being having all of God’s properties plus existence in
@@ -51,7 +51,7 @@ I think the conclusion of St. Anselm's argument is the following
 statement:
 
 ```lean
-theorem IsGod_inReality {x : Being} : IsGod x → InReality x
+theorem IsGod.inReality {x : Being} : IsGod x → InReality x
 ```
 
 This theorem doesn't state that God exists in reality. It merely says
@@ -154,20 +154,20 @@ variable {Being : Type u} [Anselm Being]
 def IsGod (x : Being) := IsGreatest Conceivable x
 
 /-- God is unique, which means that no two different beings are God. -/
-theorem IsGod_unique {x y : Being} : IsGod x → IsGod y → x = y :=
+theorem IsGod.unique {x y : Being} : IsGod x → IsGod y → x = y :=
   IsGreatest.unique (s := Conceivable)
 
 /-- If a being is God, it exists in the understanding. -/
-theorem IsGod_inUnderstanding {x : Being} : IsGod x → InUnderstanding x :=
+theorem IsGod.inUnderstanding {x : Being} : IsGod x → InUnderstanding x :=
   inUnderstanding_of_isGreatest_conceivable
 
 /-- God is conceivable. -/
-theorem IsGod_conceivable {x : Being} : IsGod x → Conceivable x := And.left
+theorem IsGod.conceivable {x : Being} : IsGod x → Conceivable x := And.left
 
 /-- The conclusion of St. Anselm's argument: if a being is God, it exists in reality. -/
-theorem IsGod_inReality {x : Being} (hgd : IsGod x) : InReality x := by
+theorem IsGod.inReality {x : Being} (hgd : IsGod x) : InReality x := by
   refine IsGreatest.property hgd ?_ ?_
-  · exact lt_of_inUnderstanding_not_inReality_inReality (IsGod_inUnderstanding hgd)
+  · exact lt_of_inUnderstanding_not_inReality_inReality (IsGod.inUnderstanding hgd)
   · exact exists_conceivable_and_inReality
 
 end

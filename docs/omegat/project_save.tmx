@@ -190,20 +190,20 @@ doesn't have the proposition "&lt;g5&gt;x&lt;/g5&gt; smells good."</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;g1&gt;IsGod_inUnderstanding {x : Being} : IsGod x → InUnderstanding x&lt;/g1&gt;
+        <seg>&lt;g1&gt;IsGod.inUnderstanding {x : Being} : IsGod x → InUnderstanding x&lt;/g1&gt;
 (Step 8)</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231101T015335Z" creationid="chabulhwi" creationdate="20231101T015315Z">
-        <seg>&lt;g1&gt;IsGod_inUnderstanding {x : Being} : IsGod x → InUnderstanding x&lt;/g1&gt;
+        <seg>&lt;g1&gt;IsGod.inUnderstanding {x : Being} : IsGod x → InUnderstanding x&lt;/g1&gt;
 (8단계)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;g1&gt;IsGod_inUnderstanding {x : Being} : IsGod x → InUnderstanding x&lt;/g1&gt; (Step 8)</seg>
+        <seg>&lt;g1&gt;IsGod.inUnderstanding {x : Being} : IsGod x → InUnderstanding x&lt;/g1&gt; (Step 8)</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240201T111706Z" creationid="chabulhwi" creationdate="20240201T111706Z">
-        <seg>&lt;g1&gt;IsGod_inUnderstanding {x : Being} : IsGod x → InUnderstanding x&lt;/g1&gt; (8단계)</seg>
+        <seg>&lt;g1&gt;IsGod.inUnderstanding {x : Being} : IsGod x → InUnderstanding x&lt;/g1&gt; (8단계)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1092,10 +1092,10 @@ link&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>theorem IsGod_inReality {x : Being} : IsGod x → InReality x</seg>
+        <seg>theorem IsGod.inReality {x : Being} : IsGod x → InReality x</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231101T015121Z" creationid="chabulhwi" creationdate="20231101T015121Z">
-        <seg>theorem IsGod_inReality {x : Being} : IsGod x → InReality x</seg>
+        <seg>theorem IsGod.inReality {x : Being} : IsGod x → InReality x</seg>
       </tuv>
     </tu>
     <tu>

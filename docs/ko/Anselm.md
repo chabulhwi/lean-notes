@@ -19,7 +19,7 @@
 InUnderstanding x → ¬InReality x → InReality y → x < y` (2단계)
 * `exists_conceivable_and_inReality : ∃ (x : Being), Conceivable x ∧
 InReality x` (3단계)
-* `IsGod_inUnderstanding {x : Being} : IsGod x → InUnderstanding x` (8단계)
+* `IsGod.inUnderstanding {x : Being} : IsGod x → InUnderstanding x` (8단계)
 
 앨빈 플랜팅아가 정식화한 원래 논증의 3단계는 다음 전제입니다. "신의 모든 속성을 갖고 현실에 존재하는 존재자는 생각될 수 있다." 이 전제는 불필요합니다. 신은 생각될 수 있는 가장 큰 존재자이므로, 신 그 자체는 생각될 수 있습니다.
 따라서 신의 모든 속성을 갖는 존재자는 생각될 수 있습니다.
@@ -27,7 +27,7 @@ InReality x` (3단계)
 제가 보건대, 안셀무스가 제시한 논증의 결론은 다음 진술과 같습니다.
 
 ```lean
-theorem IsGod_inReality {x : Being} : IsGod x → InReality x
+theorem IsGod.inReality {x : Being} : IsGod x → InReality x
 ```
 
 이 정리는 신이 현실에 존재한다고 진술하지 않습니다. 어느 한 존재자가 신이면 그 존재자는 현실에 존재한다는 얘기만 할 뿐입니다. 신이 현실에 존재함을 증명하려면, `∃ (x : Being), IsGod x ∧ InReality x`임을 보여야 합니다.
