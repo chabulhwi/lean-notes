@@ -153,39 +153,19 @@ SEP entry "Ontological Arguments."&lt;/g8&gt;&lt;g9&gt;&lt;/g9&gt;&lt;e12/&gt;)<
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;g1&gt;exists_conceivable_and_inReality : ∃ (x : Being), Conceivable x ∧
-InReality x&lt;/g1&gt; (Step 3)</seg>
-      </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240201T112248Z" creationid="chabulhwi" creationdate="20231101T015309Z">
-        <seg>&lt;g1&gt;exists_conceivable_and_inReality : ∃ (x : Being), Conceivable x ∧
-InReality x&lt;/g1&gt; (3단계)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>&lt;g1&gt;goodSmelling x&lt;/g1&gt;: &lt;g2&gt;x&lt;/g2&gt; smells good, where &lt;g3&gt;x&lt;/g3&gt; is a drink that has a
+        <seg>&lt;g1&gt;GoodSmelling x&lt;/g1&gt;: &lt;g2&gt;x&lt;/g2&gt; smells good, where &lt;g3&gt;x&lt;/g3&gt; is a drink that has a
 smell.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T155422Z" creationid="chabulhwi" creationdate="20240205T155309Z">
-        <seg>&lt;g1&gt;goodSmelling x&lt;/g1&gt;: &lt;g2&gt;x&lt;/g2&gt;는 냄새가 좋다. 이때 &lt;g3&gt;x&lt;/g3&gt;는 냄새가 나는 음료이다. </seg>
+        <seg>&lt;g1&gt;GoodSmelling x&lt;/g1&gt;: &lt;g2&gt;x&lt;/g2&gt;는 냄새가 좋다. 이때 &lt;g3&gt;x&lt;/g3&gt;는 냄새가 나는 음료이다. </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;g1&gt;goodSmelling_eq_none_of_not_hasSmell x&lt;/g1&gt;: If &lt;g2&gt;x&lt;/g2&gt; is a drink that has
-no smell, &lt;g3&gt;goodSmelling x&lt;/g3&gt; is &lt;g4&gt;none&lt;/g4&gt;, which means that this class
-doesn't have the proposition "&lt;g5&gt;x&lt;/g5&gt; smells good."</seg>
-      </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T155636Z" creationid="chabulhwi" creationdate="20240205T155426Z">
-        <seg>&lt;g1&gt;goodSmelling_eq_none_of_not_hasSmell x&lt;/g1&gt;: &lt;g2&gt;x&lt;/g2&gt;가 냄새가 안 나는 음료일 때, &lt;g3&gt;goodSmelling x&lt;/g3&gt;는 &lt;g4&gt;none&lt;/g4&gt;이다. 이는 유형 클래스 `GoodSmellingDrink`에 "&lt;g5&gt;x&lt;/g5&gt;는 냄새가 좋다."라는 명제가 없다는 뜻이다.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>&lt;g1&gt;hasSmell x&lt;/g1&gt;: &lt;g2&gt;x&lt;/g2&gt; has a smell.</seg>
+        <seg>&lt;g1&gt;HasSmell x&lt;/g1&gt;: &lt;g2&gt;x&lt;/g2&gt; has a smell.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T155305Z" creationid="chabulhwi" creationdate="20240205T155256Z">
-        <seg>&lt;g1&gt;hasSmell x&lt;/g1&gt;: &lt;g2&gt;x&lt;/g2&gt;는 냄새가 난다.</seg>
+        <seg>&lt;g1&gt;HasSmell x&lt;/g1&gt;: &lt;g2&gt;x&lt;/g2&gt;는 냄새가 난다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -204,6 +184,26 @@ doesn't have the proposition "&lt;g5&gt;x&lt;/g5&gt; smells good."</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240201T111706Z" creationid="chabulhwi" creationdate="20240201T111706Z">
         <seg>&lt;g1&gt;IsGod.inUnderstanding {x : Being} : IsGod x → InUnderstanding x&lt;/g1&gt; (8단계)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;exists_conceivable_and_inReality : ∃ (x : Being), Conceivable x ∧
+InReality x&lt;/g1&gt; (Step 3)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240201T112248Z" creationid="chabulhwi" creationdate="20231101T015309Z">
+        <seg>&lt;g1&gt;exists_conceivable_and_inReality : ∃ (x : Being), Conceivable x ∧
+InReality x&lt;/g1&gt; (3단계)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;goodSmelling_eq_none_of_not_hasSmell x&lt;/g1&gt;: If &lt;g2&gt;x&lt;/g2&gt; is a drink that has
+no smell, &lt;g3&gt;GoodSmelling x&lt;/g3&gt; is &lt;g4&gt;none&lt;/g4&gt;, which means that this class
+doesn't have the proposition "&lt;g5&gt;x&lt;/g5&gt; smells good."</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T155636Z" creationid="chabulhwi" creationdate="20240205T155426Z">
+        <seg>&lt;g1&gt;goodSmelling_eq_none_of_not_hasSmell x&lt;/g1&gt;: &lt;g2&gt;x&lt;/g2&gt;가 냄새가 안 나는 음료일 때, &lt;g3&gt;GoodSmelling x&lt;/g3&gt;는 &lt;g4&gt;none&lt;/g4&gt;이다. 이는 유형 클래스 `GoodSmellingDrink`에 "&lt;g5&gt;x&lt;/g5&gt;는 냄새가 좋다."라는 명제가 없다는 뜻이다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -245,11 +245,11 @@ God.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>A class of drinks with two predicates &lt;g1&gt;hasSmell&lt;/g1&gt; and &lt;g2&gt;goodSmelling&lt;/g2&gt;
+        <seg>A class of drinks with two predicates &lt;g1&gt;HasSmell&lt;/g1&gt; and &lt;g2&gt;GoodSmelling&lt;/g2&gt;
 defined as follows:</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T155114Z" creationid="chabulhwi" creationdate="20240205T154910Z">
-        <seg>다음과 같이 정의된 두 술어 &lt;g1&gt;hasSmell&lt;/g1&gt; and &lt;g2&gt;goodSmelling&lt;/g2&gt;가 있는 음료의 클래스.</seg>
+        <seg>다음과 같이 정의된 두 술어 &lt;g1&gt;HasSmell&lt;/g1&gt; and &lt;g2&gt;GoodSmelling&lt;/g2&gt;가 있는 음료의 클래스.</seg>
       </tuv>
     </tu>
     <tu>
@@ -424,6 +424,38 @@ existence.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GoodSmelling : Drink → Option Prop</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T160550Z" creationid="chabulhwi" creationdate="20240205T160550Z">
+        <seg>GoodSmelling : Drink → Option Prop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GoodSmelling := fun</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T155830Z" creationid="chabulhwi" creationdate="20240205T155830Z">
+        <seg>GoodSmelling := fun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HasSmell : Drink → Prop</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T160549Z" creationid="chabulhwi" creationdate="20240205T160549Z">
+        <seg>HasSmell : Drink → Prop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HasSmell := fun</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T155826Z" creationid="chabulhwi" creationdate="20240205T155826Z">
+        <seg>HasSmell := fun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hence God exists in reality.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T171500Z" creationid="chabulhwi" creationdate="20231027T171500Z">
@@ -476,11 +508,11 @@ following statement is true:</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>I used the type &lt;g1&gt;Option Prop&lt;/g1&gt; to define the predicate &lt;g2&gt;goodSmelling&lt;/g2&gt; on
+        <seg>I used the type &lt;g1&gt;Option Prop&lt;/g1&gt; to define the predicate &lt;g2&gt;GoodSmelling&lt;/g2&gt; on
 drinks.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T153439Z" creationid="chabulhwi" creationdate="20240205T153305Z">
-        <seg>저는 유형 &lt;g1&gt;Option Prop&lt;/g1&gt;을 이용해, 음료에 대한 술어 &lt;g2&gt;goodSmelling&lt;/g2&gt;을 정의했습니다.</seg>
+        <seg>저는 유형 &lt;g1&gt;Option Prop&lt;/g1&gt;을 이용해, 음료에 대한 술어 &lt;g2&gt;GoodSmelling&lt;/g2&gt;을 정의했습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -518,33 +550,33 @@ above&lt;/g1&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>If &lt;g3&gt;x&lt;/g3&gt; is a drink that has no smell, &lt;g4&gt;goodSmelling x&lt;/g4&gt; is &lt;g5&gt;none&lt;/g5&gt;,
+        <seg>If &lt;g3&gt;x&lt;/g3&gt; is a drink that has no smell, &lt;g4&gt;GoodSmelling x&lt;/g4&gt; is &lt;g5&gt;none&lt;/g5&gt;,
 which means that you don't have the proposition "&lt;g6&gt;x&lt;/g6&gt; smells good." in
 the type class &lt;g7&gt;GoodSmellingDrink&lt;/g7&gt;.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T153739Z" creationid="chabulhwi" creationdate="20240205T153447Z">
-        <seg>&lt;g3&gt;x&lt;/g3&gt; 가 냄새가 안 나는 음료이면, &lt;g4&gt;goodSmelling x&lt;/g4&gt;는 &lt;g5&gt;none&lt;/g5&gt;입니다. 이는 유형 클래스 &lt;g7&gt;GoodSmellingDrink&lt;/g7&gt;에 "&lt;g6&gt;x&lt;/g6&gt;는 냄새가 좋다."라는 명제가 없다는 뜻입니다.</seg>
+        <seg>&lt;g3&gt;x&lt;/g3&gt; 가 냄새가 안 나는 음료이면, &lt;g4&gt;GoodSmelling x&lt;/g4&gt;는 &lt;g5&gt;none&lt;/g5&gt;입니다. 이는 유형 클래스 &lt;g7&gt;GoodSmellingDrink&lt;/g7&gt;에 "&lt;g6&gt;x&lt;/g6&gt;는 냄새가 좋다."라는 명제가 없다는 뜻입니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>If &lt;g3&gt;x&lt;/g3&gt; is a drink that has no smell, &lt;g4&gt;goodSmelling x&lt;/g4&gt; is &lt;g5&gt;none&lt;/g5&gt;,
+        <seg>If &lt;g3&gt;x&lt;/g3&gt; is a drink that has no smell, &lt;g4&gt;GoodSmelling x&lt;/g4&gt; is &lt;g5&gt;none&lt;/g5&gt;,
 which means that you don't have the proposition "&lt;g6&gt;x&lt;/g6&gt; smells good." in
 the type class I defined below.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T161054Z" creationid="chabulhwi" creationdate="20240205T161054Z">
-        <seg>&lt;g3&gt;x&lt;/g3&gt; 가 냄새가 안 나는 음료이면, &lt;g4&gt;goodSmelling x&lt;/g4&gt;는 &lt;g5&gt;none&lt;/g5&gt;입니다. 이는 제가 아래에서 정의한 유형 클래스에 "&lt;g6&gt;x&lt;/g6&gt;는 냄새가 좋다."라는 명제가 없다는 뜻입니다.</seg>
+        <seg>&lt;g3&gt;x&lt;/g3&gt; 가 냄새가 안 나는 음료이면, &lt;g4&gt;GoodSmelling x&lt;/g4&gt;는 &lt;g5&gt;none&lt;/g5&gt;입니다. 이는 제가 아래에서 정의한 유형 클래스에 "&lt;g6&gt;x&lt;/g6&gt;는 냄새가 좋다."라는 명제가 없다는 뜻입니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If &lt;g6&gt;x&lt;/g6&gt; is a drink that
-has no smell, &lt;g7&gt;goodSmelling x&lt;/g7&gt; is &lt;g8&gt;none&lt;/g8&gt;, which means that you don't
+has no smell, &lt;g7&gt;GoodSmelling x&lt;/g7&gt; is &lt;g8&gt;none&lt;/g8&gt;, which means that you don't
 have the proposition "&lt;g9&gt;x&lt;/g9&gt; smells good." in the type class I defined
 below.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T170259Z" creationid="chabulhwi" creationdate="20240205T165805Z">
-        <seg>&lt;g6&gt;x&lt;/g6&gt;가 냄새가 안 나는 음료이면, &lt;g7&gt;goodSmelling x&lt;/g7&gt;는 &lt;g8&gt;none&lt;/g8&gt;입니다. 이는 제가 아래에서 정의한 유형 클래스에 "&lt;g9&gt;x&lt;/g9&gt;는 냄새가 좋다."라는 명제가 없다는 뜻입니다.</seg>
+        <seg>&lt;g6&gt;x&lt;/g6&gt;가 냄새가 안 나는 음료이면, &lt;g7&gt;GoodSmelling x&lt;/g7&gt;는 &lt;g8&gt;none&lt;/g8&gt;입니다. 이는 제가 아래에서 정의한 유형 클래스에 "&lt;g9&gt;x&lt;/g9&gt;는 냄새가 좋다."라는 명제가 없다는 뜻입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -579,10 +611,10 @@ x ∧ InReality x&lt;/g1&gt;.</seg>
     <tu>
       <tuv lang="en">
         <seg>In the &lt;g1&gt;&lt;g2&gt;CategoryMistake&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e10/&gt; file, I used the type &lt;g4&gt;Option Prop&lt;/g4&gt;
-to define the predicate &lt;g5&gt;goodSmelling&lt;/g5&gt; on drinks.</seg>
+to define the predicate &lt;g5&gt;GoodSmelling&lt;/g5&gt; on drinks.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240206T054003Z" creationid="chabulhwi" creationdate="20240205T165847Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;CategoryMistake&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e10/&gt; 파일에서, 저는 유형 &lt;g4&gt;Option Prop&lt;/g4&gt;을 이용해, 음료에 대한 술어 &lt;g5&gt;goodSmelling&lt;/g5&gt;을 정의했습니다.</seg>
+        <seg>&lt;g1&gt;&lt;g2&gt;CategoryMistake&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e10/&gt; 파일에서, 저는 유형 &lt;g4&gt;Option Prop&lt;/g4&gt;을 이용해, 음료에 대한 술어 &lt;g5&gt;GoodSmelling&lt;/g5&gt;을 정의했습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -841,10 +873,10 @@ in Lean.</seg>
     <tu>
       <tuv lang="en">
         <seg>The type class &lt;g1&gt;GoodSmellingDrink&lt;/g1&gt; of drinks has two predicates
-&lt;g2&gt;hasSmell&lt;/g2&gt; and &lt;g3&gt;goodSmelling&lt;/g3&gt; defined as follows:</seg>
+&lt;g2&gt;HasSmell&lt;/g2&gt; and &lt;g3&gt;GoodSmelling&lt;/g3&gt; defined as follows:</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T155252Z" creationid="chabulhwi" creationdate="20240205T155252Z">
-        <seg>음료의 유형 클래스 &lt;g1&gt;GoodSmellingDrink&lt;/g1&gt;에는 다음과 같이 정의된 두 술어 &lt;g1&gt;hasSmell&lt;/g1&gt;와 &lt;g2&gt;goodSmelling&lt;/g2&gt;이 있습니다.</seg>
+        <seg>음료의 유형 클래스 &lt;g1&gt;GoodSmellingDrink&lt;/g1&gt;에는 다음과 같이 정의된 두 술어 &lt;g1&gt;HasSmell&lt;/g1&gt;와 &lt;g2&gt;GoodSmelling&lt;/g2&gt;이 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -910,6 +942,15 @@ constructors: &lt;g2&gt;Water&lt;/g2&gt;, &lt;g3&gt;Limeade&lt;/g3&gt;, &lt;g4&g
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240208T015226Z" creationid="chabulhwi" creationdate="20240205T154624Z">
         <seg>이 유형에는 구성자가 네 개 있습니다. 물(&lt;g2&gt;Water&lt;/g2&gt;), 라이메이드(&lt;g3&gt;Limeade&lt;/g3&gt;), 아몬드 우유(&lt;g4&gt;AlmondMilk&lt;/g4&gt;) 그리고 두리안 스무디(&lt;g5&gt;DurianSmoothie&lt;/g5&gt;)가 그 구성자들입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This type has four
+constructors: &lt;g2&gt;water&lt;/g2&gt;, &lt;g3&gt;limeade&lt;/g3&gt;, &lt;g4&gt;almondMilk&lt;/g4&gt;, and &lt;g5&gt;durianSmoothie&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240315T045342Z" creationid="chabulhwi" creationdate="20240315T045342Z">
+        <seg>이 유형에는 구성자가 네 개 있습니다. 물(&lt;g2&gt;water&lt;/g2&gt;), 라이메이드(&lt;g3&gt;limeade&lt;/g3&gt;), 아몬드 우유(&lt;g4&gt;almondMilk&lt;/g4&gt;) 그리고 두리안 스무디(&lt;g5&gt;durianSmoothie&lt;/g5&gt;)가 그 구성자들입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1020,26 +1061,10 @@ link&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>goodSmelling : Drink → Option Prop</seg>
+        <seg>goodSmelling_eq_none_of_not_hasSmell {x : Drink} : ¬HasSmell x → GoodSmelling x = none</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T160550Z" creationid="chabulhwi" creationdate="20240205T160550Z">
-        <seg>goodSmelling : Drink → Option Prop</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>goodSmelling := fun</seg>
-      </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T155830Z" creationid="chabulhwi" creationdate="20240205T155830Z">
-        <seg>goodSmelling := fun</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>goodSmelling_eq_none_of_not_hasSmell {x : Drink} : ¬hasSmell x → goodSmelling x = none</seg>
-      </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T160550Z" creationid="chabulhwi" creationdate="20240205T160550Z">
-        <seg>goodSmelling_eq_none_of_not_hasSmell {x : Drink} : ¬hasSmell x → goodSmelling x = none</seg>
+        <seg>goodSmelling_eq_none_of_not_hasSmell {x : Drink} : ¬HasSmell x → GoodSmelling x = none</seg>
       </tuv>
     </tu>
     <tu>
@@ -1048,22 +1073,6 @@ link&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T155834Z" creationid="chabulhwi" creationdate="20240205T155834Z">
         <seg>goodSmelling_eq_none_of_not_hasSmell {x} := by</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>hasSmell : Drink → Prop</seg>
-      </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T160549Z" creationid="chabulhwi" creationdate="20240205T160549Z">
-        <seg>hasSmell : Drink → Prop</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>hasSmell := fun</seg>
-      </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T155826Z" creationid="chabulhwi" creationdate="20240205T155826Z">
-        <seg>hasSmell := fun</seg>
       </tuv>
     </tu>
     <tu>
@@ -1164,6 +1173,70 @@ link&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>| .almondMilk =&gt; True</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240315T045448Z" creationid="chabulhwi" creationdate="20240315T045448Z">
+        <seg>| .almondMilk =&gt; True</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>| .almondMilk =&gt; some True</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240315T045459Z" creationid="chabulhwi" creationdate="20240315T045459Z">
+        <seg>| .almondMilk =&gt; some True</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>| .durianSmoothie =&gt; True</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240315T045451Z" creationid="chabulhwi" creationdate="20240315T045451Z">
+        <seg>| .durianSmoothie =&gt; True</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>| .durianSmoothie =&gt; some False</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240315T045502Z" creationid="chabulhwi" creationdate="20240315T045502Z">
+        <seg>| .durianSmoothie =&gt; some False</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>| .limeade =&gt; True</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240315T045408Z" creationid="chabulhwi" creationdate="20240315T045408Z">
+        <seg>| .limeade =&gt; True</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>| .limeade =&gt; some True</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240315T045456Z" creationid="chabulhwi" creationdate="20240315T045456Z">
+        <seg>| .limeade =&gt; some True</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>| .water =&gt; False</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240315T045406Z" creationid="chabulhwi" creationdate="20240315T045406Z">
+        <seg>| .water =&gt; False</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>| .water =&gt; none</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240315T045454Z" creationid="chabulhwi" creationdate="20240315T045454Z">
+        <seg>| .water =&gt; none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>| AlmondMilk</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T155816Z" creationid="chabulhwi" creationdate="20240205T155816Z">
@@ -1192,6 +1265,38 @@ link&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T155814Z" creationid="chabulhwi" creationdate="20240205T155814Z">
         <seg>| Water</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>| almondMilk</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240315T045357Z" creationid="chabulhwi" creationdate="20240315T045357Z">
+        <seg>| almondMilk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>| durianSmoothie</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240315T045359Z" creationid="chabulhwi" creationdate="20240315T045359Z">
+        <seg>| durianSmoothie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>| limeade</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240315T045354Z" creationid="chabulhwi" creationdate="20240315T045354Z">
+        <seg>| limeade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>| water</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240315T045351Z" creationid="chabulhwi" creationdate="20240315T045351Z">
+        <seg>| water</seg>
       </tuv>
     </tu>
     <tu>

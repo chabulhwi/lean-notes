@@ -12,8 +12,8 @@ so, we could easily derive a contradiction from these propositions. I think the 
 smells good." is a [category mistake][catmis]. We shouldn't allow using statements of the form "`d`
 smells good," where `d` is a constant that refers to a drink having no smell.
 
-I used the type `Option Prop` to define the predicate `goodSmelling` on drinks. If `x` is a drink
-that has no smell, `goodSmelling x` is `none`, which means that you don't have the proposition "`x`
+I used the type `Option Prop` to define the predicate `GoodSmelling` on drinks. If `x` is a drink
+that has no smell, `GoodSmelling x` is `none`, which means that you don't have the proposition "`x`
 smells good." in the type class I defined below.
 
 ## Reference
@@ -24,40 +24,40 @@ smells good." in the type class I defined below.
 [catmis]: https://plato.stanford.edu/entries/category-mistakes/
 -/
 
-/-- A class of drinks with two predicates `hasSmell` and `goodSmelling` defined as follows:
+/-- A class of drinks with two predicates `HasSmell` and `GoodSmelling` defined as follows:
 
-* `hasSmell x`: `x` has a smell.
-* `goodSmelling x`: `x` smells good, where `x` is a drink that has a smell.
-* `goodSmelling_eq_none_of_not_hasSmell x`: If `x` is a drink that has no smell, `goodSmelling x` is
+* `HasSmell x`: `x` has a smell.
+* `GoodSmelling x`: `x` smells good, where `x` is a drink that has a smell.
+* `goodSmelling_eq_none_of_not_hasSmell x`: If `x` is a drink that has no smell, `GoodSmelling x` is
   `none`, which means that this class doesn't have the proposition "`x` smells good." -/
 class GoodSmellingDrink (Drink : Type u) where
-  hasSmell : Drink → Prop
-  goodSmelling : Drink → Option Prop
-  goodSmelling_eq_none_of_not_hasSmell {x : Drink} : ¬hasSmell x → goodSmelling x = none
+  HasSmell : Drink → Prop
+  GoodSmelling : Drink → Option Prop
+  goodSmelling_eq_none_of_not_hasSmell {x : Drink} : ¬HasSmell x → GoodSmelling x = none
 
 /-- Bulhwi's drinks: water, limeade, almond milk, and durian smoothie. -/
 inductive BulhwiDrink : Type where
-  | Water
-  | Limeade
-  | AlmondMilk
-  | DurianSmoothie
+  | water
+  | limeade
+  | almondMilk
+  | durianSmoothie
   deriving Repr
 
-/-- Bulhwi's drinks with two predicates `hasSmell` and `goodSmelling` defined as follows:
+/-- Bulhwi's drinks with two predicates `HasSmell` and `GoodSmelling` defined as follows:
 
 * Water has no smell; the rest have it.
 * This class instance doesn't have the proposition "Water smells good."
 * Limeade and almond milk smell good; durian smoothie doesn't. -/
 instance : GoodSmellingDrink BulhwiDrink where
-  hasSmell := fun
-    | .Water => False
-    | .Limeade => True
-    | .AlmondMilk => True
-    | .DurianSmoothie => True
-  goodSmelling := fun
-    | .Water => none
-    | .Limeade => some True
-    | .AlmondMilk => some True
-    | .DurianSmoothie => some False
+  HasSmell := fun
+    | .water => False
+    | .limeade => True
+    | .almondMilk => True
+    | .durianSmoothie => True
+  GoodSmelling := fun
+    | .water => none
+    | .limeade => some True
+    | .almondMilk => some True
+    | .durianSmoothie => some False
   goodSmelling_eq_none_of_not_hasSmell {x} := by
     cases x <;> simp
