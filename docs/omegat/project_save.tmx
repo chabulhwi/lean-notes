@@ -153,12 +153,12 @@ SEP entry "Ontological Arguments."&lt;/g8&gt;&lt;g9&gt;&lt;/g9&gt;&lt;e12/&gt;)<
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;g1&gt;exists_conceivable_and_inReality : ∃ (x : Being), conceivable x ∧
-inReality x&lt;/g1&gt; (Step 3)</seg>
+        <seg>&lt;g1&gt;exists_conceivable_and_inReality : ∃ (x : Being), Conceivable x ∧
+InReality x&lt;/g1&gt; (Step 3)</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240201T112248Z" creationid="chabulhwi" creationdate="20231101T015309Z">
-        <seg>&lt;g1&gt;exists_conceivable_and_inReality : ∃ (x : Being), conceivable x ∧
-inReality x&lt;/g1&gt; (3단계)</seg>
+        <seg>&lt;g1&gt;exists_conceivable_and_inReality : ∃ (x : Being), Conceivable x ∧
+InReality x&lt;/g1&gt; (3단계)</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,40 +190,40 @@ doesn't have the proposition "&lt;g5&gt;x&lt;/g5&gt; smells good."</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;g1&gt;isGod_inUnderstanding {x : Being} : isGod x → inUnderstanding x&lt;/g1&gt;
+        <seg>&lt;g1&gt;IsGod_inUnderstanding {x : Being} : IsGod x → InUnderstanding x&lt;/g1&gt;
 (Step 8)</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231101T015335Z" creationid="chabulhwi" creationdate="20231101T015315Z">
-        <seg>&lt;g1&gt;isGod_inUnderstanding {x : Being} : isGod x → inUnderstanding x&lt;/g1&gt;
+        <seg>&lt;g1&gt;IsGod_inUnderstanding {x : Being} : IsGod x → InUnderstanding x&lt;/g1&gt;
 (8단계)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;g1&gt;isGod_inUnderstanding {x : Being} : isGod x → inUnderstanding x&lt;/g1&gt; (Step 8)</seg>
+        <seg>&lt;g1&gt;IsGod_inUnderstanding {x : Being} : IsGod x → InUnderstanding x&lt;/g1&gt; (Step 8)</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240201T111706Z" creationid="chabulhwi" creationdate="20240201T111706Z">
-        <seg>&lt;g1&gt;isGod_inUnderstanding {x : Being} : isGod x → inUnderstanding x&lt;/g1&gt; (8단계)</seg>
+        <seg>&lt;g1&gt;IsGod_inUnderstanding {x : Being} : IsGod x → InUnderstanding x&lt;/g1&gt; (8단계)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g1&gt;lt_of_inUnderstanding_not_inReality_inReality {x y : Being} :
-inUnderstanding x → ¬ inReality x → inReality y → x &lt; y&lt;/g1&gt; (Step 2)</seg>
+InUnderstanding x → ¬ InReality x → InReality y → x &lt; y&lt;/g1&gt; (Step 2)</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231101T015307Z" creationid="chabulhwi" creationdate="20231101T015301Z">
         <seg>&lt;g1&gt;lt_of_inUnderstanding_not_inReality_inReality {x y : Being} :
-inUnderstanding x → ¬ inReality x → inReality y → x &lt; y&lt;/g1&gt; (2단계)</seg>
+InUnderstanding x → ¬ InReality x → InReality y → x &lt; y&lt;/g1&gt; (2단계)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g1&gt;lt_of_inUnderstanding_not_inReality_inReality {x y : Being} :
-inUnderstanding x → ¬inReality x → inReality y → x &lt; y&lt;/g1&gt; (Step 2)</seg>
+InUnderstanding x → ¬InReality x → InReality y → x &lt; y&lt;/g1&gt; (Step 2)</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240201T112244Z" creationid="chabulhwi" creationdate="20240201T111639Z">
         <seg>&lt;g1&gt;lt_of_inUnderstanding_not_inReality_inReality {x y : Being} :
-inUnderstanding x → ¬inReality x → inReality y → x &lt; y&lt;/g1&gt; (2단계)</seg>
+InUnderstanding x → ¬InReality x → InReality y → x &lt; y&lt;/g1&gt; (2단계)</seg>
       </tuv>
     </tu>
     <tu>
@@ -255,47 +255,47 @@ defined as follows:</seg>
     <tu>
       <tuv lang="en">
         <seg>A user named car_nap &lt;g1&gt;pointed out&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt; (in Korean) that I didn't prove
-that the statement &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt; is not a
+that the statement &lt;g3&gt;∃ (x : Being), IsGod x ∧ InReality x&lt;/g3&gt; is not a
 theorem of a theory whose axioms are the premises of St. Anselm's
 argument (and the axioms of Lean's type theory).</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231028T123242Z" creationid="chabulhwi" creationdate="20231028T105823Z">
-        <seg>&lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt;라는 진술은, 안셀무스가 제시한 논증의 전제(그리고 린의 유형론의 공리)로 공리계가 이뤄진 이론의 정리가 아님을 저는 증명하지 않았습니다. 카르납(car_nap)이라는 이용자가 이 점을 &lt;g1&gt;지적했습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;.</seg>
+        <seg>&lt;g3&gt;∃ (x : Being), IsGod x ∧ InReality x&lt;/g3&gt;라는 진술은, 안셀무스가 제시한 논증의 전제(그리고 린의 유형론의 공리)로 공리계가 이뤄진 이론의 정리가 아님을 저는 증명하지 않았습니다. 카르납(car_nap)이라는 이용자가 이 점을 &lt;g1&gt;지적했습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>A user named car_nap &lt;g1&gt;pointed out&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt; that I didn't prove that the
-statement &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt; is not a theorem of a
+statement &lt;g3&gt;∃ (x : Being), IsGod x ∧ InReality x&lt;/g3&gt; is not a theorem of a
 theory whose axioms are the premises of St. Anselm's argument (and the
 axioms of Lean's type theory).</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231028T101540Z" creationid="chabulhwi" creationdate="20231028T101158Z">
-        <seg>&lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt;라는 진술은 안셀무스의 논증에 있는 전제(그리고 린의 유형론의 공리)가 공리인 이론의 정리가 아님을 저는 증명하지 않았습니다. 카르납(car_nap)이라는 이용자가 이 점을 &lt;g1&gt;지적했습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;.</seg>
+        <seg>&lt;g3&gt;∃ (x : Being), IsGod x ∧ InReality x&lt;/g3&gt;라는 진술은 안셀무스의 논증에 있는 전제(그리고 린의 유형론의 공리)가 공리인 이론의 정리가 아님을 저는 증명하지 않았습니다. 카르납(car_nap)이라는 이용자가 이 점을 &lt;g1&gt;지적했습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>A user named car_nap of Owl of Sogang, a Korean-speaking philosophy
 discussion forum, &lt;g1&gt;pointed out&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt; (in Korean) that I didn't prove
-that the statement &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt; is not a
+that the statement &lt;g3&gt;∃ (x : Being), IsGod x ∧ InReality x&lt;/g3&gt; is not a
 theorem of a theory whose axioms are the premises of St. Anselm's
 argument (and the axioms of Lean's type theory).</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231101T013223Z" creationid="chabulhwi" creationdate="20231101T013125Z">
-        <seg>&lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt;라는 진술은, 안셀무스가 제시한 논증의 전제(그리고 린의 유형론의 공리)로 공리계가 이뤄진 이론의 정리가 아님을 제가 증명하지 않았다는 &lt;g1&gt;지적을 받았습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;. 이 지적은 한국의 철학 포럼인 서강올빼미의 한 이용자 카르납(car_nap) 님이 했습니다.</seg>
+        <seg>&lt;g3&gt;∃ (x : Being), IsGod x ∧ InReality x&lt;/g3&gt;라는 진술은, 안셀무스가 제시한 논증의 전제(그리고 린의 유형론의 공리)로 공리계가 이뤄진 이론의 정리가 아님을 제가 증명하지 않았다는 &lt;g1&gt;지적을 받았습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;. 이 지적은 한국의 철학 포럼인 서강올빼미의 한 이용자 카르납(car_nap) 님이 했습니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>A user named car_nap of Owl of Sogang, a Korean-speaking philosophy
 discussion forum, &lt;g1&gt;pointed out&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt; (in Korean) that I didn't prove that
-the statement &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt; is not a theorem of
+the statement &lt;g3&gt;∃ (x : Being), IsGod x ∧ InReality x&lt;/g3&gt; is not a theorem of
 a theory whose axioms are the premises of St. Anselm's argument (and the
 axioms of Lean's type theory).</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231028T174419Z" creationid="chabulhwi" creationdate="20231028T171125Z">
-        <seg>&lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt;라는 진술은, 안셀무스가 제시한 논증의 전제(그리고 린의 유형론의 공리)로 공리계가 이뤄진 이론의 정리가 아님을 제가 증명하지 않았다는 &lt;g1&gt;지적을 받았습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;. 이 지적은 한국의 철학 포럼인 서강올빼미의 한 이용자 카르납(car_nap) 님이 했습니다.</seg>
+        <seg>&lt;g3&gt;∃ (x : Being), IsGod x ∧ InReality x&lt;/g3&gt;라는 진술은, 안셀무스가 제시한 논증의 전제(그리고 린의 유형론의 공리)로 공리계가 이뤄진 이론의 정리가 아님을 제가 증명하지 않았다는 &lt;g1&gt;지적을 받았습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;. 이 지적은 한국의 철학 포럼인 서강올빼미의 한 이용자 카르납(car_nap) 님이 했습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -309,21 +309,21 @@ axioms of Lean's type theory).</seg>
     <tu>
       <tuv lang="en">
         <seg>Alistair Tucker also &lt;g1&gt;told me&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt; how to prove that we can't deduce
-the statement &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt; from the premises
+the statement &lt;g3&gt;∃ (x : Being), IsGod x ∧ InReality x&lt;/g3&gt; from the premises
 of St. Anselm's argument and the axioms of Lean's type theory.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231101T013223Z" creationid="chabulhwi" creationdate="20231101T013149Z">
-        <seg>안셀무스가 제시한 논증의 전제와 린의 유형론의 공리에서 &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt;라는 진술을 도출할 수 없음을 증명하는 방법은 앨리스터 터커 님이 제게 &lt;g1&gt;알려 줬습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;.</seg>
+        <seg>안셀무스가 제시한 논증의 전제와 린의 유형론의 공리에서 &lt;g3&gt;∃ (x : Being), IsGod x ∧ InReality x&lt;/g3&gt;라는 진술을 도출할 수 없음을 증명하는 방법은 앨리스터 터커 님이 제게 &lt;g1&gt;알려 줬습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Alistair Tucker also &lt;g1&gt;told me&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt; how to prove that we can't deduce the
-statement &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt; from the premises of
+statement &lt;g3&gt;∃ (x : Being), IsGod x ∧ InReality x&lt;/g3&gt; from the premises of
 St. Anselm's argument and the axioms of Lean's type theory.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231029T034707Z" creationid="chabulhwi" creationdate="20231029T032108Z">
-        <seg>안셀무스가 제시한 논증의 전제와 린의 유형론의 공리에서 &lt;g3&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g3&gt;라는 진술을 도출할 수 없음을 증명하는 방법은 앨리스터 터커 님이 제게 &lt;g1&gt;알려 줬습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;.</seg>
+        <seg>안셀무스가 제시한 논증의 전제와 린의 유형론의 공리에서 &lt;g3&gt;∃ (x : Being), IsGod x ∧ InReality x&lt;/g3&gt;라는 진술을 도출할 수 없음을 증명하는 방법은 앨리스터 터커 님이 제게 &lt;g1&gt;알려 줬습니다&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,20 +560,20 @@ from these propositions.</seg>
       <tuv lang="en">
         <seg>In order to prove the
 existence of God in reality, you need to show that &lt;g1&gt;∃ (x : Being),
-isGod x ∧ inReality x&lt;/g1&gt;.</seg>
+IsGod x ∧ InReality x&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T172857Z" creationid="chabulhwi" creationdate="20231027T172857Z">
-        <seg>신이 현실에 존재함을 증명하려면, &lt;g1&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g1&gt;임을 보여야 합니다.</seg>
+        <seg>신이 현실에 존재함을 증명하려면, &lt;g1&gt;∃ (x : Being), IsGod x ∧ InReality x&lt;/g1&gt;임을 보여야 합니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>In order to prove the
-existence of God in reality, you need to show that &lt;g1&gt;∃ (x : Being), isGod
-x ∧ inReality x&lt;/g1&gt;.</seg>
+existence of God in reality, you need to show that &lt;g1&gt;∃ (x : Being), IsGod
+x ∧ InReality x&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231101T013132Z" creationid="chabulhwi" creationdate="20231101T013132Z">
-        <seg>신이 현실에 존재함을 증명하려면, &lt;g1&gt;∃ (x : Being), isGod x ∧ inReality x&lt;/g1&gt;임을 보여야 합니다.</seg>
+        <seg>신이 현실에 존재함을 증명하려면, &lt;g1&gt;∃ (x : Being), IsGod x ∧ InReality x&lt;/g1&gt;임을 보여야 합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,33 +714,33 @@ greatest being that can be conceived, God itself can be conceived.</seg>
       <tuv lang="en">
         <seg>So I proved a theorem named &lt;g1&gt;Anselm.not_exists_int_isGod&lt;/g1&gt;, which shows
 that there exist a universe level &lt;g2&gt;u&lt;/g2&gt;, a type &lt;g3&gt;Being : Type u&lt;/g3&gt;, and an
-instance of &lt;g4&gt;Anselm Being&lt;/g4&gt; where the statement &lt;g5&gt;∃ (x : Being), isGod x&lt;/g5&gt;
+instance of &lt;g4&gt;Anselm Being&lt;/g4&gt; where the statement &lt;g5&gt;∃ (x : Being), IsGod x&lt;/g5&gt;
 is false.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231029T062650Z" creationid="chabulhwi" creationdate="20231029T062626Z">
-        <seg>그래서 &lt;g1&gt;Anselm.not_exists_int_isGod&lt;/g1&gt;이라는 정리를 증명했습니다. 이 정리는 &lt;g5&gt;∃ (x : Being), isGod x&lt;/g5&gt;이라는 진술이 거짓인 유형 세계 단계 &lt;g2&gt;u&lt;/g2&gt;, 유형 &lt;g3&gt;Being : Type u&lt;/g3&gt; 그리고 &lt;g4&gt;Anselm Being&lt;/g4&gt;의 사례[인스턴스]가 존재함을 보여 줍니다.</seg>
+        <seg>그래서 &lt;g1&gt;Anselm.not_exists_int_isGod&lt;/g1&gt;이라는 정리를 증명했습니다. 이 정리는 &lt;g5&gt;∃ (x : Being), IsGod x&lt;/g5&gt;이라는 진술이 거짓인 유형 세계 단계 &lt;g2&gt;u&lt;/g2&gt;, 유형 &lt;g3&gt;Being : Type u&lt;/g3&gt; 그리고 &lt;g4&gt;Anselm Being&lt;/g4&gt;의 사례[인스턴스]가 존재함을 보여 줍니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>So I proved a theorem named &lt;g1&gt;Anselm.not_exists_int_isGod&lt;/g1&gt;, which states
 that there exist a universe level &lt;g2&gt;u&lt;/g2&gt;, a type &lt;g3&gt;Being : Type u&lt;/g3&gt;, and an
-instance of &lt;g4&gt;Anselm Being&lt;/g4&gt; where the statement &lt;g5&gt;∃ (x : Being), isGod x&lt;/g5&gt;
+instance of &lt;g4&gt;Anselm Being&lt;/g4&gt; where the statement &lt;g5&gt;∃ (x : Being), IsGod x&lt;/g5&gt;
 is false.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231028T173114Z" creationid="chabulhwi" creationdate="20231028T172937Z">
-        <seg>그래서 &lt;g1&gt;Anselm.not_exists_int_isGod&lt;/g1&gt;이라는 정리를 증명했습니다. 이 정리는 &lt;g5&gt;∃ (x : Being), isGod x&lt;/g5&gt;이라는 진술이 거짓인 유형 세계 단계 &lt;g2&gt;u&lt;/g2&gt;, 유형 &lt;g3&gt;Being : Type u&lt;/g3&gt; 그리고 &lt;g4&gt;Anselm Being&lt;/g4&gt;의 사례[인스턴스]가 존재한다는 내용입니다.</seg>
+        <seg>그래서 &lt;g1&gt;Anselm.not_exists_int_isGod&lt;/g1&gt;이라는 정리를 증명했습니다. 이 정리는 &lt;g5&gt;∃ (x : Being), IsGod x&lt;/g5&gt;이라는 진술이 거짓인 유형 세계 단계 &lt;g2&gt;u&lt;/g2&gt;, 유형 &lt;g3&gt;Being : Type u&lt;/g3&gt; 그리고 &lt;g4&gt;Anselm Being&lt;/g4&gt;의 사례[인스턴스]가 존재한다는 내용입니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>So I proved a theorem named &lt;g1&gt;not_exists_int_isGod&lt;/g1&gt;, which shows that
 there exist a universe level &lt;g2&gt;u&lt;/g2&gt;, a type &lt;g3&gt;Being : Type u&lt;/g3&gt;, and an
-instance of &lt;g4&gt;Anselm Being&lt;/g4&gt; where the statement &lt;g5&gt;∃ (x : Being), isGod x&lt;/g5&gt;
+instance of &lt;g4&gt;Anselm Being&lt;/g4&gt; where the statement &lt;g5&gt;∃ (x : Being), IsGod x&lt;/g5&gt;
 is false.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231104T144611Z" creationid="chabulhwi" creationdate="20231104T144611Z">
-        <seg>그래서 &lt;g1&gt;not_exists_int_isGod&lt;/g1&gt;이라는 정리를 증명했습니다. 이 정리는 &lt;g5&gt;∃ (x : Being), isGod x&lt;/g5&gt;이라는 진술이 거짓인 유형 세계 단계 &lt;g2&gt;u&lt;/g2&gt;, 유형 &lt;g3&gt;Being : Type u&lt;/g3&gt; 그리고 &lt;g4&gt;Anselm Being&lt;/g4&gt;의 사례[인스턴스]가 존재함을 보여 줍니다.</seg>
+        <seg>그래서 &lt;g1&gt;not_exists_int_isGod&lt;/g1&gt;이라는 정리를 증명했습니다. 이 정리는 &lt;g5&gt;∃ (x : Being), IsGod x&lt;/g5&gt;이라는 진술이 거짓인 유형 세계 단계 &lt;g2&gt;u&lt;/g2&gt;, 유형 &lt;g3&gt;Being : Type u&lt;/g3&gt; 그리고 &lt;g4&gt;Anselm Being&lt;/g4&gt;의 사례[인스턴스]가 존재함을 보여 줍니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1092,10 +1092,10 @@ link&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>theorem isGod_inReality {x : Being} : isGod x → inReality x</seg>
+        <seg>theorem IsGod_inReality {x : Being} : IsGod x → InReality x</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231101T015121Z" creationid="chabulhwi" creationdate="20231101T015121Z">
-        <seg>theorem isGod_inReality {x : Being} : isGod x → inReality x</seg>
+        <seg>theorem IsGod_inReality {x : Being} : IsGod x → InReality x</seg>
       </tuv>
     </tu>
     <tu>

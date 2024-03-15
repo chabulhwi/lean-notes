@@ -28,10 +28,10 @@ Arguments."](#reference))
 I formalized the three premises of the argument as follows:
 
 * `lt_of_inUnderstanding_not_inReality_inReality {x y : Being} :
-inUnderstanding x → ¬inReality x → inReality y → x < y` (Step 2)
-* `exists_conceivable_and_inReality : ∃ (x : Being), conceivable x ∧
-inReality x` (Step 3)
-* `isGod_inUnderstanding {x : Being} : isGod x → inUnderstanding x` (Step 8)
+InUnderstanding x → ¬InReality x → InReality y → x < y` (Step 2)
+* `exists_conceivable_and_inReality : ∃ (x : Being), Conceivable x ∧
+InReality x` (Step 3)
+* `IsGod_inUnderstanding {x : Being} : IsGod x → InUnderstanding x` (Step 8)
 
 Step 3 of the original formulation by Alvin Plantinga is the following
 premise: "A being having all of God’s properties plus existence in
@@ -43,13 +43,13 @@ I think the conclusion of St. Anselm's argument is the following
 statement:
 
 ```lean
-theorem isGod_inReality {x : Being} : isGod x → inReality x
+theorem IsGod_inReality {x : Being} : IsGod x → InReality x
 ```
 
 This theorem doesn't state that God exists in reality. It merely says
 that if a being is God, it exists in reality. In order to prove the
-existence of God in reality, you need to show that `∃ (x : Being), isGod
-x ∧ inReality x`.
+existence of God in reality, you need to show that `∃ (x : Being), IsGod
+x ∧ InReality x`.
 
 For this reason, I think St. Anselm's argument doesn't show God's
 existence. Of course, I might have formalized it wrong.
@@ -58,13 +58,13 @@ existence. Of course, I might have formalized it wrong.
 
 A user named car_nap of Owl of Sogang, a Korean-speaking philosophy
 discussion forum, [pointed out][owl] (in Korean) that I didn't prove
-that the statement `∃ (x : Being), isGod x ∧ inReality x` is not a
+that the statement `∃ (x : Being), IsGod x ∧ InReality x` is not a
 theorem of a theory whose axioms are the premises of St. Anselm's
 argument (and the axioms of Lean's type theory).
 
 So I proved a theorem named `not_exists_int_isGod`, which shows that
 there exist a universe level `u`, a type `Being : Type u`, and an
-instance of `Anselm Being` where the statement `∃ (x : Being), isGod x`
+instance of `Anselm Being` where the statement `∃ (x : Being), IsGod x`
 is false.
 
 ## Reference
@@ -85,7 +85,7 @@ Plantinga. You can see my discussion with them in [this
 link][leanzulip].
 
 Alistair Tucker also [told me][tucker] how to prove that we can't deduce
-the statement `∃ (x : Being), isGod x ∧ inReality x` from the premises
+the statement `∃ (x : Being), IsGod x ∧ InReality x` from the premises
 of St. Anselm's argument and the axioms of Lean's type theory.
 
 ### Owl of Sogang

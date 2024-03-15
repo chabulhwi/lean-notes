@@ -36,10 +36,10 @@ ontological argument by Alvin Plantinga. (See [9.1 Formulation
 I formalized the three premises of the argument as follows:
 
 * `lt_of_inUnderstanding_not_inReality_inReality {x y : Being} :
-inUnderstanding x → ¬inReality x → inReality y → x < y` (Step 2)
-* `exists_conceivable_and_inReality : ∃ (x : Being), conceivable x ∧
-inReality x` (Step 3)
-* `isGod_inUnderstanding {x : Being} : isGod x → inUnderstanding x` (Step 8)
+InUnderstanding x → ¬InReality x → InReality y → x < y` (Step 2)
+* `exists_conceivable_and_inReality : ∃ (x : Being), Conceivable x ∧
+InReality x` (Step 3)
+* `IsGod_inUnderstanding {x : Being} : IsGod x → InUnderstanding x` (Step 8)
 
 Step 3 of the original formulation by Alvin Plantinga is the following
 premise: "A being having all of God’s properties plus existence in
@@ -51,13 +51,13 @@ I think the conclusion of St. Anselm's argument is the following
 statement:
 
 ```lean
-theorem isGod_inReality {x : Being} : isGod x → inReality x
+theorem IsGod_inReality {x : Being} : IsGod x → InReality x
 ```
 
 This theorem doesn't state that God exists in reality. It merely says
 that if a being is God, it exists in reality. In order to prove the
-existence of God in reality, you need to show that `∃ (x : Being), isGod
-x ∧ inReality x`.
+existence of God in reality, you need to show that `∃ (x : Being), IsGod
+x ∧ InReality x`.
 
 For this reason, I think St. Anselm's argument doesn't show God's
 existence. Of course, I might have formalized it wrong.
@@ -66,13 +66,13 @@ existence. Of course, I might have formalized it wrong.
 
 A user named car_nap of Owl of Sogang, a Korean-speaking philosophy
 discussion forum, [pointed out][owl] (in Korean) that I didn't prove
-that the statement `∃ (x : Being), isGod x ∧ inReality x` is not a
+that the statement `∃ (x : Being), IsGod x ∧ InReality x` is not a
 theorem of a theory whose axioms are the premises of St. Anselm's
 argument (and the axioms of Lean's type theory).
 
 So I proved a theorem named `not_exists_int_isGod`, which shows that
 there exist a universe level `u`, a type `Being : Type u`, and an
-instance of `Anselm Being` where the statement `∃ (x : Being), isGod x`
+instance of `Anselm Being` where the statement `∃ (x : Being), IsGod x`
 is false.
 
 ## Reference
@@ -93,7 +93,7 @@ Plantinga. You can see my discussion with them in [this
 link][leanzulip].
 
 Alistair Tucker also [told me][tucker] how to prove that we can't deduce
-the statement `∃ (x : Being), isGod x ∧ inReality x` from the premises
+the statement `∃ (x : Being), IsGod x ∧ InReality x` from the premises
 of St. Anselm's argument and the axioms of Lean's type theory.
 
 ### Owl of Sogang
@@ -127,22 +127,22 @@ end PartialOrder
 
 /-- A class for formalizing St. Anselm's ontological argument of the existence of God.
 
-* `conceivable x`: `x` can be conceived.
-* `inUnderstanding x`: `x` exists in the understanding.
-* `inReality x`: `x` exists in reality.
+* `Conceivable x`: `x` can be conceived.
+* `InUnderstanding x`: `x` exists in the understanding.
+* `InReality x`: `x` exists in reality.
 * `lt_of_inUnderstanding_not_inReality_inReality`: If `x` exists in the understanding alone and
   `y` exists in reality, `y` is greater than `x`.
-* `IsGreatest_conceivable_inUnderstanding`: If `x` is a greatest being that can be conceived,
+* `inUnderstanding_of_isGreatest_conceivable`: If `x` is a greatest being that can be conceived,
   `x` exists in the understanding.
 * `exists_conceivable_and_inReality`: There exists a being in reality that can be conceived. -/
 class Anselm (Being : Type u) extends PartialOrder Being where
-  conceivable : Being → Prop
-  inUnderstanding : Being → Prop
-  inReality : Being → Prop
-  lt_of_inUnderstanding_not_inReality_inReality {x y : Being} : inUnderstanding x → ¬inReality x →
-    inReality y → x < y
-  IsGreatest_conceivable_inUnderstanding {x : Being} : IsGreatest conceivable x → inUnderstanding x
-  exists_conceivable_and_inReality : ∃ (x : Being), conceivable x ∧ inReality x
+  Conceivable : Being → Prop
+  InUnderstanding : Being → Prop
+  InReality : Being → Prop
+  lt_of_inUnderstanding_not_inReality_inReality {x y : Being} : InUnderstanding x → ¬InReality x →
+    InReality y → x < y
+  inUnderstanding_of_isGreatest_conceivable {x : Being} : IsGreatest Conceivable x → InUnderstanding x
+  exists_conceivable_and_inReality : ∃ (x : Being), Conceivable x ∧ InReality x
 
 namespace Anselm
 
@@ -151,23 +151,23 @@ section
 variable {Being : Type u} [Anselm Being]
 
 /-- God is a greatest being that can be conceived. -/
-def isGod (x : Being) := IsGreatest conceivable x
+def IsGod (x : Being) := IsGreatest Conceivable x
 
 /-- God is unique, which means that no two different beings are God. -/
-theorem isGod_unique {x y : Being} : isGod x → isGod y → x = y :=
-  IsGreatest.unique (s := conceivable)
+theorem IsGod_unique {x y : Being} : IsGod x → IsGod y → x = y :=
+  IsGreatest.unique (s := Conceivable)
 
 /-- If a being is God, it exists in the understanding. -/
-theorem isGod_inUnderstanding {x : Being} : isGod x → inUnderstanding x :=
-  IsGreatest_conceivable_inUnderstanding
+theorem IsGod_inUnderstanding {x : Being} : IsGod x → InUnderstanding x :=
+  inUnderstanding_of_isGreatest_conceivable
 
 /-- God is conceivable. -/
-theorem isGod_conceivable {x : Being} : isGod x → conceivable x := And.left
+theorem IsGod_conceivable {x : Being} : IsGod x → Conceivable x := And.left
 
 /-- The conclusion of St. Anselm's argument: if a being is God, it exists in reality. -/
-theorem isGod_inReality {x : Being} (hgd : isGod x) : inReality x := by
+theorem IsGod_inReality {x : Being} (hgd : IsGod x) : InReality x := by
   refine IsGreatest.property hgd ?_ ?_
-  · exact lt_of_inUnderstanding_not_inReality_inReality (isGod_inUnderstanding hgd)
+  · exact lt_of_inUnderstanding_not_inReality_inReality (IsGod_inUnderstanding hgd)
   · exact exists_conceivable_and_inReality
 
 end
@@ -176,15 +176,15 @@ end
 ## Theorem `not_exists_int_isGod`
 
 There exist a universe level `u`, a type `Being : Type u`, and an
-instance of `Anselm Being` where the statement `∃ (x : Being), isGod x`
+instance of `Anselm Being` where the statement `∃ (x : Being), IsGod x`
 is false.
 -/
 
 /-- A local instance for proving the theorem `not_exists_int_isGod`. -/
 instance : Anselm ℤ where
-  conceivable := fun _ ↦ True
-  inUnderstanding := fun _ ↦ True
-  inReality := fun
+  Conceivable := fun _ ↦ True
+  InUnderstanding := fun _ ↦ True
+  InReality := fun
     | .ofNat _ => True
     | .negSucc _ => False
   lt_of_inUnderstanding_not_inReality_inReality {_ _ : ℤ} := by
@@ -193,11 +193,11 @@ instance : Anselm ℤ where
     calc
       -(n + 1) < (0 : ℤ) := Int.negSucc_lt_zero n
       0 ≤ ↑m := Int.zero_le_ofNat m
-  IsGreatest_conceivable_inUnderstanding := by simp
+  inUnderstanding_of_isGreatest_conceivable := by simp
   exists_conceivable_and_inReality := by exists 0
 
 /-- There exists an instantiation of the `Anselm` class where God doesn't exist. -/
-theorem not_exists_int_isGod : ¬∃ (a : ℤ), isGod a := by
+theorem not_exists_int_isGod : ¬∃ (a : ℤ), IsGod a := by
   intro hex
   rcases hex with ⟨god, _, hle⟩
   have god_lt_succ_god : god < god + 1 := Int.lt_succ god
