@@ -153,6 +153,24 @@ SEP entry "Ontological Arguments."&lt;/g8&gt;&lt;g9&gt;&lt;/g9&gt;&lt;e12/&gt;)<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;: St. Anselm's ontological argument for the
+existence of God.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240415T021448Z" creationid="chabulhwi" creationdate="20240415T021358Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;: 신의 존재에 대한, 안셀무스의 존재론적 논증.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;&lt;g2&gt;CategoryMistake&lt;/g2&gt;&lt;/g1&gt;: An example of category
+mistakes.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240415T021513Z" creationid="chabulhwi" creationdate="20240415T021455Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;CategoryMistake&lt;/g2&gt;&lt;/g1&gt;: 범주 실수의 예.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g1&gt;GoodSmelling x&lt;/g1&gt;: &lt;g2&gt;x&lt;/g2&gt; smells good, where &lt;g3&gt;x&lt;/g3&gt; is a drink that has a
 smell.</seg>
       </tuv>
@@ -365,6 +383,38 @@ since water has no smell?</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Directories</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240415T021334Z" creationid="chabulhwi" creationdate="20240415T021334Z">
+        <seg>디렉터리</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documentation: &lt;g1&gt;&lt;g2&gt;docs&lt;/g2&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240415T021529Z" creationid="chabulhwi" creationdate="20240415T021529Z">
+        <seg>문서: &lt;g1&gt;&lt;g2&gt;docs&lt;/g2&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English | &lt;g1&gt;한국어[Korean]&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240415T022625Z" creationid="chabulhwi" creationdate="20240415T022625Z">
+        <seg>[English (영어)](./README.md) | 한국어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English: &lt;g1&gt;&lt;g2&gt;en&lt;/g2&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240415T021540Z" creationid="chabulhwi" creationdate="20240415T021535Z">
+        <seg>영어: &lt;g1&gt;&lt;g2&gt;en&lt;/g2&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Eric Wieser found
 inconsistency in my first and second drafts.</seg>
       </tuv>
@@ -504,6 +554,14 @@ following statement is true:</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T172545Z" creationid="chabulhwi" creationdate="20231027T172426Z">
         <seg>제가 보건대, 안셀무스의 논증에서 이끌어 낼 수 있는 결론은 다음 진술이 참이라는 것뿐입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I use &lt;g1&gt;OmegaT&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e7/&gt; to translate English documentation into Korean.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240415T021201Z" creationid="chabulhwi" creationdate="20240415T020912Z">
+        <seg>&lt;g1&gt;오메가T(OmegaT)&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e7/&gt;를 이용해 영어 문서를 한국어로 번역했습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -661,6 +719,22 @@ argument by Alvin Plantinga.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231029T051502Z" creationid="chabulhwi" creationdate="20231029T051502Z">
         <seg>이 파일은 앨빈 플랜팅아가 정식화한 안셀무스의 존재론적 논증을 수정한 버전입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Korean: &lt;g1&gt;&lt;g2&gt;ko&lt;/g2&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240415T021913Z" creationid="chabulhwi" creationdate="20240415T021913Z">
+        <seg>한국어: &lt;g1&gt;&lt;g2&gt;ko&lt;/g2&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lean code: &lt;g1&gt;&lt;g2&gt;Notes&lt;/g2&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240415T021352Z" creationid="chabulhwi" creationdate="20240415T021352Z">
+        <seg>린 코드: &lt;g1&gt;&lt;g2&gt;Notes&lt;/g2&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -864,6 +938,15 @@ in Lean.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OmegaT
+project is in the &lt;g3&gt;&lt;g4&gt;docs&lt;/g4&gt;&lt;/g3&gt; directory.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240415T021257Z" creationid="chabulhwi" creationdate="20240415T021257Z">
+        <seg>오메가T 프로젝트는 &lt;g3&gt;&lt;g4&gt;docs&lt;/g4&gt;&lt;/g3&gt; 디렉터리에 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The type class &lt;g1&gt;GoodSmellingDrink&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T153844Z" creationid="chabulhwi" creationdate="20240205T153745Z">
@@ -925,6 +1008,14 @@ in Lean.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T235508Z" creationid="chabulhwi" creationdate="20240205T160510Z">
         <seg>이 유형 클래스 사례에는 "물은 냄새가 좋다."라는 명제가 없다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a collection of my short Lean code for reference.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240415T020315Z" creationid="chabulhwi" creationdate="20240415T020315Z">
+        <seg>제가 참고용으로 작성한 짧은 린 코드를 이 저장소에 모아 놨습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1012,6 +1103,15 @@ no smell.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You are free to reuse
+the content under the terms of the &lt;g1&gt;Apache License, Version 2.0&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240415T020753Z" creationid="chabulhwi" creationdate="20240415T020753Z">
+        <seg>&lt;g1&gt;아파치 라이선스, 버전 2.0&lt;/g1&gt;의 조건에 따라 이 저작물을 재이용할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can see my discussion with them in &lt;g1&gt;this
 link&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;.</seg>
       </tuv>
@@ -1025,6 +1125,15 @@ link&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T174505Z" creationid="chabulhwi" creationdate="20231027T174505Z">
         <seg>이분들과의 논의는 &lt;g1&gt;이 링크&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;에서 볼 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You need to install the &lt;g5&gt;Okapi
+filters plugin for OmegaT&lt;/g5&gt;&lt;g6&gt;&lt;/g6&gt;&lt;e8/&gt; to make OmegaT parse Markdown files.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240415T021302Z" creationid="chabulhwi" creationdate="20240415T021302Z">
+        <seg>오메가T로 마크다운 파일을 구문 분석 하려면 &lt;g5&gt;오메가T를 위한 오카피(Okapi) 필터 플러그인&lt;/g5&gt;&lt;g6&gt;&lt;/g6&gt;&lt;e8/&gt;을 설치해야 됩니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1097,6 +1206,14 @@ link&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T155825Z" creationid="chabulhwi" creationdate="20240205T155825Z">
         <seg>instance : GoodSmellingDrink BulhwiDrink where</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lean-notes</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240415T015916Z" creationid="chabulhwi" creationdate="20240415T015916Z">
+        <seg>lean-notes</seg>
       </tuv>
     </tu>
     <tu>
