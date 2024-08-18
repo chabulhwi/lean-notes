@@ -15,8 +15,8 @@ below.
 
 ## The type class `GoodSmellingDrink`
 
-The type class `GoodSmellingDrink` of drinks has two predicates
-`HasSmell` and `GoodSmelling` defined as follows:
+The type class `GoodSmellingDrink` of drinks has two predicates,
+`HasSmell` and `GoodSmelling`, defined as follows:
 
 * `HasSmell x`: `x` has a smell.
 * `GoodSmelling x`: `x` smells good, where `x` is a drink that has a

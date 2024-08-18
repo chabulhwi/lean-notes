@@ -24,7 +24,7 @@ smells good." in the type class I defined below.
 [catmis]: https://plato.stanford.edu/entries/category-mistakes/
 -/
 
-/-- A class of drinks with two predicates `HasSmell` and `GoodSmelling` defined as follows:
+/-- A class of drinks with two predicates, `HasSmell` and `GoodSmelling`, defined as follows:
 
 * `HasSmell x`: `x` has a smell.
 * `GoodSmelling x`: `x` smells good, where `x` is a drink that has a smell.
@@ -43,7 +43,7 @@ inductive BulhwiDrink : Type where
   | durianSmoothie
   deriving Repr
 
-/-- Bulhwi's drinks with two predicates `HasSmell` and `GoodSmelling` defined as follows:
+/-- Bulhwi's drinks with two predicates, `HasSmell` and `GoodSmelling`, defined as follows:
 
 * Water has no smell; the rest have it.
 * This class instance doesn't have the proposition "Water smells good."

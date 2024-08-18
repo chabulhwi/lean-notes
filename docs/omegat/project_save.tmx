@@ -263,7 +263,7 @@ God.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>A class of drinks with two predicates &lt;g1&gt;HasSmell&lt;/g1&gt; and &lt;g2&gt;GoodSmelling&lt;/g2&gt;
+        <seg>A class of drinks with two predicates, &lt;g1&gt;HasSmell&lt;/g1&gt; and &lt;g2&gt;GoodSmelling&lt;/g2&gt;,
 defined as follows:</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T155114Z" creationid="chabulhwi" creationdate="20240205T154910Z">
@@ -955,10 +955,10 @@ project is in the &lt;g3&gt;&lt;g4&gt;docs&lt;/g4&gt;&lt;/g3&gt; directory.</seg
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>The type class &lt;g1&gt;GoodSmellingDrink&lt;/g1&gt; of drinks has two predicates
-&lt;g2&gt;HasSmell&lt;/g2&gt; and &lt;g3&gt;GoodSmelling&lt;/g3&gt; defined as follows:</seg>
+        <seg>The type class &lt;g1&gt;GoodSmellingDrink&lt;/g1&gt; of drinks has two predicates,
+&lt;g2&gt;HasSmell&lt;/g2&gt; and &lt;g3&gt;GoodSmelling&lt;/g3&gt;, defined as follows:</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T155252Z" creationid="chabulhwi" creationdate="20240205T155252Z">
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240818T102232Z" creationid="chabulhwi" creationdate="20240818T102232Z">
         <seg>음료의 유형 클래스 &lt;g1&gt;GoodSmellingDrink&lt;/g1&gt;에는 다음과 같이 정의된 두 술어 &lt;g1&gt;HasSmell&lt;/g1&gt;와 &lt;g2&gt;GoodSmelling&lt;/g2&gt;이 있습니다.</seg>
       </tuv>
     </tu>
