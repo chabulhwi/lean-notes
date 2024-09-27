@@ -51,12 +51,12 @@ example	예
 inductive type	귀납형
 define	정의하다
 constructor	구성자
-Apache License, Version 2.0     아파치 라이선스, 버전 2.0
-under the terms of      의 조건에 따라
+Apache License, Version 2.0	아파치 라이선스, 버전 2.0
+under the terms of	의 조건에 따라
 OmegaT	오메가T
 symbolic link	심벌릭 링크
 directory	디렉터리
 root directory	최상위 디렉터리
-documentation   문서
-English 영어
-Korean  한국어
+documentation	문서
+English	영어
+Korean	한국어
