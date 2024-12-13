@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -350,8 +350,8 @@ St. Anselm's argument and the axioms of Lean's type theory.</seg>
 on transcribing premise 3 of the original formulation by Alvin
 Plantinga.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240205T110740Z" creationid="chabulhwi" creationdate="20240205T110738Z">
-        <seg>앨리스터 터커 님은 앨빈 플랜팅아가 정식화한 원래 논증의 3단계를 린으로 옮길 방법을 논했습니다.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20241213T074759Z" creationid="chabulhwi" creationdate="20240205T110738Z">
+        <seg>앨리스터 터커 님은 앨빈 플랜팅가가 정식화한 원래 논증의 3단계를 린으로 옮길 방법을 논했습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -699,8 +699,8 @@ Plantinga.</seg>
         <seg>It's a modified version of the formulation of
 St. Anselm's ontological argument by Alvin Plantinga.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20231029T055718Z" creationid="chabulhwi" creationdate="20231029T055718Z">
-        <seg>이 파일은 앨빈 플랜팅아가 정식화한 안셀무스의 존재론적 논증을 수정한 버전입니다.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20241213T074759Z" creationid="chabulhwi" creationdate="20231029T055718Z">
+        <seg>이 파일은 앨빈 플랜팅가가 정식화한 안셀무스의 존재론적 논증을 수정한 버전입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -863,8 +863,8 @@ is false.</seg>
 premise: "A being having all of God’s properties plus existence in
 reality can be conceived." This premise is redundant.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20231027T181750Z" creationid="chabulhwi" creationdate="20231027T172028Z">
-        <seg>앨빈 플랜팅아가 정식화한 원래 논증의 3단계는 다음 전제입니다. "신의 모든 속성을 갖고 현실에 존재하는 존재자는 생각될 수 있다." 이 전제는 불필요합니다.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20241213T074759Z" creationid="chabulhwi" creationdate="20231027T172028Z">
+        <seg>앨빈 플랜팅가가 정식화한 원래 논증의 3단계는 다음 전제입니다. "신의 모든 속성을 갖고 현실에 존재하는 존재자는 생각될 수 있다." 이 전제는 불필요합니다.</seg>
       </tuv>
     </tu>
     <tu>

@@ -5,7 +5,7 @@ argument	논증
 Lean	린
 Lean community	린 커뮤니티
 God	신
-Alvin Plantinga	앨빈 플랜팅아
+Alvin Plantinga	앨빈 플랜팅가
 exist	존재하다
 existence	존재
 the understanding	지성
