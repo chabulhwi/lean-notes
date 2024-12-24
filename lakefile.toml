@@ -1,4 +1,4 @@
-name = "«lean-notes»"
+name = "lean-notes"
 defaultTargets = ["Notes"]
 
 [leanOptions]
@@ -11,7 +11,7 @@ git = "https://github.com/leanprover-community/mathlib4.git"
 rev = "v4.14.0"
 
 [[require]]
-name = "«doc-gen4»"
+name = "doc-gen4"
 git = "https://github.com/leanprover/doc-gen4"
 rev = "v4.14.0"
 
