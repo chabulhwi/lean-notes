@@ -3,7 +3,6 @@ defaultTargets = ["Notes"]
 
 [leanOptions]
 pp.unicode.fun = true
-pp.proofs.withType = false
 
 [[require]]
 name = "mathlib"
