@@ -24,6 +24,8 @@ smells good." in the type class I defined below.
 [catmis]: https://plato.stanford.edu/entries/category-mistakes/
 -/
 
+universe u
+
 /-- A class of drinks with two predicates, `HasSmell` and `GoodSmelling`, defined as follows:
 
 * `HasSmell x`: `x` has a smell.

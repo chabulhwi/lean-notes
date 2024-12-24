@@ -94,6 +94,8 @@ https://leanprover.zulipchat.com/#narrow/stream/113488-general/topic/Formalizing
 https://leanprover.zulipchat.com/#narrow/stream/116395-maths/topic/how.20do.20I.20say.20.22a.20sentence.20is.20a.20theorem.20of.20a.20theory.22.20in.20lean.3F/near/399042805
 -/
 
+universe u
+
 section PartialOrder
 
 variable {α : Type u} [PartialOrder α]
