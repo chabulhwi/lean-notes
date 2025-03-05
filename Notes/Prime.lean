@@ -7,8 +7,10 @@ import Mathlib.Data.Nat.Prime.Defs
 
 namespace Nat
 
+/-- An alternative definition of `Nat.Prime`. -/
 def Prime' (n : Nat) : Prop := n ≥ 2 ∧ (∀ x : Nat, x > 1 ∧ x < n → n % x ≠ 0)
 
+/-- `Nat.Prime` and `Nat.Prime'` are equivalent. -/
 theorem prime_eq_prime' : Prime = Prime' := by
   ext n
   constructor
