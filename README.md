@@ -16,6 +16,8 @@ filters plugin for OmegaT][okapi] to make OmegaT parse Markdown files.
     existence of God.
   * [`CategoryMistake`](./Notes/CategoryMistake.lean): An example of category
     mistakes.
+  * [`CYSEM`](./Notes/CYSEM.lean): Redefining child or youth sexual exploitation
+    material (CYSEM)
 * Documentation: [`docs`](./docs)
   * English: [`en`](./docs/en)
   * Korean: [`ko`](./docs/ko)
