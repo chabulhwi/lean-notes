@@ -76,7 +76,8 @@ export AgentIdentity (person image adult childOrYouth real virtual)
 agent identities and the properties of these relations:
 
 * `Is x i`: `x` is `i`. Use the notation `x is i`.
-* `LooksLike x i`: `x` looks like `i`. Use the notation `x looksLike i`.
+* `CanBeObviouslyPerceivedAs x i`: `x` can be obviously perceived as `i`. Use the notation `x
+  canBeObviouslyPerceivedAs i`.
 * `is_person_or_is_image`: Every agent is a person or an image.
 * `is_person_of_is_real_adult`: Every real adult is a person.
 * `is_person_of_is_real_childOrYouth`: All children or youth are people.
@@ -85,11 +86,11 @@ agent identities and the properties of these relations:
 * `not_is_real_adult_and_is_real_childOrYouth_of_is_person`: Every person can't be both a real adult
   and a real child or youth.
 * `is_virtual_childOrYouth_def`: `x` is a virtual child or youth if and only if (a) `x` is a real
-  adult who looks like a real child or youth or (b) `x` is an image that can be obviously perceived
-  as a child or youth. -/
+  adult who can be obviously perceived as a real child or youth or (b) `x` is an image that can be
+  obviously perceived as a child or youth. -/
 class AgentIdentityRelation (Ag : Type v) (I : Type w) extends AgentIdentity I where
   Is : Ag → I → Prop
-  LooksLike : Ag → I → Prop
+  CanBeObviouslyPerceivedAs : Ag → I → Prop
   is_person_or_is_image (x : Ag) : Is x person ∨ Is x image
   is_person_of_is_real_adult {x : Ag} (h : Is x (real adult)) : Is x person
   is_person_of_is_real_childOrYouth {x : Ag} (h : Is x (real childOrYouth)) : Is x person
@@ -97,13 +98,14 @@ class AgentIdentityRelation (Ag : Type v) (I : Type w) extends AgentIdentity I w
     ∨ Is x (real childOrYouth)
   not_is_real_adult_and_is_real_childOrYouth_of_is_person {x : Ag} (h : Is x person) :
     ¬(Is x (real adult) ∧ Is x (real childOrYouth))
-  is_virtual_childOrYouth_def {x : Ag} : Is x (virtual childOrYouth) ↔
-    (Is x (real adult) ∧ LooksLike x (real childOrYouth)) ∨ (Is x image ∧ LooksLike x childOrYouth)
+  is_virtual_childOrYouth_def {x : Ag} : Is x (virtual childOrYouth) ↔ (Is x (real adult) ∧
+    CanBeObviouslyPerceivedAs x (real childOrYouth)) ∨ (Is x image ∧ CanBeObviouslyPerceivedAs x
+    childOrYouth)
 
 namespace AgentIdentityRelation
 
 infixl:55 " is " => Is
-infixl:55 " looksLike " => LooksLike
+infixl:55 " canBeObviouslyPerceivedAs " => CanBeObviouslyPerceivedAs
 
 end AgentIdentityRelation
 
