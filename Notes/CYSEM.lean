@@ -145,17 +145,17 @@ class ObsceneVisualDepiction (D : Type u) (Ag : Type v) (I : Type w) (Act : Type
 /-- This type class provides definitions of real and virtual child or youth pornography:
 
 * `isCYP_def`: `d` is child or youth pornography (CYP) if and only if-
-  \(a\) `d` is a visual depiction;
-  \(b\) `d` is pornography; and
-  \(c\) `d` depicts some real or virtual child or youth doing any sexual act.
+  - `d` is a visual depiction;
+  - `d` is pornography; and
+  - `d` depicts some real or virtual child or youth doing any sexual act.
 * `isRealCYP_def`: `d` is real child or youth pornography if and only if-
-  \(a\) `d` is a visual depiction;
-  \(b\) `d` is pornography; and
-  \(c\) `d` depicts some real child or youth doing any sexual act.
+  - `d` is a visual depiction;
+  - `d` is pornography; and
+  - `d` depicts some real child or youth doing any sexual act.
 * `isVirtualCYP_def`: `d` is virtual child or youth pornography if and only if-
-  \(a\) `d` is a visual depiction;
-  \(b\) `d` is pornography; and
-  \(c\) `d` depicts some virtual child or youth doing any sexual act.
+  - `d` is a visual depiction;
+  - `d` is pornography; and
+  - `d` depicts some virtual child or youth doing any sexual act.
 -/
 class ChildOrYouthPorn (D : Type u) (Ag : Type v) (I : Type w) (Act : Type t) extends
     ObsceneVisualDepiction D Ag I Act where
