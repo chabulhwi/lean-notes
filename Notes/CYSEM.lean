@@ -37,7 +37,7 @@ class Depiction (D : Type u) where
   IsRealCYP    : D → Prop
   IsVirtualCYP : D → Prop
   IsCYSEM : D → Prop
-  IsRealCYSEM : D → Prop
+  IsRealCYSEM    : D → Prop
   IsVirtualCYSEM : D → Prop
   lacksValue_of_isObscene {d : D} (h : IsObscene d) : LacksValue d
   isObscene_of_isPorn {d : D} (h : IsPorn d) : IsObscene d
@@ -93,8 +93,8 @@ class AgentIdentityRelation (Ag : Type v) (I : Type w) extends AgentIdentity I w
   is_person_or_is_image (x : Ag) : Is x person ∨ Is x image
   is_person_of_is_real_adult {x : Ag} (h : Is x (real adult)) : Is x person
   is_person_of_is_real_childOrYouth {x : Ag} (h : Is x (real childOrYouth)) : Is x person
-  is_real_adult_or_is_real_childOrYouth_of_is_person {x : Ag} (h : Is x person) :
-    Is x (real adult) ∨ Is x (real childOrYouth)
+  is_real_adult_or_is_real_childOrYouth_of_is_person {x : Ag} (h : Is x person) : Is x (real adult)
+    ∨ Is x (real childOrYouth)
   not_is_real_adult_and_is_real_childOrYouth_of_is_person {x : Ag} (h : Is x person) :
     ¬(Is x (real adult) ∧ Is x (real childOrYouth))
   is_virtual_childOrYouth_def {x : Ag} : Is x (virtual childOrYouth) ↔
