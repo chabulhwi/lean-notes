@@ -42,24 +42,24 @@
 
 ## 중요한 전제와 보조 정리
 
-제 논증의 몇 가지 중요한 전제들을 아래에 나열했습니다.
+제 논증의 몇 가지 중요한 전제와 보조 정리를 아래에 나열했습니다.
 
 ### 중요한 전제
 
 1. 모든 음란물은 하등의 가치를 지니지 않는다. (`Depiction.lacksValue_of_isObscene`)
 2. 포르노그래피는 음란하다. (`Depiction.isObscene_of_isPorn`)
+3. 아동·청소년 성 착취물은 아동·청소년 이용 음란물과 동등하다. (`Depiction.isCYSEM_iff_isCYP`)
 
 ### 중요한 보조 정리
 
-1. 아동·청소년 이용 음란물은 포르노그래피이다. (`Depiction.isPorn_of_isCYP`)
-2. 아동·청소년 성 착취물은 아동·청소년 이용 음란물과 동등하다.
-(`Depiction.isCYSEM_iff_isCYP`)
-3. 가상 아동·청소년 성 착취물은 아동·청소년 성 착취물이다. (`Depiction.isCYSEM_of_isVirtualCYSEM`)
+1. 아동·청소년 이용 음란물은 포르노그래피이다.
+(`Depiction.isPorn_of_isCYP`)
+2. 가상 아동·청소년 성 착취물은 아동·청소년 성 착취물이다. (`Depiction.isCYSEM_of_isVirtualCYSEM`)
 
 ## 참고 문헌
 
 * 아동·청소년의 성보호에 관한 법률. 2025. 4. 22. 시행. 법률 제20462호, 2025. 4. 22.,
-일부개정.
+<https://elaw.klri.re.kr/kor_service/lawView.do?hseq=68811&lang=KOR>.
 
 [rdf]: https://git.sr.ht/~chabulhwi/talks/tree/master/item/redefining-child-or-youth-sexual-exploitation-materials.md
 [CYSEM]: ../../Notes/CYSEM.lean

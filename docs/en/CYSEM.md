@@ -58,7 +58,7 @@ youth doing a sexual act: all of them are obscene.
 
 ## Important premises and lemmas
 
-Below are some important premises of my arguments.
+Below are some important premises and lemmas.
 
 ### Important premises
 
