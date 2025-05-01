@@ -316,7 +316,7 @@ theorem lacksValue_of_isVirtualCYSEM {d : D} (h : IsVirtualCYSEM d) : LacksValue
 -/
 
 /-- Bulhwi Cha's revised definition of child or youth sexual exploitation materials (CYSEM). I
-defined it as (a) real CYSEM or (b) virtual CYSEM that lacks any value. -/
+defined CYSEM as (a) real CYSEM or (b) virtual CYSEM that lacks any value. -/
 theorem isCYSEM_iff_isRealCYSEM_or_isVirtualCYSEM_and_lacksValue {d : D} :
     IsCYSEM d ↔ IsRealCYSEM d ∨ (IsVirtualCYSEM d ∧ LacksValue d) :=
   Iff.intro
