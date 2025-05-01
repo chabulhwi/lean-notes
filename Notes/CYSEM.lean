@@ -46,7 +46,7 @@ I suggested three changes to subparagraph 5 of Article 2:
 3. I explicitly stated that CYSEM that uses fictional characters lacks serious literary, artistic,
    ideological, scientific, medical, or educational value.
 
-In the `CYSEM` file, I used the Lean theorem prover to formalize the following assertions:
+In this file, I used the Lean theorem prover to formalize the following assertions:
 
 1. Virtual CYSEM, which only uses adults or fictional characters, is *by definition* obscene.
    (`Depiction.isObscene_of_isVirtualCYSEM`)
