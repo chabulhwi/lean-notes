@@ -60,7 +60,7 @@ export Depiction (LacksValue IsObscene IsVisual IsPorn IsCYP IsRealCYP IsVirtual
 /-- This type class provides a type `I` of agent identities with the following identities and their
 modifiers:
 
-* Identities: (a) Person, (b) images, (c) adults, and (d) child or youth
+* Identities: (a) Person, (b) image, (c) adult, and (d) child or youth
 * Modifiers: (a) *Real* and (b) *virtual* -/
 class AgentIdentity (I : Type w) where
   person : I
