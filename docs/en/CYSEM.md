@@ -64,13 +64,13 @@ Below are some important premises of my arguments.
 
 1. Every obscene material lacks any value. (`Depiction.lacksValue_of_isObscene`)
 2. Pornography is obscene. (`Depiction.isObscene_of_isPorn`)
+3. CYSEM is equivalent to CYP. (`Depiction.isCYSEM_iff_isCYP`)
 
 ### Important lemmas
 
-1. Child or youth pornography (CYP) is pornography. (`Depiction.isPorn_of_isCYP`)
-2. CYSEM is equivalent to CYP.
-   (`Depiction.isCYSEM_iff_isCYP`)
-3. Virtual CYSEM is CYSEM. (`Depiction.isCYSEM_of_isVirtualCYSEM`)
+1. Child or youth pornography (CYP) is pornography.
+   (`Depiction.isPorn_of_isCYP`)
+2. Virtual CYSEM is CYSEM. (`Depiction.isCYSEM_of_isVirtualCYSEM`)
 
 ## References
 
