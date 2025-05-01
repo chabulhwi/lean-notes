@@ -32,16 +32,16 @@
       <tuv lang="en">
         <seg>(&lt;g1&gt;Depiction.isObscene_of_isPorn&lt;/g1&gt;)</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153203Z" creationid="chabulhwi" creationdate="20250501T153203Z">
-        <seg>(&lt;g1&gt;Depiction.isObscene_of_isPorn&lt;/g1&gt;)</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T160430Z" creationid="chabulhwi" creationdate="20250501T160220Z">
+        <seg>[&lt;g1&gt;Depiction.isObscene_of_isPorn&lt;/g1&gt;, 이 전제는 영문으로 번역된 아청법 조항을 분석하는 데 필요함]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>(&lt;g1&gt;Depiction.isPorn_of_isCYP&lt;/g1&gt;)</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153318Z" creationid="chabulhwi" creationdate="20250501T153318Z">
-        <seg>(&lt;g1&gt;Depiction.isPorn_of_isCYP&lt;/g1&gt;)</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T160046Z" creationid="chabulhwi" creationdate="20250501T160046Z">
+        <seg>(&lt;g1&gt;Depiction.isObscene_of_isCYP&lt;/g1&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -632,8 +632,8 @@ since water has no smell?</seg>
       <tuv lang="en">
         <seg>Child or youth pornography (CYP) is pornography.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153536Z" creationid="chabulhwi" creationdate="20250501T153454Z">
-        <seg>아동·청소년 이용 음란물은 포르노그래피이다.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T160057Z" creationid="chabulhwi" creationdate="20250501T153454Z">
+        <seg>아동·청소년 이용 음란물은 음란하다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1167,7 +1167,7 @@ URL =
       <tuv lang="en">
         <seg>Pornography is obscene.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153200Z" creationid="chabulhwi" creationdate="20250501T153200Z">
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T160218Z" creationid="chabulhwi" creationdate="20250501T160218Z">
         <seg>포르노그래피는 음란하다.</seg>
       </tuv>
     </tu>

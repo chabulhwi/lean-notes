@@ -47,13 +47,13 @@
 ### 중요한 전제
 
 1. 모든 음란물은 하등의 가치를 지니지 않는다. (`Depiction.lacksValue_of_isObscene`)
-2. 포르노그래피는 음란하다. (`Depiction.isObscene_of_isPorn`)
+2. 포르노그래피는 음란하다. [`Depiction.isObscene_of_isPorn`, 이 전제는 영문으로 번역된 아청법 조항을 분석하는 데 필요함]
 3. 아동·청소년 성 착취물은 아동·청소년 이용 음란물과 동등하다. (`Depiction.isCYSEM_iff_isCYP`)
 
 ### 중요한 보조 정리
 
-1. 아동·청소년 이용 음란물은 포르노그래피이다.
-(`Depiction.isPorn_of_isCYP`)
+1. 아동·청소년 이용 음란물은 음란하다.
+(`Depiction.isObscene_of_isCYP`)
 2. 가상 아동·청소년 성 착취물은 아동·청소년 성 착취물이다. (`Depiction.isCYSEM_of_isVirtualCYSEM`)
 
 ## 참고 문헌
