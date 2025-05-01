@@ -132,8 +132,11 @@ notation:55 d "depicts" x "doing" act => DepictsDoing d x act
 
 end ObsceneMaterial
 
-/-- This type class provides Bulhwi Cha's conjecture: every visual depiction of a child or youth
-doing any sexual act is obscene. -/
+/-- This type class provides Bulhwi Cha's conjecture about visual depictions of a real child or
+youth doing any sexual act:
+
+* `real_childOrYouth_conjecture`: every visual depiction of a real child or youth doing any sexual
+act is obscene. -/
 class ObsceneVisualDepiction (D : Type u) (Ag : Type v) (I : Type w) (Act : Type t) extends
     AgentIdentityRelation Ag I, ObsceneMaterial D Ag Act where
   real_childOrYouth_conjecture {d : D} (hv : IsVisual d) (hd : ∃ (x : Ag), x is real childOrYouth ∧
@@ -324,8 +327,8 @@ theorem isCYSEM_iff_isRealCYSEM_or_isVirtualCYSEM_and_lacksValue {d : D} :
       isCYSEM_of_isRealCYSEM
       (fun hvl ↦ isCYSEM_of_isVirtualCYSEM hvl.1))
 
-/-- A corollary of Bulhwi Cha's conjecture about a visual depiction of a child or
-youth doing any sexual act: there's no such depiction that isn't obscene. -/
+/-- A corollary of Bulhwi Cha's conjecture about visual depictions of a real child or youth doing
+any sexual act: there's no such depiction that isn't obscene. -/
 theorem not_exists_isVisual_and_not_isObscene_and_depicts_real_childOrYouth_doing_sexualAct :
     ¬∃ (d : D), IsVisual d ∧ ¬IsObscene d ∧ ∃ (x : Ag), x is real (childOrYouth : I) ∧ d depicts x
     doing (sexualAct : Act) :=

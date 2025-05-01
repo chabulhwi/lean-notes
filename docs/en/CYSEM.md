@@ -2,41 +2,31 @@
 
 ## Act On the Protection of Children and Youth Against Sex Offenses
 
-### Article 1 (Purpose)
+The current South Korean Act On the Protection of Children and Youth Against Sex
+Offenses (아동·청소년의 성보호에 관한 법률) defines **child or youth sexual
+exploitation materials (CYSEM)** as follows:
 
-The purpose of this Act is to prescribe special cases concerning punishment for
-committing sex offenses against children or youth and the procedures therefor,
-prepare procedures for relieving and assisting victimized children and youth,
-and systematically manage sex offenders against children or youth, thereby
-protecting them against sexual abuse and assisting them to become sound members
-of society.
-
-### Article 2 (Definitions)
-
-The terms used in this Act are defined as follows: \<Amended on Dec. 18, 2012;
-Jan. 28, 2014; Jan. 16, 2018; May 19, 2020; Jun. 2, 2020; Mar. 23, 2021; Mar.
-26, 2024; Oct. 16, 2024\>
-
-#### Children or youth (Subparagraph 1)
-
-The term "children or youth" means persons under 19 years of age;
-
-#### Child or youth sexual exploitation materials (Subparagraph 4)
-
-The term "child or youth sexual exploitation materials" means depiction of
-children or youth, or persons or representations that can be obviously perceived
-as children or youth, doing any act defined in any item of subparagraph 4 or
-engaging in any other sexual act, in the form of a film, video, game software,
-or picture, image, etc. displayed on computers, or other communications media;
+> Article 2 (Definitions) The terms used in this Act are defined as follows:
+> \<Amended on Dec. 18, 2012; Jan. 28, 2014; Jan. 16, 2018; May 19, 2020; Jun.
+> 2, 2020; Mar. 23, 2021; Mar. 26, 2024; Oct. 16, 2024\>
+> 
+> 1. The term "children or youth" means persons under 19 years of age;
+> …
+> 5. The term "child or youth sexual exploitation materials" means depiction of
+>    children or youth, or persons or representations that can be obviously
+>    perceived as children or youth, doing any act defined in any item of
+>    subparagraph 4 or engaging in any other sexual act, in the form of a film,
+>    video, game software, or picture, image, etc. displayed on computers, or
+>    other communications media;
 
 #### Items of subparagraph 4
 
-(a) Sexual intercourse;
-(b) Pseudo-sexual intercourse using part of the body, such as the mouth and
-    anus, or implements;
-(c) Contacting or exposing all or part of the body, which causes sexual
-    humiliation or repugnance of ordinary people;
-(d) Masturbation;
+\(a\) Sexual intercourse; \
+\(b\) Pseudo-sexual intercourse using part of the body, such as the mouth and
+      anus, or implements; \
+\(c\) Contacting or exposing all or part of the body, which causes sexual
+      humiliation or repugnance of ordinary people; \
+\(d\) Masturbation;
 
 ## Redefining CYSEM
 
