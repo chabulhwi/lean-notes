@@ -167,7 +167,7 @@ class ChildOrYouthPorn (D : Type u) (Ag : Type v) (I : Type w) (Act : Type t) ex
     childOrYouth ∧ d depicts x doing sexualAct
 
 /-!
-## Lemmas and theorems about visual depictions
+## Theorems about visual depictions
 -/
 
 namespace Depiction
