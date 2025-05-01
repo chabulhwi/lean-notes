@@ -14,11 +14,75 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(&lt;g1&gt;Depiction.isCYSEM_iff_isCYP&lt;/g1&gt;)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153707Z" creationid="chabulhwi" creationdate="20250501T153707Z">
+        <seg>(&lt;g1&gt;Depiction.isCYSEM_iff_isCYP&lt;/g1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(&lt;g1&gt;Depiction.isCYSEM_iff_isRealCYSEM_or_isVirtualCYSEM_and_lacksValue&lt;/g1&gt;)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T152755Z" creationid="chabulhwi" creationdate="20250501T152755Z">
+        <seg>(&lt;g1&gt;Depiction.isCYSEM_iff_isRealCYSEM_or_isVirtualCYSEM_and_lacksValue&lt;/g1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(&lt;g1&gt;Depiction.isObscene_of_isPorn&lt;/g1&gt;)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153203Z" creationid="chabulhwi" creationdate="20250501T153203Z">
+        <seg>(&lt;g1&gt;Depiction.isObscene_of_isPorn&lt;/g1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(&lt;g1&gt;Depiction.isPorn_of_isCYP&lt;/g1&gt;)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153318Z" creationid="chabulhwi" creationdate="20250501T153318Z">
+        <seg>(&lt;g1&gt;Depiction.isPorn_of_isCYP&lt;/g1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(&lt;g1&gt;Depiction.lacksValue_of_isObscene&lt;/g1&gt;)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153127Z" creationid="chabulhwi" creationdate="20250501T153127Z">
+        <seg>(&lt;g1&gt;Depiction.lacksValue_of_isObscene&lt;/g1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(&lt;g1&gt;Depiction.lacksValue_of_isVirtualCYSEM&lt;/g1&gt;)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T152114Z" creationid="chabulhwi" creationdate="20250501T152114Z">
+        <seg>(&lt;g1&gt;Depiction.lacksValue_of_isVirtualCYSEM&lt;/g1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(&lt;g1&gt;Modified&lt;/g1&gt;
 premise)</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T180825Z" creationid="chabulhwi" creationdate="20231027T170750Z">
         <seg>(**수정된** 전제)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(&lt;g1&gt;ObsceneVisualDepiction.real_childOrYouth_conjecture&lt;/g1&gt;)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T152922Z" creationid="chabulhwi" creationdate="20250501T152922Z">
+        <seg>(&lt;g1&gt;ObsceneVisualDepiction.real_childOrYouth_conjecture&lt;/g1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(&lt;g2&gt;Depiction.isObscene_of_isVirtualCYSEM&lt;/g2&gt;)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T152036Z" creationid="chabulhwi" creationdate="20250501T152036Z">
+        <seg>(&lt;g2&gt;Depiction.isObscene_of_isVirtualCYSEM&lt;/g2&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -145,10 +209,91 @@ SEP entry "Ontological Arguments."&lt;/g8&gt;&lt;g9&gt;&lt;/g9&gt;&lt;e12/&gt;)<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>16, 2018; May 19, 2020; Jun.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T150211Z" creationid="chabulhwi" creationdate="20250501T150207Z">
+        <seg>2018. 1. 16., 2020. 5. 19.,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>16, 2024) defines &lt;g1&gt;child or youth sexual
+exploitation materials (CYSEM)&lt;/g1&gt; as follows:</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T151404Z" creationid="chabulhwi" creationdate="20250501T145129Z">
+        <seg>2025년 4월 17일 시행)에서, '아동·청소년 성 착취물'은 다음과 같이 정의됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>16, 2024.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153842Z" creationid="chabulhwi" creationdate="20250501T153842Z">
+        <seg>2025. 4. 22.,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>16, 2024\&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T150227Z" creationid="chabulhwi" creationdate="20250501T150227Z">
+        <seg>2024. 10. 16.\&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>18, 2012; Jan.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T150233Z" creationid="chabulhwi" creationdate="20250501T150153Z">
+        <seg>\&lt;개정 2012. 12. 18.,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1\.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T145242Z" creationid="chabulhwi" creationdate="20250501T145242Z">
+        <seg>1\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2, 2020; Mar.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T150214Z" creationid="chabulhwi" creationdate="20250501T150210Z">
+        <seg>2020. 6. 2.,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2024.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T151806Z" creationid="chabulhwi" creationdate="20240205T151806Z">
         <seg>2024.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>23, 2021; Mar.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T150219Z" creationid="chabulhwi" creationdate="20250501T150219Z">
+        <seg>2021. 3. 23.,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>26, 2024; Oct.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T150224Z" creationid="chabulhwi" creationdate="20250501T150224Z">
+        <seg>2024. 3. 26.,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>28, 2014; Jan.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T150201Z" creationid="chabulhwi" creationdate="20250501T150201Z">
+        <seg>2014. 1. 28.,</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +303,15 @@ existence of God.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240415T021448Z" creationid="chabulhwi" creationdate="20240415T021358Z">
         <seg>&lt;g1&gt;&lt;g2&gt;Anselm&lt;/g2&gt;&lt;/g1&gt;: 신의 존재에 대한, 안셀무스의 존재론적 논증.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;&lt;g2&gt;CYSEM&lt;/g2&gt;&lt;/g1&gt;: Redefining child or youth sexual exploitation
+material (CYSEM)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T144817Z" creationid="chabulhwi" creationdate="20250501T144817Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;CYSEM&lt;/g2&gt;&lt;/g1&gt;: 아동·청소년 성 착취물 재정의하기</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,8 +402,8 @@ InUnderstanding x → ¬InReality x → InReality y → x &lt; y&lt;/g1&gt; (2�
       <tuv lang="en">
         <seg>&lt;x1/&gt;.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240206T005130Z" creationid="chabulhwi" creationdate="20240206T005130Z">
-        <seg>&lt;x1/&gt;.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153846Z" creationid="chabulhwi" creationdate="20240206T005130Z">
+        <seg>일부개정.</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +480,31 @@ axioms of Lean's type theory).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Act No.
+20462, Oct.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153835Z" creationid="chabulhwi" creationdate="20250501T153835Z">
+        <seg>2025. 4. 22. 시행. 법률 제20462호,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Act On the Protection of Children and Youth Against Sex Offenses</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T144923Z" creationid="chabulhwi" creationdate="20250501T144923Z">
+        <seg>아동·청소년의 성보호에 관한 법률</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Act On the Protection of Children and Youth Against Sex Offenses.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153729Z" creationid="chabulhwi" creationdate="20250501T153729Z">
+        <seg>아동·청소년의 성보호에 관한 법률.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alistair Tucker also &lt;g1&gt;told me&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e4/&gt; how to prove that we can't deduce
 the statement &lt;g3&gt;∃ (x : Being), IsGod x ∧ InReality x&lt;/g3&gt; from the premises
 of St. Anselm's argument and the axioms of Lean's type theory.</seg>
@@ -374,11 +553,79 @@ Plantinga.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apart from the changes to subparagraph 4 of Article 2, the current definition
+of CYSEM is logically equivalent to my definition, where it is defined as (a)
+real CYSEM or (b) virtual CYSEM that lacks any value.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153614Z" creationid="chabulhwi" creationdate="20250501T152623Z">
+        <seg>제2조 제4호의 변경 사항을 제외하면, 현행 아청법에 따른 아동·청소년 성 착취물의 정의는 차불휘가 제안한 정의와 논리적으로 동등하다. 그 정의에 따르면, 아동·청소년 성 착취물은 (1) 실제 아동·청소년 성 착취물 또는 (2) 하등의 가치를 지니지 않는 가상 아동·청소년 성 착취물을 일컫는다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are the proposition "Water smells good." and its negation both false
 since water has no smell?</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T151436Z" creationid="chabulhwi" creationdate="20240205T151157Z">
         <seg>물은 냄새가 나지 않으므로 "물은 냄새가 좋다."라는 명제와 그 부정은 모두 거짓일까요?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Article 2 (Definitions) The terms used in this Act are defined as follows:
+\&lt;Amended on Dec.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T145225Z" creationid="chabulhwi" creationdate="20250501T145225Z">
+        <seg>제2조(정의) 이 법에서 사용하는 용어의 뜻은 다음과 같다.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Below are some important premises of my arguments.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153111Z" creationid="chabulhwi" creationdate="20250501T153111Z">
+        <seg>제 논증의 몇 가지 중요한 전제들을 아래에 나열했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Below are the items of subparagraph 4:</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T150339Z" creationid="chabulhwi" creationdate="20250501T150339Z">
+        <seg>제4호의 각 목은 다음과 같습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CYP is pornography.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153315Z" creationid="chabulhwi" creationdate="20250501T153315Z">
+        <seg>아동·청소년 이용 음란물은 포르노그래피이다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CYSEM is equivalent to CYP.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153704Z" creationid="chabulhwi" creationdate="20250501T153704Z">
+        <seg>아동·청소년 성 착취물은 아동·청소년 이용 음란물과 동등하다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CYSEM is equivalent to child or youth pornography (CYP).</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153429Z" creationid="chabulhwi" creationdate="20250501T153429Z">
+        <seg>아동·청소년 성 착취물은 아동·청소년 이용 음란물과 동등하다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Child or youth pornography (CYP) is pornography.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153536Z" creationid="chabulhwi" creationdate="20250501T153454Z">
+        <seg>아동·청소년 이용 음란물은 포르노그래피이다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -420,6 +667,14 @@ inconsistency in my first and second drafts.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20241213T082327Z" creationid="chabulhwi" creationdate="20231027T174135Z">
         <seg>에릭 위저 님은 제 초고와 둘째 원고의 모순성을 찾아냈습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every obscene material lacks any value.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153125Z" creationid="chabulhwi" creationdate="20250501T153125Z">
+        <seg>모든 음란물은 하등의 가치를 지니지 않는다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -523,10 +778,69 @@ reality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However,
+CYSEM using cartoon characters still doesn't include printed matter.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T151122Z" creationid="chabulhwi" creationdate="20250501T151122Z">
+        <seg>그러나 만화 캐릭터만 이용해 만든 아동·청소년 성 착취물의 범주에는 여전히 인쇄물이 안 들어감.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I also formally stated my conjecture about a visual depiction of a real child or
+youth doing a sexual act: all of them are obscene.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T154011Z" creationid="chabulhwi" creationdate="20250501T152918Z">
+        <seg>실제 아동·청소년의 성적 행위를 시각적으로 묘사한 표현물에 관한 제 추측도 형식화했습니다. 그 추측의 내용은 다음과 같습니다. 그런 표현물은 모두 음란하다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I clarified that CYSEM doesn't include written text.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T151023Z" creationid="chabulhwi" creationdate="20250501T151023Z">
+        <seg>텍스트는 아동·청소년 성 착취물의 범주에 들어가지 않음을 명시함.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I explicitly stated that CYSEM that uses fictional characters lacks serious
+literary, artistic, ideological, scientific, medical, or educational value.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T151850Z" creationid="chabulhwi" creationdate="20250501T151850Z">
+        <seg>가상의 캐릭터만 이용해 만든 아동·청소년 성 착취물은 하등의 문학적·예술적·사상적·과학적·의학적·교육적 가치를 지니지 않음을 명시적으로 서술함.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I formalized the three premises of the argument as follows:</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231101T015245Z" creationid="chabulhwi" creationdate="20231101T015240Z">
         <seg>논증의 세 전제는 다음과 같이 형식화했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I included printed media in CYSEM that uses real children or youth.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T151035Z" creationid="chabulhwi" creationdate="20250501T151035Z">
+        <seg>실제 아동·청소년 성 착취물의 범주에만 인쇄물을 넣음.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I made three changes to subparagraph 5 of Article 2:</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T150719Z" creationid="chabulhwi" creationdate="20250501T150719Z">
+        <seg>그 글에서, 저는 제2조 제5호를 다음과 같이 개정했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I suggested three changes to subparagraph 5 of Article 2:</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T151738Z" creationid="chabulhwi" creationdate="20250501T151738Z">
+        <seg>그 글에서, 저는 제2조 제5호를 다음과 같이 개정할 것을 제안했습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,6 +914,15 @@ above&lt;/g1&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I wrote a &lt;g1&gt;document&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt; (Korean) about how to revise the definition of child
+or youth sexual exploitation material (CYSEM).</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T151445Z" creationid="chabulhwi" creationdate="20250501T150502Z">
+        <seg>아동·청소년 성 착취물의 정의를 어떻게 고칠지에 관한 &lt;g1&gt;문서&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e3/&gt;를 제가 작성했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'd like to thank Eric Wieser and Alistair Tucker.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20241213T082327Z" creationid="chabulhwi" creationdate="20231027T173722Z">
@@ -648,6 +971,30 @@ from these propositions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Important lemmas</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153207Z" creationid="chabulhwi" creationdate="20250501T153207Z">
+        <seg>중요한 보조 정리</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Important premises</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153115Z" creationid="chabulhwi" creationdate="20250501T153115Z">
+        <seg>중요한 전제</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Important premises and lemmas</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153033Z" creationid="chabulhwi" creationdate="20250501T153033Z">
+        <seg>중요한 전제와 보조 정리</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to prove the
 existence of God in reality, you need to show that &lt;g1&gt;∃ (x : Being),
 IsGod x ∧ InReality x&lt;/g1&gt;.</seg>
@@ -664,6 +1011,15 @@ x ∧ InReality x&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231101T013132Z" creationid="chabulhwi" creationdate="20231101T013132Z">
         <seg>신이 현실에 존재함을 증명하려면, &lt;g1&gt;∃ (x : Being), IsGod x ∧ InReality x&lt;/g1&gt;임을 보여야 합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;g1&gt;&lt;g2&gt;CYSEM&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e4/&gt; file, I used the Lean theorem prover to formalize the
+following assertions:</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T151942Z" creationid="chabulhwi" creationdate="20250501T151942Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;CYSEM&lt;/g2&gt;&lt;/g1&gt;&lt;g3&gt;&lt;/g3&gt;&lt;e4/&gt; 파일에서, 저는 린 정리 증명기를 이용해 다음 주장을 형식화했습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -801,9 +1157,41 @@ URL =
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pornography is obscene.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153200Z" creationid="chabulhwi" creationdate="20250501T153200Z">
+        <seg>포르노그래피는 음란하다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Redefining CYSEM</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T150424Z" creationid="chabulhwi" creationdate="20250501T150424Z">
+        <seg>아동·청소년 성 착취물 재정의하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Redefining child or youth sexual exploitation material (CYSEM)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T144856Z" creationid="chabulhwi" creationdate="20250501T144856Z">
+        <seg>아동·청소년 성 착취물 재정의하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reference</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20231027T173018Z" creationid="chabulhwi" creationdate="20231027T173018Z">
+        <seg>참고 문헌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>References</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153724Z" creationid="chabulhwi" creationdate="20250501T153724Z">
         <seg>참고 문헌</seg>
       </tuv>
     </tu>
@@ -947,6 +1335,36 @@ project is in the &lt;g3&gt;&lt;g4&gt;docs&lt;/g4&gt;&lt;/g3&gt; directory.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The current South Korean Act On the Protection of Children and Youth Against Sex
+Offenses (Act No. 20462, Oct.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T145033Z" creationid="chabulhwi" creationdate="20250501T145033Z">
+        <seg>'아동·청소년의 성보호에 관한 법률'(법률 제20462호,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The term "child or youth sexual exploitation materials" means depiction of
+children or youth, or persons or representations that can be obviously
+perceived as children or youth, doing any act defined in any item of
+subparagraph 4 or engaging in any other sexual act, in the form of a film,
+video, game software, or picture, image, etc. displayed on computers, or
+other communications media;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T145347Z" creationid="chabulhwi" creationdate="20250501T145318Z">
+        <seg>“아동·청소년성착취물”이란 아동·청소년 또는 아동·청소년으로 명백하게 인식될 수 있는 사람이나 표현물이 등장하여 제4호 각 목의 어느 하나에 해당하는 행위를 하거나 그 밖의 성적 행위를 하는 내용을 표현하는 것으로서 필름·비디오물·게임물 또는 컴퓨터나 그 밖의 통신매체를 통한 화상·영상 등의 형태로 된 것을 말한다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The term "children or youth" means persons under 19 years of age; &lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T150831Z" creationid="chabulhwi" creationdate="20250501T145453Z">
+        <seg>“아동·청소년”이란 19세 미만의 사람을 말한다.&lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The type class &lt;g1&gt;GoodSmellingDrink&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T153844Z" creationid="chabulhwi" creationdate="20240205T153745Z">
@@ -1046,6 +1464,31 @@ constructors: &lt;g2&gt;water&lt;/g2&gt;, &lt;g3&gt;limeade&lt;/g3&gt;, &lt;g4&g
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Virtual CYSEM is CYSEM. (&lt;g1&gt;Depiction.isCYSEM_of_isVirtualCYSEM&lt;/g1&gt;)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T153927Z" creationid="chabulhwi" creationdate="20250501T153720Z">
+        <seg>가상 아동·청소년 성 착취물은 아동·청소년 성 착취물이다. (&lt;g1&gt;Depiction.isCYSEM_of_isVirtualCYSEM&lt;/g1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Virtual CYSEM lacks any value.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T152110Z" creationid="chabulhwi" creationdate="20250501T152110Z">
+        <seg>가상 아동·청소년 성 착취물은 하등의 가치를 지니지 않는다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Virtual CYSEM, which only uses adults or fictional characters, is &lt;g1&gt;by
+definition&lt;/g1&gt; obscene.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T152032Z" creationid="chabulhwi" creationdate="20250501T152032Z">
+        <seg>성인이나 가상의 캐릭터만 이용해 만든 가상 아동·청소년 성 착취물은 &lt;g1&gt;정의상(定義上)&lt;/g1&gt; 음란하다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Water has no smell; the rest have it.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240206T054733Z" creationid="chabulhwi" creationdate="20240205T154117Z">
@@ -1134,6 +1577,23 @@ filters plugin for OmegaT&lt;/g5&gt;&lt;g6&gt;&lt;/g6&gt;&lt;e8/&gt; to make Ome
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240415T021302Z" creationid="chabulhwi" creationdate="20240415T021302Z">
         <seg>오메가T로 마크다운 파일을 구문 분석 하려면 &lt;g5&gt;오메가T를 위한 오카피(Okapi) 필터 플러그인&lt;/g5&gt;&lt;g6&gt;&lt;/g6&gt;&lt;e8/&gt;을 설치해야 됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\(a\) Sexual intercourse; &lt;x1/&gt;
+\(b\) Pseudo-sexual intercourse using part of the body, such as the mouth and
+anus, or implements; &lt;x2/&gt;
+\(c\) Contacting or exposing all or part of the body, which causes sexual
+humiliation or repugnance of ordinary people; &lt;x3/&gt;
+\(d\) Masturbation;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T151327Z" creationid="chabulhwi" creationdate="20250501T150403Z">
+        <seg>가. 성교 행위 \
+나. 구강·항문 등 신체의 일부나 도구를 이용한 유사 성교 행위 \
+다. 신체의 전부 또는 일부를 접촉·노출하는 행위로서 일반인의 성적 수치심이나
+    혐오감을 일으키는 행위 \
+라. 자위 행위</seg>
       </tuv>
     </tu>
     <tu>
@@ -1424,6 +1884,16 @@ filters plugin for OmegaT&lt;/g5&gt;&lt;g6&gt;&lt;/g6&gt;&lt;e8/&gt; to make Ome
       <tuv lang="ko" changeid="chabulhwi" changedate="20240205T151801Z" creationid="chabulhwi" creationdate="20240205T151801Z">
         <seg>“모순과 반대, 모순과 역설: 사소하지만 자주 있는 혼동.”
 2024년 2월 5일에 마지막으로 수정함.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>… &lt;x2/&gt;
+5\.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250501T145310Z" creationid="chabulhwi" creationdate="20250501T145310Z">
+        <seg>[중략] &lt;x2/&gt;
+5\.</seg>
       </tuv>
     </tu>
     <tu>

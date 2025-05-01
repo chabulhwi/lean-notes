@@ -11,6 +11,7 @@
 * 린 코드: [`Notes`](./Notes)
   * [`Anselm`](./Notes/Anselm.lean): 신의 존재에 대한, 안셀무스의 존재론적 논증.
   * [`CategoryMistake`](./Notes/CategoryMistake.lean): 범주 실수의 예.
+  * [`CYSEM`](./Notes/CYSEM.lean): 아동·청소년 성 착취물 재정의하기
 * 문서: [`docs`](./docs)
   * 영어: [`en`](./docs/en)
   * 한국어: [`ko`](./docs/ko)

@@ -60,3 +60,14 @@ root directory	최상위 디렉터리
 documentation	문서
 English	영어
 Korean	한국어
+child or youth sexual exploitation material	아동·청소년 성 착취물
+CYSEM	아동·청소년 성 착취물
+Act On the Protection of Children and Youth Against Sex Offenses	아동·청소년의 성보호에 관한 법률
+children or youth	아동·청소년
+assertion	주장
+lemma	보조 정리
+obscene	음란하다
+pornography	포르노그래피
+obscene	음란한
+CYP	아동·청소년 이용 음란물
+child or youth pornography	아동·청소년 이용 음란물
