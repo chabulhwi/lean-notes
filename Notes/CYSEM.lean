@@ -109,7 +109,7 @@ infixl:55 " canBeObviouslyPerceivedAs " => CanBeObviouslyPerceivedAs
 
 end AgentIdentityRelation
 
-/-- This type class provides a type of actions with a field representing a sexual act. -/
+/-- This type class provides a type `Act` of actions with a field representing a sexual act. -/
 class Action (Act : Type t) where
   sexualAct : Act
 
