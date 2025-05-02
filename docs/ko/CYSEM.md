@@ -58,7 +58,7 @@
 
 ## 참고 문헌
 
-* 아동·청소년의 성보호에 관한 법률. 2024. 10. 16. 시행. 법률 제20462호, 2024. 10. 16.,
+* 아동·청소년의 성보호에 관한 법률. 2025. 4. 17. 시행. 법률 제20462호, 2024. 10. 16., 일부개정.
 <https://elaw.klri.re.kr/kor_service/lawView.do?hseq=68811&lang=KOR>.
 
 [rdf]: https://git.sr.ht/~chabulhwi/talks/tree/master/item/redefining-child-or-youth-sexual-exploitation-materials.md
