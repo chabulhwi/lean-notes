@@ -107,7 +107,7 @@ theorem IsGreatest.property {x : α} {p q : α → Prop} (hgst : IsGreatest p x)
     rcases hex with ⟨y, hpy, hqy⟩
     have x_lt_y : x < y := hlt hnq hqy
     have y_le_x : y ≤ x := hgst.2 hpy
-    exact not_le_of_lt x_lt_y y_le_x
+    exact not_le_of_gt x_lt_y y_le_x
   exact of_not_not hnnq
 
 end PartialOrder
@@ -189,6 +189,6 @@ theorem not_exists_int_isGod : ¬∃ (a : ℤ), IsGod a := by
   rcases hex with ⟨god, _, hle⟩
   have god_lt_succ_god : god < god + 1 := Int.lt_succ god
   have succ_god_le_god : god + 1 ≤ god := hle trivial
-  exact not_le_of_lt god_lt_succ_god succ_god_le_god
+  exact not_le_of_gt god_lt_succ_god succ_god_le_god
 
 end Anselm
