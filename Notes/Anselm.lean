@@ -175,7 +175,7 @@ instance : Anselm ℤ where
     | .ofNat _ => True
     | .negSucc _ => False
   lt_of_inUnderstanding_not_inReality_inReality {_ _ : ℤ} := by
-    repeat (first | simp | split <;> simp [not_true, not_false])
+    repeat (first | simp | split <;> simp)
     rename_i n _ m
     calc
       -(n + 1) < (0 : ℤ) := Int.negSucc_lt_zero n
