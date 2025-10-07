@@ -20,5 +20,3 @@ jobs:
 
       - name: Update Lean project
         uses: leanprover-community/lean-update@main
-        with:
-          update_if_modified: lean-toolchain
