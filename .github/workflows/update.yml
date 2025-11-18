@@ -2,7 +2,7 @@ name: Update Lean Project
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day
+    - cron: "0 0 * * 0" # run once a week at midnight on Sunday
   workflow_dispatch: # allows workflow to be triggered manually
 
 jobs:
