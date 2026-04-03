@@ -11,7 +11,7 @@ existence	존재
 the understanding	지성
 reality	현실
 assumption	가정
-reductio	귀류법
+reductio ad absurdum	귀류법
 great	큰
 premise	전제
 being	존재자
