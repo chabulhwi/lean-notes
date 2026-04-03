@@ -27,7 +27,11 @@ redundant	불필요한
 sentence	문장
 state	진술하다
 statement	진술
+intuitionism	직관주의
 proposition	명제
+proposition logic	명제 논리
+intuitionistic propositional logic	직관주의 명제 논리
+Hilbert system	힐베르트 체계
 negation	부정
 axiom	공리
 theorem	정리
