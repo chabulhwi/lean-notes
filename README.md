@@ -17,7 +17,7 @@ filters plugin for OmegaT][okapi] to make OmegaT parse Markdown files.
   * [`CategoryMistake`](./Notes/CategoryMistake.lean): An example of category
     mistakes.
   * [`CYSEM`](./Notes/CYSEM.lean): Redefining child or youth sexual exploitation
-    material (CYSEM)
+    material (CYSEM).
   * [`PropositionalLogic`](./Notes/PropositionalLogic.lean): A variant of a
     Hilbert system for intuitionistic propositional logic.
 * Documentation: [`docs`](./docs)
