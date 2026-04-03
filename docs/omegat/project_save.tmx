@@ -334,6 +334,15 @@ Hilbert system for intuitionistic propositional logic.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g1&gt;&lt;g2&gt;PropositionalLogic&lt;/g2&gt;&lt;/g1&gt;: A variant of a
+Hilbert system for intuitionistic propositional logic.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260403T153849Z" creationid="chabulhwi" creationdate="20260403T153849Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;PropositionalLogic&lt;/g2&gt;&lt;/g1&gt;: 직관주의 명제 논리를 위한 힐베르트 체계의 변종.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g1&gt;GoodSmelling x&lt;/g1&gt;: &lt;g2&gt;x&lt;/g2&gt; smells good, where &lt;g3&gt;x&lt;/g3&gt; is a drink that has a
 smell.</seg>
       </tuv>

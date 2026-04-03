@@ -18,7 +18,7 @@ filters plugin for OmegaT][okapi] to make OmegaT parse Markdown files.
     mistakes.
   * [`CYSEM`](./Notes/CYSEM.lean): Redefining child or youth sexual exploitation
     material (CYSEM)
-  * [`PropositionalLogic.lean`](./Notes/PropositionalLogic.lean): A variant of a
+  * [`PropositionalLogic`](./Notes/PropositionalLogic.lean): A variant of a
     Hilbert system for intuitionistic propositional logic.
 * Documentation: [`docs`](./docs)
   * English: [`en`](./docs/en)
