@@ -329,7 +329,7 @@ def ax01 {φ ψ : Wff PropVar} : ⊢ φ → ψ → φ :=
   impI andEL
 
 /-- The second axiom. -/
-def ax02 {φ ψ r : Wff PropVar} : ⊢ (φ → ψ → r) → ((φ → ψ) → (φ → r)) :=
+def ax02 {φ ψ χ : Wff PropVar} : ⊢ (φ → ψ → χ) → ((φ → ψ) → (φ → χ)) :=
   impI <| impI <|
     impED
       (impED (syl andEL andEL) andER)
