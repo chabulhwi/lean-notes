@@ -64,6 +64,7 @@ def Iff (φ ψ : Wff PropVar) : Wff PropVar :=
 
 infixr:20 " ↔ " => Iff
 
+set_option linter.defProp false in
 /-- The canonical translation from well-formed formulas to propositions with respect to a
 translation of propositional variables into propositions. -/
 def toProp (trans : PropVar → Prop) : Wff PropVar → Prop
@@ -347,6 +348,7 @@ def ax04 {φ ψ : Wff PropVar} : ⊢ ¬φ → (φ → ψ) :=
 ## Translation of provable well-formed formulas into propositions
 -/
 
+set_option linter.defProp false in
 /-- Every proposition translated from a provable well-formed formula is true in Lean's dependent
 type theory. -/
 def toProp {PropVar : Type} {φ : Wff PropVar} {trans : PropVar → Prop} (d : ⊢ φ) : φ.toProp trans :=
