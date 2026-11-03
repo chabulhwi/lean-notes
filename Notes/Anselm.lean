@@ -3,8 +3,10 @@ Copyright (c) 2024 Bulhwi Cha. All rights reserved.
 Released under Apache 2.0 license as described in the file LICENSE.
 Authors: Bulhwi Cha
 -/
-import Mathlib.Data.Int.Basic
-import Mathlib.Order.Bounds.Basic
+module
+
+public import Mathlib.Data.Int.Basic
+public import Mathlib.Order.Bounds.Basic
 
 /-!
 # St. Anselm's ontological argument

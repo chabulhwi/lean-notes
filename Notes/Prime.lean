@@ -3,7 +3,9 @@ Copyright (c) 2025 Bulhwi Cha. All rights reserved.
 Released under Apache 2.0 license as described in the file LICENSE.
 Authors: Bulhwi Cha
 -/
-import Mathlib.Data.Nat.Prime.Defs
+module
+
+public import Mathlib.Data.Nat.Prime.Defs
 
 namespace Nat
 
