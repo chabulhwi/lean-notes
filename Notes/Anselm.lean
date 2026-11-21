@@ -102,7 +102,7 @@ section PartialOrder
 
 variable {α : Type u} [PartialOrder α]
 
-theorem IsGreatest.property {x : α} {p q : α → Prop} (hgst : IsGreatest p x)
+theorem IsGreatest.property {x : α} {p q : α → Prop} (hgst : IsGreatest {x | p x} x)
     (hlt : ∀ {y : α}, ¬q x → q y → x < y) (hex : ∃ (y : α), p y ∧ q y) : q x := by
   have hnnq : ¬¬q x := by
     intro hnq
@@ -130,7 +130,8 @@ class Anselm (Being : Type u) extends PartialOrder Being where
   InReality : Being → Prop
   lt_of_inUnderstanding_not_inReality_inReality {x y : Being} : InUnderstanding x → ¬InReality x →
     InReality y → x < y
-  inUnderstanding_of_isGreatest_conceivable {x : Being} : IsGreatest Conceivable x → InUnderstanding x
+  inUnderstanding_of_isGreatest_conceivable {x : Being} : IsGreatest {x | Conceivable x} x →
+    InUnderstanding x
   exists_conceivable_and_inReality : ∃ (x : Being), Conceivable x ∧ InReality x
 
 namespace Anselm
@@ -140,11 +141,11 @@ section
 variable {Being : Type u} [Anselm Being]
 
 /-- God is a greatest being that can be conceived. -/
-def IsGod (x : Being) := IsGreatest Conceivable x
+def IsGod (x : Being) := IsGreatest {x | Conceivable x} x
 
 /-- God is unique, which means that no two different beings are God. -/
 theorem IsGod.unique {x y : Being} : IsGod x → IsGod y → x = y :=
-  IsGreatest.unique (s := Conceivable)
+  IsGreatest.unique (s := {x | Conceivable x})
 
 /-- If a being is God, it exists in the understanding. -/
 theorem IsGod.inUnderstanding {x : Being} : IsGod x → InUnderstanding x :=
